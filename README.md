@@ -133,31 +133,46 @@ Total: **68%**
 
 ---
 
-## 🖱️ Como Executar
+## 🚀 Como Executar
+
+### Ativar ambiente virtual (PowerShell)
+```powershell
+.\venv\Scripts\Activate.ps1
+````
+
+### Instalar dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+### Rodar pipeline completa
+
+```bash
+python executa_tudo.py
+```
+
+### Iniciar API local (FastAPI)
 
 ```powershell
-# Ativar ambiente virtual
-.\venv\Scripts\Activate.ps1
-
-# Instalar dependências
-pip install -r requirements.txt
-
-# Rodar pipeline completa
-python executa_tudo.py
-
-# Iniciar API local
+$env:PYTHONPATH="."
 uvicorn app.main:app --reload
+```
 
-# Abrir interface de revisão
+Acesse a API em: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+### Abrir interface de revisão (Streamlit)
+
+```bash
 streamlit run streamlit_apps/central_pipeline.py
 ```
 
-Ou use os atalhos `.bat`:
+### Ou use os atalhos `.bat`:
 
-- `inicia_painel_central.bat`
-- `inicia_revisor.bat`
+* `inicia_painel_central.bat` — Inicia a interface central
+* `inicia_revisor.bat` — Inicia o módulo revisor
 
----
+---  
 
 ## 📚 Documentação complementar
 
