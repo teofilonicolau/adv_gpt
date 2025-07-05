@@ -1,0 +1,684 @@
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 1 de 15
+Ofício-Circular Conjunto nº 8 /DIRAT/DIRBEN/INSS
+Em 5 de julho de 2019.
+Aos Superintendentes-Regionais, Gerentes-Executivos, Gerentes das Agências da Previdência
+Social – APS, Chefes de Divisão/Serviço/Seção de Atendimento, Chefes de Divisão de Gestão
+de Benefícios, Chefes de Divisão/Serviço de Benefícios e demais servidores.
+Assunto: Alterações do fluxo de requerimento dos serviços de cópia de processo, recurso,
+revisão, manutenção de benefícios, reconhecimento inicial de direitos (benefícios) e CTC,
+serviços de Acordos Internacionais e outros.
+1.
+Considerando o Decreto nº 8.539, de 8 de outubro de 2015, que dispõe sobre o
+uso de meio eletrônico para realização do processo administrativo no âmbito dos órgãos e das
+entidades da Administração Pública Federal direta, autárquica e fundacional, o Decreto nº 9.094,
+de 17 de julho 2017, que dispõe sobre a simplificação do atendimento prestado aos usuários dos
+serviços públicos, a Portaria Interinstitucional nº 04/SPREV/SGD/INSS/ DATAPREV, de 10 de
+abril de 2019, que Institui Comitê Estratégico e Grupo de Trabalho Interinstitucional para
+implementação da Transformação Digital no âmbito do INSS, e a Portaria nº 20/DIRBEN/INSS,
+de 17 de maio de 2018, que disciplina o requerimento eletrônico no âmbito do INSS, dá-se
+continuidade à transformação digital sob a égide desta autarquia.
+2.
+Observado o artigo 667-A da Instrução Normativa nº 77 PRES/INSS, de 21 de
+janeiro de 2015, o qual constituiu o “Meu INSS” como principal canal de oferta de serviços e
+extratos ao usuário, em 13/05/2019, o requerimento dos seguintes serviços passou a ser efetuado
+através dos canais remotos:
+a)
+Cópia de processos;
+b)
+Revisão;
+c)
+Recurso;
+d)
+Recurso de benefício por incapacidade;
+e)
+Recurso de seguro defeso.
+3.
+Desde 29/05/2019, o requerimento dos seguintes serviços passou a ser efetuado
+através dos canais remotos:
+a)
+Alteração de forma de pagamento;
+b)
+Atualização de dados cadastrais do beneficiário;
+c)
+Atualização de dados de Imposto de Renda - Retificação da DIRF;
+d)
+Atualização de dependentes para Imposto de Renda;
+e)
+Atualização de Imposto de Renda para Declaração de Saída Definitiva do
+País;
+f)
+Bloqueio/desbloqueio de benefício para empréstimo;
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 2 de 15
+g)
+Cadastrar Declaração de Cárcere/Reclusão;
+h)
+Cadastrar ou atualizar dependentes para Salário-família;
+i)
+Cadastrar ou Renovar Procuração;
+j)
+Cadastrar ou Renovar Representante legal;
+k)
+Cadastrar Pensão Alimentícia;
+l)
+Certidão de Inexistência de Dependentes Habilitados à Pensão por Morte;
+m)
+Certidão para saque de PIS/PASEP/FGTS;
+n)
+Cessação de benefício por óbito;
+o)
+Desistência de Benefício;
+p)
+Exclusão de desconto de mensalidade associativa/sindicato em benefício
+previdenciário;
+q)
+Reativar benefício;
+r)
+Reativar Benefício Assistencial suspenso por inclusão no mercado de
+trabalho;
+s)
+Solicitação de exclusão de empréstimo consignado;
+t)
+Solicitar Pagamento de Benefício não Recebido;
+u)
+Solicitar Valor não Recebido até a Data do Óbito do Beneficiário;
+v)
+Suspender o Benefício Assistencial à Pessoa com Deficiência para
+inclusão no mercado de trabalho;
+w)
+Transferir Benefício para outra Agência da Previdência Social.
+4,
+Desde 13/06/2019, a Aposentadoria por Tempo de Contribuição passou a utilizar
+o modelo de requerimento eletrônico e o processamento automático em todos canais de
+atendimento, devendo ser observado:
+4.1. Os estoques de agendamentos pré-existentes deverão ser protocolados
+diretamente no GET, utilizando-se do serviço “Aposentadoria por Tempo de Contribuição”
+(código 2792), com recolhimento da documentação pertinente. Esse procedimento visa evitar o
+processamento automático sem a devida migração da data de entrada do requerimento - DER.
+4.2. Nas situações excepcionais em que não for possível a solicitação pelos canais
+remotos, e não houver agendamento pré-existente, os novos requerimentos de Aposentadoria por
+Tempo de Contribuição deverão ser inseridos via SAG, selecionando-se o serviço
+“Aposentadoria por Tempo de Contribuição - B42”, código 3372, do tipo “atendimento a
+distância”.
+5.
+Desde 19/06/2019, o requerimento dos seguintes benefícios e de CTC passa a ser
+efetuado pelos canais remotos:
+a)
+Aposentadoria da Pessoa com Deficiência por Idade;
+b)
+Aposentadoria da Pessoa com Deficiência por Tempo de Contribuição;
+c)
+Aposentadoria por Idade Rural;
+d)
+Aposentadoria por Tempo de Contribuição;
+e)
+Certidão de Tempo de Contribuição;
+f)
+Pecúlio;
+g)
+Benefício Assistencial à Pessoa Com Deficiência;
+h)
+Benefício Assistencial à Pessoa Com Deficiência - Microcefalia;
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 3 de 15
+i)
+Benefício Assistencial ao Idoso;
+j)
+Benefício Assistencial ao Trabalhador Portuário Avulso;
+k)
+Aeronauta Gestante - Auxílio-Doença;
+l)
+Auxílio-Reclusão Urbano;
+m)
+Auxílio-Reclusão Rural;
+n)
+Pensão por Morte Rural;
+o)
+Pensão por Morte Urbana;
+p)
+Salário Maternidade Rural.
+6.
+A partir de 10/07/2019, o requerimento dos seguintes serviços de Acordo
+Internacional e outros passa a ser efetuado pelos canais remotos:
+a)
+Acordo Internacional – Aposentadoria Por Idade Rural
+b)
+Acordo internacional – Aposentadoria por Idade urbana
+c)
+Acordo Internacional – Aposentadoria por Tempo de Contribuição
+d)
+Acordo Internacional – Pensão por Morte Rural
+e)
+Acordo Internacional – Pensão por Morte Urbana
+f)
+Acordo Internacional – Salário-Maternidade
+g)
+Acordo Internacional – Revisão
+h)
+Acordo Internacional – Recurso
+i)
+Acordo Internacional -  Atualização de Atestado de Vida
+j)
+Acordo Internacional -  Atualização de Dados Cadastrais e/ou Bancários
+k)
+Acordo Internacional -  Atualização de Dados de Imposto de Renda
+l)
+Acordo Internacional – Reativação de Benefício
+m)
+Acordo Internacional – Transferência de Benefício em Manutenção
+n)
+Acordo Internacional – Regularização de Pagamentos em Atraso
+o)
+Acordo Internacional – Benefício Exclusivo do País Acordante
+p)
+Acordo Internacional – Certificado de Deslocamento Temporário Inicial
+q)
+Acordo Internacional – Certificado de Prorrogação de Deslocamento
+Temporário
+r)
+Acordo Internacional – Histórico de Seguro em País Acordante
+s)
+Acordo Internacional – Retificação de Deslocamento Temporário
+t)
+Cálculo de Contribuição em Atraso, Emissão e/ou Cálculo de Gps
+u)
+Inscrição Junto À Previdência Social
+v)
+Reemitir Parcelas – Seguro Defeso
+w)
+Seguro Defeso – Pescador Artesanal
+x)
+Validação Facultativo Baixa Renda
+y)
+Requerimento de Antecipação de Pagamento da Revisão do Art. 29
+z)
+Marcação ou Remarcação de Pp, Pr, Hospitalar e Domiciliar
+aa)
+CAT, Acréscimo 25%, Isenção de IR e Auxílio-Acidente
+bb)
+Atualização de Dados Cadastrais
+7.
+Nos requerimentos remotos, o preenchimento das informações corresponde à
+formalização do pedido e observará o fluxo de requerimento eletrônico.
+7.1. A autenticação por meio de login e senha, ou confirmação dos dados através
+da Central 135, constitui a assinatura eletrônica do usuário, formalizando o requerimento
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 4 de 15
+eletrônico e a manifestação de vontade, nos termos da Portaria nº 20/2018 - DIRBEN/INSS,
+sendo dispensada a juntada de outros formulários para fins de requerimento.
+7.1.1. As respostas prestadas quando da solicitação substituem os formulários,
+sendo vedada emissão de exigência com essa finalidade, exceto para os requerimentos dos
+serviços de Acordo Internacional.
+7.2. Nos requerimentos realizados por meio da Central 135, quando o usuário
+informar que possui documentos para apresentar, será cientificado de que essa solicitação de
+apresentação de documentos será feita quando a tarefa for analisada, se necessário.
+7.3. Se o usuário comparecer na Agência da Previdência Social - APS, para
+requerer quaisquer dos serviços relacionados neste Ofício, deverá ser emitido o código de acesso
+do “Meu INSS”, caso ainda não o tenha, sendo cientificado de que o requerimento deve ser
+realizado por meio do “Meu INSS” ou da Central 135.
+8.
+Não sendo possível realizar o requerimento, em razão de divergência cadastral
+que impeça a emissão da senha do “Meu INSS” ou identificação junto à Central 135, o usuário
+será encaminhado à APS. A unidade deverá efetuar a atualização do cadastro sem prévio
+agendamento, por meio do serviço não-agendável de “Atualização cadastral para emissão de
+Senha do “Meu INSS”, e, logo em seguida, emitir a senha do “Meu INSS”.
+9.
+O requerimento possuirá campo específico para inserção de CPF do Procurador
+ou Representante Legal, caso estes sejam indicados durante a solicitação. A inserção da
+informação dos mesmos pelo servidor no GET e demais sistemas de benefício, somente deverá
+ser realizada após entrega da documentação pertinente.
+9.1. Caberá ao servidor responsável pela tarefa a solicitação dos documentos
+pessoais do Procurador ou Representante Legal, procuração ou documentos que comprovem o
+vínculo do representante legal, inclusive para assinatura do termo de responsabilidade. Essa
+solicitação será feita por meio de carta de exigência emitida na fase de análise.
+9.1.1. A apresentação de documentação comprobatória do Procurador ou
+Representante Legal será obrigatória nos casos de solicitação de Recurso, contudo sua ausência
+não impede o encaminhamento do processo ao Conselho de Recursos da Previdência Social.
+9.1.2. Até que o sistema GET seja adequado, os dados do Procurador ou do
+Representante Legal deverão ser lançados nos campos “Procurador/Representante Legal” e
+“Interessado”, simultaneamente, viabilizando o acompanhamento do processo via “Meu INSS”.
+9.2. Para análise quanto aos requisitos referentes à procuração, o servidor deverá
+observar o disposto na Instrução Normativa n.º 77/2015.
+9.3. Salientamos que para a emissão de senha do “Meu INSS” solicitada por
+procurador ou representante legal é necessária sua identificação e procuração, ou documento
+equivalente para o representante legal, apresentados previamente ao INSS.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 5 de 15
+10.
+O rol específico de documentos referentes a cada serviço está disponível para
+consulta na Carta de Serviços ao cidadão e nos canais de atendimento remoto e serão solicitados
+somente se necessário, no momento da análise, sendo vedada exigência prévia no protocolo.
+10.1. Para fins de análise das tarefas criadas pelo “Meu INSS” e Central 135, não
+se faz necessária a apresentação do documento de identificação, salvo quando necessário realizar
+alteração de tais dados no sistema, tendo em vista que o usuário já foi identificado ao receber a
+senha do “Meu INSS” ou ao confirmar os dados cadastrais no 135. Nos casos relacionados no
+item 16, fica dispensada também a anexação de documentos de identificação no ato do
+requerimento.
+10.1.1. A apresentação de documentos de identificação será necessária somente
+quando for preciso corrigir dados da identificação do cidadão no sistema e não for possível obtê-
+los nas bases governamentais.
+10.2. Os endereços para acesso às bases governamentais, que contêm informações
+que deverão ser utilizadas para subsidiar a análise, estarão disponíveis na INTRAPREV.
+10.2.1. Quando algum dado ou informação for indispensável ao processamento
+do benefício ou do serviço e não puder ser obtido através de consulta às bases de dados
+governamentais, o usuário deverá ser convocado a apresentar os documentos em uma Agência da
+Previdência Social, mediante agendamento prévio de “Cumprimento de exigências”.
+10.3. Quando houver solicitação de documentos, o status da tarefa deverá ser
+alterado para “exigência”. Nos casos em que o usuário não autorizar a comunicação por meio
+eletrônico, nem optar pelo acompanhamento remoto, ou inexistir informação do e-mail de
+correspondência do cidadão, deverá ser enviada correspondência para o endereço informado no
+requerimento. Poderá ser utilizado contato telefônico quando não for possível envio de
+correspondência por endereço insuficiente. Para este caso, deverá ser feita anotação na forma de
+despacho no GET informando a data e horário do contato, nos termos do art. 665, §5º, da IN 77.
+10.4. Quando os dados cadastrais apresentados pelo usuário divergirem dos
+constantes nas bases de dados governamentais, deverá ser exigido do usuário que corrija as
+informações junto à fonte de origem. Exemplo: se houver divergência de dados cadastrais quanto
+ao CPF, o usuário será orientado a atualizar seus dados junto à Receita Federal na forma de
+exigência.
+11.
+Os prazos para conclusão das tarefas são aqueles constantes no catálogo de
+serviços do SAG Gestão e utilizados como referência pelo GET para cálculo do vencimento das
+mesmas.
+12.
+O servidor responsável pela análise da tarefa deverá observar todos os campos
+preenchidos pelo usuário quando da solicitação do requerimento, com o objetivo de extrair as
+informações necessárias à análise do pleito.
+12.1 As informações disponíveis nos campos adicionais da tarefa devem ser
+consideradas como válidas e devem ser analisadas quanto à necessidade ou não de se solicitar
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 6 de 15
+documentos complementares, observado o item 10.
+12.2. Na fase de análise da tarefa, identificado que o requerimento não tenha sido
+cadastrado como de Acordo Internacional e que possua período de trabalho exercido no exterior
+em país acordante, esta deverá ser transferida pelo servidor responsável para a APSAI
+competente, com despacho de encaminhamento, sendo dispensada à APS realizar a exigência
+dos formulários de solicitação.
+13.
+O usuário deverá acompanhar o andamento de sua solicitação através dos canais
+remotos, sendo totalmente dispensado seu comparecimento na APS, exceto se solicitado pelo
+INSS por meio de exigência.
+14.
+Os agendamentos já existentes terão seu atendimento presencial garantido:
+14.1 Quando do comparecimento do cidadão, o atendente da triagem deverá
+imprimir o comprovante de agendamento, caso o usuário não o apresente. O servidor responsável
+deverá preencher o formulário de requerimento do respectivo serviço no SAT Central, colher a
+assinatura do cidadão e digitalizá-lo juntamente com o comprovante de agendamento e demais
+documentos pertinentes para análise. O requerimento à distância deverá ser protocolado via
+SAG, no qual os referidos documentos serão anexados e autenticados, se necessários. Sendo
+assim, os requerimentos provenientes de agendamentos remanescentes, exceto os de
+Aposentadoria por Tempo de Contribuição, deverão ser realizados exclusivamente pelo SAG
+Intranet.
+14.1.1. Nas unidades que utilizam o upload assíncrono, os documentos poderão
+ser anexados e autenticados via SAT, após a criação da tarefa no SAG.
+14.2. No comprovante do atendimento a distância do SAG, o usuário declarará
+ciência de que as respostas aos questionamentos feitos no protocolo serão consideradas para
+análise do seu pedido.
+15.
+Em obediência a ACP nº 0026178-78.2015.4.01.3400, os advogados terão seu
+protocolo realizado presencialmente, sem agendamento prévio, sendo as tarefas criadas
+exclusivamente pelo SAG intranet e analisadas conforme fila da unidade.
+16.
+Nas situações específicas em que o usuário não tenha condições de efetuar a
+solicitação via canal remoto, o atendente deverá realizar o protocolo da tarefa no SAG (www-
+agendamento). Nestes casos, deverá ser emitida a senha “Protocolo de requerimento” (código
+4658) e observado o fluxo de requerimento eletrônico, sendo que, conforme Portaria Conjunta nº
+20/DIRBEN/INSS, de 17/05/2018, a criação da tarefa constitui o requerimento e manifestação de
+vontade, não sendo necessária assinatura de requerimento pelo usuário. O comprovante do
+cadastramento do atendimento à distância no SAG deverá ser impresso e fornecido ao cidadão.
+17.
+Deverão ser observados os procedimentos abaixo para formalização da
+solicitação do usuário e análise das tarefas de cópia de processos, revisão, recurso, recurso
+de benefício por incapacidade e recurso de seguro defeso.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 7 de 15
+18.
+Cópia de Processo:
+18.1. Se o processo for digital e já tiver sido protocolado no GET, este estará
+disponível para a consulta do usuário. Assim, a unidade que recebeu a solicitação deverá
+concluir a tarefa informando a disponibilidade do processo solicitado no “Meu INSS”.
+18.2. Se o processo for digital, estando em outra plataforma, como SAPD, E-
+tarefas, Sapiens, E-recursos, e não estiver disponível para a consulta do usuário no GET, a
+unidade que recebeu a solicitação deverá anexar o processo à tarefa. Após, a tarefa deverá ser
+concluída.
+18.3. Se o processo for físico e estiver disponível na unidade, deverá ser
+digitalizado e anexado à tarefa do requerimento do serviço. Após, a tarefa deverá ser concluída.
+18.4. Se o processo físico estiver localizado em outra unidade, deverá ser
+transferida a tarefa para a unidade detentora do processo, para digitalizar, anexar e concluir a
+tarefa.
+18.5. Nos casos em que o processo estiver arquivado no CEDOCPREV, deverá ser
+realizada Requisição de Documentos Arquivados – RDA no SIPPS, ficando a unidade
+mantenedora responsável por incluir o processo no GET.
+18.6. Caso a tarefa tenha sido criada via Central 135, deverá ser comunicado ao
+usuário que o acompanhamento da solicitação do processo deverá ser feito por meio do “Meu
+INSS”.
+18.7. Em se tratando de demanda de natureza judicial, a APSADJ/AADJ deverá
+observar se o processo já se encontra disponível no GET, ficando vedada a criação ou
+encaminhamento de tarefa para APS mantenedora ou CEDOCPREV.
+18.7.1. Caso o processo não esteja disponível no GET, observar os
+procedimentos previstos no art. 8º, I, da Portaria Conjunta nº 83, de 4 de Junho de 2012 e
+Memorando-Circular Conjunto nº 51 /DIRAT/DIROFL/PFE/INSS, de 21 de novembro de 2014.
+18.8. O disposto neste normativo se aplica à solicitação de cópias de processo de
+benefícios por incapacidade. Neste caso, o processo deverá ser anexado ao GET, exceto os
+laudos médicos, os quais deverão ser retirados presencialmente, mediante agendamento do
+serviço “Cópia de laudos médicos”, em qualquer APS.
+18.8.1. O servidor responsável, ao concluir a tarefa, deverá inserir no despacho
+conclusivo a informação de que, caso o segurado assim o deseje, os laudos médicos poderão ser
+obtidos presencialmente na unidade do INSS, mediante agendamento do serviço de “Cópia de
+laudos médicos”.
+18.8.2. Caso o usuário deseje exclusivamente cópia de laudos médicos, deverá
+ser atendido mediante agendamento do serviço “Cópia de laudos médicos”.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 8 de 15
+18.9. Os advogados terão acesso às cópias de processos, independente de
+procuração, exceto em caso de sigilo. Para tanto a solicitação deverá ser feita na APS e a tarefa
+incluída no GET, registrando o titular e o advogado como interessados, para que seja possível o
+acompanhamento remoto da solicitação.
+18.10. Quando a solicitação de cópia for efetuada por dependente de titular
+falecido, o requerimento deverá ser feito no login do dependente e informado o NB do
+instituidor. No sistema, o solicitante indicará qual a relação de dependência com a pessoa
+falecida. Na análise, o servidor deverá solicitar a documentação pertinente para respectiva
+comprovação.
+19.
+Revisão
+19.1. Quando necessário para análise do requerimento de revisão, o processo
+concessório deverá ser anexado à tarefa de revisão, observando-se que:
+19.1.1. Se o processo for digital e estiver disponível no GET, não será
+necessário anexá-lo à tarefa de revisão;
+19.1.2. Se o processo for digital e não estiver disponível no GET, deverá ser
+anexado à tarefa de revisão;
+19.1.3. Se o processo for físico e estiver disponível na unidade, deverá ser
+digitalizado e anexado à tarefa de revisão;
+19.1.4. Se o processo for físico e estiver localizado em outra unidade, deverá
+ser cadastrada subtarefa de cópia de processo, para a unidade detentora do processo, a fim de
+digitalizar e anexar. Após, a subtarefa deverá ser concluída para que a tarefa principal seja
+analisada pela unidade que recebeu a solicitação do usuário.
+19.1.5. Nos casos em que o processo estiver arquivado no CEDOCPREV,
+deverá ser realizada RDA ficando a unidade mantenedora responsável por incluir o processo no
+GET.
+19.2. Tratando-se de revisão sem apresentação de novos elementos, o servidor
+procederá a análise com os elementos constantes no processo original, sem a necessidade de
+novas diligências preliminares.
+19.3. Tratando-se de revisão com novos elementos e estes não tiverem sido
+anexados ao protocolo, no momento da análise deverá ser emitida exigência para apresentação
+que deverá ser cumprida em qualquer agência mediante agendamento prévio de “Cumprimento
+de Exigência” pelos canais remotos.
+19.4. Nos casos em que novos documentos tiverem sido anexados ao processo,
+deverão ser adotados os procedimentos relativos à análise da solicitação, conforme legislação
+vigente.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 9 de 15
+19.5. Para processos de benefício e Certidão de Tempo de Contribuição - CTC,
+não mantidos na unidade de solicitação da revisão, deverá ser realizada a transferência da tarefa
+para a unidade mantenedora do benefício ou CTC, para análise do requerimento de revisão.
+29.
+Recurso
+20.1. Quanto ao protocolo e análise das tarefas de recurso, recurso de benefício
+por incapacidade e recurso de seguro defeso, as unidades deverão observar:
+20.1.1. O protocolo do requerimento de recurso deverá ser baixado do GET,
+anexado e juntado no sistema de recursos.
+20.1.2. O processo originário não precisará ser anexado à tarefa, devendo ser
+inserido no próprio sistema de recursos.
+20.1.3. O número de protocolo do sistema de recursos e o canal para o
+acompanhamento do andamento do processo deverão ser registrados no GET. Após a realização
+dos procedimentos acima mencionados, a tarefa deverá ser concluída.
+20.1.4. A análise e os demais procedimentos, inclusive a apresentação de
+contrarrazões por parte do usuário, devem seguir os procedimentos já adotados no sistema de
+recursos, ficando vedada a utilização do GET para esse fim.
+20.1.5. O andamento do recurso deverá ser acompanhado no sistema de
+recursos (atualmente disponível pelo link https://consultaprocessos.inss.gov.br/), na aba
+“Consulta Processual”, utilizando-se a senha de acesso do “Meu INSS”.
+20.1.6. Nos processos de benefícios não mantidos na unidade de solicitação,
+deverá ser realizada a transferência da tarefa para a unidade mantenedora do benefício, para
+análise do requerimento de Recurso, sem necessidade de cadastramento prévio no sistema de
+recursos por parte da unidade protocolizadora.
+20.1.6.1. A verificação da unidade mantenedora deverá ser efetuada por
+meio da funcionalidade MOVCON, na opção “Dados Gerais” no Plenus CV3, item OL de
+Manutenção.
+20.2. Tratando-se de recurso em que o usuário informar que não deseja apresentar
+razões para embasar seu pedido, nem documentos diferentes daqueles já apresentados, o servidor
+procederá a reanálise com os elementos constantes no processo original, sem a necessidade de
+emissão de exigências preliminares.
+20.3. Tratando-se de recurso em que o usuário deseje apresentar razões para
+embasar seu pedido ou documentos diferentes daqueles já apresentados e estes não tiverem sido
+anexados ao requerimento, no momento da análise deverá ser emitida exigência, no sistema de
+recursos, a ser cumprida em qualquer agência mediante agendamento prévio de “Cumprimento
+de Exigência” pelos canais remotos.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 10 de 15
+20.4. Caso o usuário aponte que não concorda com a decisão do INSS por alguma
+das razões elencadas no campo adicional e que não deseja apresentar razões para embasar seu
+pedido, a informação será considerada como razão válida para fins de reanálise, não sendo
+necessária exigência por esse motivo.
+20.4.1. O disposto acima se aplica exclusivamente às razões, não sendo
+vedadas exigências complementares cuja necessidade seja identificada na análise.
+21.
+As novas tarefas de recurso e revisão serão criadas e transferidas automaticamente
+para a APS mantenedora, até que os sistemas sejam adequados, com a respectiva alteração
+normativa, para que os procedimentos sejam analisados e concluídos em qualquer unidade.
+22.
+Foram criados serviços com nome análogo para uso exclusivo de entidades
+conveniadas. Estes serviços não estarão vinculados à unidade de manutenção.
+23.
+Deverão ser observados os procedimentos abaixo para formalização da
+solicitação do usuário e análise das tarefas dos serviços dispostos no item 3 (manutenção de
+benefícios e cadastramento de Pensão Alimentícia), com vigência a partir de 29/05/2019.
+24.
+A operacionalização dos requerimentos de manutenção dispostos no item 3 deste
+ofício-circular conjunto deverá ser efetuada, conforme disponibilidade do serviço no SIBE PU
+(Processo único), como disposto no Memorando-Circular n.º 52 /DIRBEN/INSS, de 17 de
+dezembro de 2018.
+24.1. Os serviços que não estão disponíveis no SIBE PU devem ser realizados nos
+demais sistemas de benefícios.
+24.2. Nos casos em que o serviço não estiver disponível no SIBE PU e a tarefa
+tiver sido cadastrada em APS diferente da mantenedora do benefício, a tarefa deverá ser
+transferida para a APS mantenedora.
+24.2.1. O disposto acima se aplica exclusivamente nos casos em que o serviço
+não esteja disponível no SIBE PU.
+25.
+Quando o requerente solicitar Transferência de Benefício em Manutenção –
+TBM, a forma de pagamento deverá ser obrigatoriamente alterada para cartão magnético, não
+sendo permitida a opção por recebimento em conta corrente/poupança, conforme disciplinado no
+art. 3° da Portaria n° 20/2018, salvo decisão em juízo.
+26.
+O INSS somente poderá alterar a forma de pagamento de um benefício de conta
+corrente/poupança para cartão magnético.
+26.1. Caso o usuário queira alterar a forma de pagamento para receber em conta
+corrente/poupança, deverá fazer a solicitação diretamente na agência bancária de seu interesse.
+26.2. No caso de alteração de microrregião, a modalidade de pagamento também
+será cartão magnético.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 11 de 15
+27.
+Os serviços abaixo, do tipo tarefa, são de uso exclusivamente interno:
+a) Auditar pagamento (quando for necessária liberação superior para PAB);
+b) Alterar status de pagamento;
+c) Atualizar dados do instituidor e dependentes (RELAC/IUB); e
+d) Analisar solicitação de reclamação sobre glosa de empréstimo consignado.
+28.
+Regra geral as tarefas de manutenção serão criadas e transferidas
+automaticamente para a APS mantenedora, até que os sistemas sejam adequados para que os
+processos sejam analisados e concluídos em qualquer unidade, ressalvados os casos em que é
+necessário que o interessado escolha a unidade de destino, como por exemplo, “Transferir
+Benefício para outra Agência da Previdência Social”
+29.
+Para os serviços “Solicitar Pagamento de Benefício não Recebido” e “Solicitar
+Valor não Recebido até a Data do Óbito do Beneficiário”, em se tratando de pagamento de
+resíduos, o pagamento alternativo de benefício – PAB deverá ser emitido para o órgão pagador
+(OP) do município de residência do interessado.
+29.1. Quando não houver agência do Banco do Brasil no município de residência
+do interessado, comandar o PAB para o OP mais próximo da residência do interessado.
+30.
+Por se tratar de demanda Judicial, com prazo definido para cumprimento, as
+tarefas do serviço “Cadastrar Pensão Alimentícia” deverão ser monitoradas pelas Gerências
+Executivas e gestores das unidades, para que sejam atendidas dentro do prazo determinado em
+juízo.
+30.1. Quando o ofício vier diretamente para a APS, o servidor deverá digitalizá-lo,
+cadastrar a tarefa via SAG, anexar o documento e autenticá-lo, sendo dispensada a formalização
+de processo físico.
+30.2. Quando não constar dados suficientes para identificação do instituidor ou do
+beneficiário da pensão alimentícia no ofício, o servidor deverá solicitar informações
+complementares. Após o recebimento dos dados, a tarefa deverá ser cadastrada via SAG.
+31.
+Quando a solicitação de “Retificação da DIRF” for efetuada por dependente de
+titular falecido, o requerimento deverá ser feito no login do dependente/interessado e informado
+o NB do instituidor. No sistema, o solicitante indicará qual a relação de dependência com a
+pessoa falecida. Na análise, o servidor deverá solicitar a documentação pertinente para respectiva
+comprovação por meio de exigência a ser cumprida em qualquer agência mediante agendamento
+prévio de “Cumprimento de Exigência” pelos canais remotos.
+32.
+Nas situações excepcionais o serviço “Realizar Prova de Vida” permanece sendo
+agendado.
+33.
+Os serviços de cadastramento de procuração para entidades e contestação de Nexo
+Técnico Epidemiológico (NTEP) permanecem sendo atendidos sem agendamento prévio.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 12 de 15
+34.
+No requerimento dos serviços “Cadastrar ou Renovar Procuração”, “Cadastrar ou
+Renovar Representante Legal”, “Cadastrar Declaração de Cárcere/Reclusão e “Atualização de
+Dados Cadastrais do Beneficiário”, o interessado será informado de que será necessário agendar
+“Cumprimento de Exigência” para apresentar a documentação comprobatória para a
+representação.
+35.
+Para o serviço de “Cessação de benefício por óbito” a informação do óbito de
+beneficiário pode ser prestada por qualquer pessoa. Para lançamento dessa informação não é
+obrigatório login no “Meu INSS”, entretanto é necessária a identificação do usuário. No caso de
+denúncia anônima ou quando o cidadão não possui o NB do falecido, deverá formalizar
+manifestação na Ouvidoria.
+36.
+Os documentos e procedimentos necessários à análise das solicitações estarão
+disponíveis na aba “Transformação Digital”, na INTRAPREV, tópico “Procedimentos de
+Manutenção”.
+37.
+Deverão ser observados os procedimentos abaixo para formalização da
+solicitação do usuário e análise das tarefas dos serviços dispostos no item 5 (requerimento
+de benefícios e CTC), com vigência a partir de 19/06/2019:
+38.
+O primeiro pagamento do benefício, decorrente de requerimento eletrônico, será
+exclusivamente por meio de cartão magnético, conforme disciplinado no art. 3°. Da Portaria n°
+20/2018.
+38.1. Esse procedimento visa fornecer maior segurança ao fluxo, mediante a
+apresentação do cidadão perante o agente pagador para identificação e ratificação da
+manifestação de vontade.
+38.2. O recebimento em conta corrente/poupança não poderá ser cadastrado pelo
+INSS.
+38.2.1. Se o cidadão tiver interesse em receber os valores de seu benefício em
+conta corrente/poupança, deverá, após o recebimento do primeiro pagamento, fazer a solicitação
+diretamente na instituição bancária.
+39.
+Deverão ser observados os procedimentos abaixo para formalização da
+solicitação do usuário e análise das tarefas dos serviços dispostos no item 6 (Acordo
+Internacional e outros), com vigência a partir de 10/07/2019.
+39.1. Serviços de Acordo Internacional:
+39.1.1. Conforme Ofício-Circular n°. 34/DIRBEN/INSS  de 14 de junho de
+2019 é obrigatório o CPF para todos os requerimentos de benefícios no âmbito do Acordo
+Internacional.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 13 de 15
+39.1.2. As respostas prestadas no ato requerimento dos serviços de Acordo
+Internacional auxiliam na análise inicial, entretanto não substituem os formulários específicos
+desses serviços, sendo necessária a solicitação de exigência para a apresentação e assinatura dos
+formulários.
+39.1.3. Os serviços de “Acordo Internacional - Certificado de Deslocamento
+Temporário Inicial”, “Acordo Internacional - Certificado de Prorrogação de Deslocamento
+Temporário” e “Acordo Internacional - Retificação de Deslocamento Temporário” serão
+requeridos por meio do “Meu INSS”, sem login, tendo em vista que deverá ser realizado pelo
+empregador, no caso de empregado, ou pelo trabalhador por conta própria (contribuinte
+individual), quando expressamente previsto no Acordo Internacional de Previdência Social.
+39.1.4. A documentação originária do Exterior que se refira aos Acordos
+Internacionais de Previdência Social, recebida pelas APS Convencionais, deverá ser enviada via
+SIPPS ou sistema de protocolo físico vigente para ser tratada pela APSAI responsável, sem
+necessidade da criação de requerimento no SAG Intranet.
+39.1.5. Quando do cumprimento de exigência, todos os formulários originais
+referentes aos serviços de Acordo Internacional de Previdência Social apresentados nas APS
+deverão ser digitalizados, anexados e autenticados no sistema GET. Em seguida, os documentos
+deverão ser encaminhados via SIPPS ou sistema de protocolo físico vigente, para a APSAI
+competente e informado na tarefa do GET o número do comando do protocolo.
+39.1.6. O encaminhamento dos documentos originais é obrigatório, tendo em
+vista as exigências formais previstas nos Acordos Internacionais de Previdência Social.
+39.1.7. Os serviços de Acordos Internacionais de Previdência Social serão
+requeridos para a APS de escolha do cidadão e transferidos automaticamente para a Coordenação
+de Acordos Internacionais. Portanto, caberá ao  SEAT/SERAT configurar a transferência
+automática dos serviços para a UO 0150012 até o dia 09/07/2019.
+39.2. Outros Serviços:
+39.2.1. Os serviços “Solicitação de Acréscimo de 25%”, “Solicitação de
+Isenção de IR”, “Solicitação de Auxílio Acidente” e “Solicitação de Perícia Hospitalar ou
+Domiciliar” serão desmembrados do serviço original, sendo  criados novos serviços do tipo
+“tarefa”.
+39.2.1.1. Quando do requerimento do serviço de “Solicitação de Perícia
+Hospitalar ou Domiciliar” o cidadão será notificado que deverá comparecer à APS em até dois
+dias da data da perícia médica agendada, sem prévio agendamento, para a apresentação dos
+documentos médicos comprovando a internação ou restrição ao leito.
+39.2.1.2. No requerimento do serviço de “Solicitação de Isenção de Imposto
+de Renda” o interessado será informado que deverá agendar “Cumprimento de Exigência” para
+apresentar a documentação médica comprobatória para a isenção do imposto de renda.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 14 de 15
+39.2.2. Os serviços que não foram desmembrados e nem convertidos em tipo
+“tarefa” mantêm o fluxo já utilizado na unidade.
+39.2.3. Os serviços de “Cálculo de Contribuição em atraso, Emissão e/ou
+Cálculo de GPS”, “Inscrição junto à Previdência Social” e “Comunicado de Acidente de
+Trabalho - CAT” terão seus links disponibilizados no “Meu INSS”.
+39.2.4. Os serviços de “Requerimento de Antecipação de Pagamento da
+Revisão do Artigo 29”, “Reemitir Parcelas - Seguro Defeso”, “Seguro Defeso - Pescador
+Artesanal”, “Validação Facultativo Baixa Renda” e “Atualização de Dados Cadastrais” estarão
+disponíveis exclusivamente para atendimento a distância.
+40.
+Os atos normativos contrários a este Ofício-Circular Conjunto expedidos pelas
+Superintendências Regionais e Gerências Executivas deverão ser revogados pelos respectivos
+emitentes.
+41.
+Ficam alterados:
+a) o item 1.1, alínea f, do Memorando-Circular nº 72 INSS/DIRBEN, de 13 de
+novembro de 2006, que passa a vigorar com a seguinte redação:
+f) assinatura do recorrente, atentando-se para os casos de requerimento no
+SABI via canal remoto e no requerimento eletrônico, visto que estes serão
+assinados eletronicamente.
+b) O item 2.2., alínea a do Memorando-Circular nº 72 INSS/DIRBEN, de 13 de
+novembro de 2006, deve ser utilizada a informação prestada pelo usuário quanto à existência de
+ação judicial de mesmo objeto, que passa a vigorar a seguinte redação:
+a) se o interessado declarou no ato do requerimento que propôs ação judicial
+com o mesmo objeto do recurso, sendo a informação válida.
+42.
+Revogam-se os seguintes normativos:
+a)
+Ofício-Circular Conjunto nº 7 /DIRAT/DIRBEN/INSS de 12 de junho de
+2019;
+b)
+O
+item
+“a”
+do
+Memorando-Circular
+Conjunto
+22
+/DIRBEN/DIRSAT/DIRAT/INSS de 29 de outubro de 2018;
+c)
+O
+item
+2.3
+Memorando-Circular
+Conjunto
+24
+/DIRSAT
+/DIRBEN/DIRAT/INSS de 30 de maio de 2016;
+d)
+O
+item
+5
+do
+Memorando
+Circular
+Conjunto
+11
+/DIRBEN/DIRAT/DIROFL/ INSS  de 28 de janeiro de 2016.
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+Página 15 de 15
+43.
+Solicitamos ampla divulgação junto aos servidores.
+Atenciosamente,
+CLÓVIS DE CASTRO JÚNIOR
+Diretor de Atendimento
+MARCIA ELIZA DE SOUZA
+Diretora de Benefício

@@ -1,0 +1,2193 @@
+Justiça Federal da 5ª Região
+PJe - Processo Judicial Eletrônico
+Número: 0007675-24.2024.4.05.8107
+Classe: PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL
+Órgão julgador: 25ª Vara Federal CE
+Última distribuição : 13/12/2024
+Valor da causa: R$ 19.768,00
+Assuntos: Restabelecimento
+Segredo de justiça? NÃO
+Justiça gratuita? SIM
+Pedido de liminar ou antecipação de tutela? NÃO
+Partes Procurador/Terceiro vinculado
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE (AUTOR) RIAN DE SOUSA NICOLAU (ADVOGADO) INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS (REU)
+CEAB-DJ INSS (ÓRGÃO DE CUMPRIMENTO)
+Documentos
+Id. Data da
+AssinaturaDocumento Tipo 58832
+70313/12/2024 17:10 Petição inicial Petição inicial 58832
+15/06/2025
+70413/12/2024 17:10 00 - AÇÃO DE RESTABELECIMENTO DE AUX.
+DOENÇA - FRANCISCO DAS CHAGAS JOSINO
+ALEXANDRE
+58832
+70513/12/2024 17:10 01 - PROCURAÇÃO, DECL. DE
+HIPOSSUFICIÊNCIA E DECL. DE RENUNCIA
+58832
+Petição (outras) Outros Documentos
+70713/12/2024 17:10 02 - IDENTIDADE E CPF REQUERENTE Documento de Identificação 58832
+71013/12/2024 17:10 03 - CTPS Documento de Identificação 58832
+71213/12/2024 17:10 04 - COMPROVANTE DE ENDEREÇO EM NOME
+DA COMPANHEIRA
+58832
+Documento de Identificação
+71413/12/2024 17:10 04.1 - IDENTIDADE E CPF COMPANHEIRA Documento de Identificação 58832
+71613/12/2024 17:10 04.2 - DECLARAÇÃO DE RESIDÊNCIA Documento de Identificação 58832
+71913/12/2024 17:10 05 - CNIS Documento de Identificação 58832
+72013/12/2024 17:10 06 - LAUDOS MÉDICOS 2022-2024 Documento Comprobatório 58832
+72113/12/2024 17:10 07 - PROTOCOLO REQUERIMENTO PERICIA
+MEDICA - PP
+58832
+72213/12/2024 17:10 08 - RESULTADO PERICIA MEDICA PP - NB
+645.809.898-0
+59151
+12617/12/2024 21:37 Certidão de Ocorrências - 0007675-
+24.2024.4.05.8107 (certifica_novo)
+60402
+Documento Comprobatório Documento Comprobatório Documento Comprobatório
+28915/01/2025 11:42 Citação Citação 61809
+48004/02/2025 14:19 Ato Ordinatório Ato Ordinatório 61812
+34204/02/2025 14:24 Certidão de nomeação: 20250200113326 Certidão 61812
+34404/02/2025 14:24 Intimação Intimação 61909
+86005/02/2025 11:06 QUESITOS PARA A PERICIA MEDICA Outras peças
+62039
+14506/02/2025 11:25 P_PETIÇÃO (OUTRAS)_1845856790 EM 06/02/2025
+11:25:09
+62039
+14606/02/2025 11:25 A_LAUDO MÉDICO_1845866965 EM 06/02/2025
+11:25:13
+62039
+14706/02/2025 11:25 A_DOSSIÊ PREVIDENCIÁRIO_1845867033 EM
+06/02/2025 11:25:15
+62039
+14806/02/2025 11:25 A_DOSSIÊ PAP GET INSS_1845867094 EM
+06/02/2025 11:25:18
+62039
+14906/02/2025 11:25 A_DOSSIÊ SOCIAL_1845867139 EM 06/02/2025
+11:25:23
+62039
+15006/02/2025 11:25 A_DOSSIÊ SOCIAL_1845867140 EM 06/02/2025
+11:25:27
+62787
+Petição (outras) Petição (outras) Petição (outras) Petição (outras) Petição (outras) Petição (outras)
+16713/02/2025 16:53 JUNTADA DE NOVO ATESTADO MEDICO Petição (outras) 62787
+16813/02/2025 16:53 ATESTADO MEDICO 12-02-2025 Documento Comprobatório 65930
+98425/03/2025 11:30 Laudo Pericial Laudo Pericial 65930
+98525/03/2025 11:30 0007675-24.2024.4.05.8107 FRANCISCO DAS
+CHAGAS JOSINO ALEXANDRE (AD)
+66059
+Laudo Pericial
+47926/03/2025 12:13 Ofício de pagamento: 20250300317229 Ofício (Outros) 66064
+85526/03/2025 12:33 Intimação Intimação 66787
+33403/04/2025 07:25 Contestação Contestação
+PETIÇÃO EM FORMATO PDF.
+Num. 58832703 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091638500000072063090
+Número do documento: 24121317091638500000072063090
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ FEDERAL DO JUIZADO  ESPECIAL FEDERAL ADJUNTO À 25ª VARA FEDERAL DA SUBSEÇÃO  JUDICIÁRIA DE IGUATU, SEÇÃO JUDICIÁRIA DO CEARÁ.
+AÇÃO DE RESTABELECIMENTO DE AUXÍLIO POR INCAPACIDADE  TEMPORÁRIA
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE, brasileiro, solteiro,  agricultor, portador do RG de nº 3263725-98 SSP/CE, inscrito no CPF sob o nº.  302.826.568-04, residente e domiciliado no Sítio Sobrado, S/N, Distrito Santarém,  município de Orós-CE, CEP. 63520-000, por meio de seus advogados, que ao final  subscrevem, cujo escritório profissional está localizado na Rua Uzias Soares Diniz,  nº. 277, sala 01, Órion Empresarial, centro, Icó-CE, CEP. 63430-000, e-mail:  contato@riannicolauadv.adv.br, onde recebem as comunicações processuais de  estilo, vem à ilustre presença de Vossa Excelência propor a presente AÇÃO DE  RESTABELECIMENTO DE AUXÍLIO DOENÇA contra o INSTITUTO NACIONAL DO SEGURO SOCIAL – INSS pessoa jurídica de direito público, sob a forma de Autarquia  Federal, com Superintendência neste Estado e a sede administrativa com endereço na  Agência da Previdência Social Icó, Rua Carlos Lineman Peixoto, S/N, Novo Centro,  Icó - Ceará, CEP. 63.430-000, ante os motivos de fato e de direito, que a seguir passa  a expor, ponderar e ao final requerer.
+1
+Num. 58832704 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+1 DA GRATUIDADE JUDICIÁRIA
+O Requerente é pobre, na acepção jurídica do termo, não tendo condições  financeiras para arcar com as custas e despesas processuais, por isso, nos termos do  art. 98 e ss. do CPC, pugna pela concessão da gratuidade da justiça.
+2 DOS FATOS
+Doença e incapacidade para o trabalho habitual
+O Requerente é segurado especial do RGPS, pois vem trabalhando há vários  anos como agricultor, tanto que recebeu auxílio por incapacidade temporária de  22/06/2022 a 22/11/2024 (NB 645.809.898-0), que foi cessado equivocadamente,  por isso, incontroversa a sua qualidade de segurado e o cumprimento da carência para  o auxílio por incapacidade temporária.
+Ao realizar a perícia de prorrogação do benefício de auxílio-doença, em  22/11/2024, o perito médico, equivocadamente, não reconheceu sua incapacidade,  portanto, o benefício foi mantido até 22/11/2024.
+O Requerente recebeu o benefício mencionado acima por estar incapacitado  por mais de 15 dias consecutivos para o trabalho na roça em virtude de estar  acometido por graves doenças de ordem ortopédica.
+Nome da doença CID
+Outra degeneração especificada de disco intervertebral M51.3
+Transtornos de discos lombares e de outros discos intervertebrais com  radiculopatia
+M51.1
+Dor lombar baixa M54.5
+Em virtude dessas mesmas enfermidades, o Requerente continua  incapacitado para seu labor campesino, pois sofre com fortes dores agudas ou
+2
+Num. 58832704 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+latejantes na região lombar, dores ciáticas, que irradia para as pernas (pior na  perna esquerda), rigidez que limita a mobilidade, formigamento, dormência e  fraqueza muscular, dificuldade de ficar em pé por longos períodos, dor ao  movimento, como dobrar-se, girar ou levantar objetos, sensação de choque nas  pernas e de travamento na coluna, dificuldade para movimentar as pernas e  contrações musculares.
+Em seu trabalho como agricultor, o Requerente é exposto a situações de risco  de agravamento dos sinais e sintomas das suas patologias, considerando as condições  em que exerce seu labor, uma vez que precisa abaixar-se e levantar-se com  frequência, permanecer em posições desconfortáveis ao longo dia de trabalho,  manusear equipamentos pesados, evidenciando que precisa da sua saúde em  perfeitas condições para trabalhar sem colocar sua vida ou sua integridade física em  risco.
+Os sinais e sintomas das doenças que acometem o Requerente são  absolutamente incompatíveis com seu trabalho agrícola, conforme demonstra o  CBO1 de sua ocupação.
+Condições Gerais de Exercício
+Trabalham por conta própria, na agricultura. O trabalho é em
+equipe formada por familiares, sem supervisão. As atividades
+são realizadas a céu aberto, durante o dia. Estão sujeitos à
+exposição de material tóxico, à variação climática e a
+permanecer em posições desconfortáveis durante longos
+períodos.
+O Requerente não possui capacidade laborativa (conforme documentos  médicos anexos), pois está acometido de doenças cujo tratamento é realizado por  meio de medicamentos, atendimentos médicos e repouso absoluto, sendo extremante  miserável e residindo em uma cidade do interior cearense, não tem condições para  arcar com as despesas médicas, nem lhe é ofertado o tratamento adequado.
+3
+Num. 58832704 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+Ressalta-se ainda que o Requerente se encontra dentro do período de  graça de 12 meses, em razão de ter recebido auxílio doença até 22/11/2024,  como dispõe o art. 13, inciso II do Decreto nº 3.048 de 06 de maio de 1999, sendo  assim, o período de graça do Requerente somente se encerraria em 11/2025 (somente  vindo a perder a qualidade de segurado em 16/01/2026).
+O Requerente ostenta a qualidade de segurado especial do RGPS e já cumpriu  a carência para o referido benefício, tanto pois já lhe foi concedido o benefício de  auxilio por incapacidade temporária NB 645.809.898-0 de 22/06/2022 a 22/11/2024.
+O Requerente não recuperou sua capacidade laborativa, permanecendo  impossibilitado de desenvolver seu trabalho habitual (conforme documentos  médicos anexos), contudo, o INSS lhe concedeu o benefício até 22/11/2024 (dia da  perícia), de forma errada, pois ele deve continuar afastado de suas atividades laborais  recebendo o auxílio por incapacidade temporária do INSS, que deve ser  restabelecido desde a DCB + 1 do NB 645.809.898-0.
+Ante o equívoco cometido pelo INSS ao cessar o benefício por incapacidade  do Requerente, ele vem a esse D. Juízo requerer a condenação da Autarquia a  restabelecer o auxílio por incapacidade temporária recebido pelo Requerente a partir
+4
+Num. 58832704 - Pág. 4 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+da DCB + 1 do NB 645.809.898-0, ou seja, desde 23/11/2024, pois ele não recuperou  sua capacidade laborativa.
+3 DO DIREITO
+3.1 Requisitos para o auxílio por incapacidade temporária. Qualidade de  segurado do RGPS, cumprimento do período de carência e incapacidade  laborativa comprovados. Restabelecimento de benefício. DIB = DCB + 1.
+Conforme o art. 5º, I, e art. 25, I, e, do Decreto nº. 3.048/99, o auxílio por  incapacidade temporária é uma prestação devida pela previdência social aos segurados  que ficarem incapacitados para o trabalho habitual.
+Segundo o art. 59 da LBPS, o auxílio por incapacidade temporária é devido  ao segurado da previdência social que, tendo cumprido o período de carência exigido  por lei (regra geral, 12 meses de labor rural ou 12 contribuições mensais para o RGPS,  conforme o art. 25, I, da LBPS), ficar incapacitado para o seu labor habitual por mais  de 15 dias consecutivos.
+De acordo com o art. 60 da LBPS, o auxílio por incapacidade temporária  é devido ao segurado especial, como o Requerente, a contar da data do início da  incapacidade e enquanto ele permanecer incapaz.
+No que diz respeito a qualidade de segurado do INSS e a carência, são  esses fatos incontroversos, pois o Requerente já recebeu auxílio-doença de  22/06/2022 a 22/11/2024 (NB 645.809.898-0).
+O Requerente não recuperou sua capacidade laborativa, permanecendo  impossibilitado de desenvolver seu trabalho habitual, por isso deve continuar afastado  de suas atividades laborais recebendo o auxílio por incapacidade temporária do INSS,  que deve ser restabelecido desde a DCB + 1 do NB 645.809.898-0.
+Como dito antes, em razão de ter cumprido todos os requisitos para o  auxílio por incapacidade temporária, o Requerente gozou esse benefício até  22/11/2024, após passar pela perícia médica para prorrogar seu benefício, o
+5
+Num. 58832704 - Pág. 5 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+perito médico concluiu equivocadamente que o Requerente recuperou sua  capacidade laborativa, fixando a DCB para o dia da perícia (22/11/2024). Desse modo, o Requerente já adimpliu todos os requisitos legais para ter  direito ao auxílio por incapacidade temporária, motivo pelo qual deve o INSS ser  condenado a restabelecer o benefício previdenciário desde a DCB + 1 do NB  645.809.898-0, ou seja, desde 23/11/2024.
+3.2 Da carência e da qualidade de segurada especial. Período de graça de 12  meses da Requerente.
+Como já foi explanado nos tópicos anteriores, o Requerente recebeu  benefício de auxílio por incapacidade temporária até 22/11/2024 (NB 645.809.898- 0), portanto, está em gozo do período de graça de 12 meses, conforme dispõe o art.  13, inciso II do Decreto nº 3.048 de 06 de maio de 1999.
+Repare qual seria o momento em que o Requerente viria a perder sua  qualidade de segurado e a cessação de seu período de graça, conforme cálculo exposto  abaixo:
+Cálculo – Qualidade de Segurado
+Causa da interrupção das  contribuições:
+Estava em benefício por incapacidade que foi cessado. Não está em desemprego involuntário e não possui  mais de 120 contribuições.
+Data da Cessação: 22/11/2024 Período de Graça: 12 meses
+Último mês do Período de  Graça:
+Data da Perda da  Qualidade de Segurado:
+11/2025
+16/01/2026
+Fonte: Logike - Suíte de Cálculos2
+6
+Num. 58832704 - Pág. 6 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+Nesse sentido, resta comprovada que o Requerente está em gozo de  período de graça de 12 meses, portanto, a qualidade de segurado especial do  RGPS do Requerente é fato incontroverso, uma vez que ele mantém a  qualidade de segurado até 16/01/2026.
+Dessa forma, o Requerente preencheu todos os requisitos para a concessão  do auxílio por incapacidade temporária, pelo que deve o INSS ser condenado a  restabelecer o benefício buscado.
+4 DOS PEDIDOS
+Diante do exposto, requer:
+1. A citação do Instituto Nacional do Seguro Social – INSS, na pessoa do seu  representante legal, para que responda a presente demanda, no prazo legal; 2. A concessão do benefício de a justiça gratuita em virtude de o Requerente não  poder arcar com o pagamento das custas processuais e honorários advocatícios sem  prejuízo do seu sustento ou de sua família, condição que expressamente declara, na  forma dos arts. 98 e ss. do CPC;
+3. A condenação do Instituto Nacional do Seguro Social – INSS para restabelecer  em favor do Requerente o benefício de auxílio por incapacidade temporária  (NB 645.809.898-0), desde a DCB + 1, ou seja, desde 23/11/2024, que foi  erroneamente cessado por essa Autarquia, bem como a lhe pagar as parcelas vencidas  e não pagas desde a DCB + 1 do NB 645.809.898-0 até a efetiva implantação do  benefício pretendido, monetariamente corrigidas desde o respectivo vencimento e  acrescidas de juros legais moratórios, ambos incidentes até a data do efetivo  pagamento;
+4. Com relação aos honorários advocatícios, requer seja arbitrado o percentual de  acordo com o disposto no §3º do art. 85 do NCPC sobre o valor da condenação,
+7
+Num. 58832704 - Pág. 7 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+incluindo as parcelas pagas a título de antecipação de tutela, devendo ser afastada a  incidência da Súmula 111 do STJ diante das novas previsões do NCPC que dispõem  sobre a obrigatoriedade de incidência dos honorários sucumbenciais sobre o valor  total da condenação ou do proveito econômico, sendo desarrazoada e ilegal a fixação  do marco final da prolação da sentença;
+5. Requer, nos termos do §15 do art. 85 do NCPC, sejam pagos os valores arbitrados  a título de honorários advocatícios sucumbenciais em favor de RIAN DE SOUSA  NICOLAU, inscrito no CPF sob o n.º 002.663.133-45, inscrito na OAB-CE 22.794; 6. Requer que todas as publicações e intimações sejam feitas exclusivamente em  nome de RIAN DE SOUSA NICOLAU, advogado, inscrito no CPF sob o n.º  002.663.133-45, OAB/CE sob o nº. 22.794, e-mail riannicolau@hotmail.com, com  escritório a Rua Uzias Soares Diniz, nº. 277, sala 01, Órion Empresarial, centro, Icó CE, CEP 63430-000;
+7. Requer seja destacado do valor objeto da condenação nos termos do §15 do art. 85  do NCPC, o percentual de 30% (trinta por cento), a título de honorários  advocatícios contratuais em favor de RIAN NICOLAU – ADVOCACIA, CNPJ  n. 32.396.957/0001-95, sociedade de advogados regularmente inscrita na OAB/CE  sob o nº. 2.057, com sede na Rua Uzias Soares Diniz, nº. 277, sala 01, Órion  Empresarial, centro, Icó- CE, CEP 63430-00, e-mail: contato@riannicolauadv.adv.br  ou riannicolau@hotmail.com;
+8. Requer, tendo em vista o pleito formulado acima, conforme pronunciamento do  STF (RE 564132), que seja deferido o fracionamento (destaque) do valor objeto da  presente condenação judicial, expedindo-se, de forma autônoma, em favor da  sociedade acima qualificada os requisitórios de pagamento referentes aos honorários  sucumbenciais e contratuais;
+9. Informa não ter interesse na realização de audiência de  conciliação/mediação, nos termos do art. 319, VII, do CPC;
+8
+Num. 58832704 - Pág. 8 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+O Requerente RENUNCIA ao valor do seu crédito que exceder 60  (sessenta) salários mínimos, procedimento necessário ao devido ajuizamento e  prosseguimento do seu pleito perante o Juizado Especial Federal.
+Protesta por provar o alegado por todos os meios de prova admitidos em  direito, especialmente pela prova testemunhal e a apresentação de novos documentos  no curso do presente feito.
+Dá-se à causa o valor de R$ 19.768,00 (dezenove mil, setecentos e sessenta e  oito reais).
+Nestes termos,
+Pede deferimento.
+Icó-CE, aos 13 de dezembro de 2024.
+⚖|Rian de Sousa Nicolau ⚖|Ivana Carla Teixeira de Sousa Advogado – OAB/CE nº. 22.794 Advogada – OAB/CE nº. 37.599
+⚖|Raimundo Nicolau Júnior ⚖|Rayoane Cavalcante Oliveira Advogado – OAB/CE nº. 28.769 Advogada – OAB/CE nº. 53.194
+1 https://www.ocupacoes.com.br/cbo-mte/612005-produtor-agricola-polivalente acesso em 13/12/2024, às  16:02 horas
+2 https://logi.ke/LOGIKE_SITE_WEB/BRPT/CalculoQualidadeSegurado.awp. Acesso em 13/12/2024, às  16:20min.
+9
+Num. 58832704 - Pág. 9 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091642000000072063091
+Número do documento: 24121317091642000000072063091
+RNF\lAN
+NICOLAU
+OAR;`OF 2,057
+PRIOC:URAcko AD JUDICIA ET EXTRA
+OUTORGANTE(S): FRANCISC0 DAS CHAGAS JOSINO ALEXANDRH, solteiro(a), agricultor, inscrito(a) no CPF sob n° 302.826.568-04, portador(a) do RG 3263725-98, SSP/CE., residente e domicfliado(a) no Sitio Sobrado, 00, balrro Distrito S`antarem, CEP 63 520L000.
+OUTORGADO(S): RIAN DE SOUSA NICOLAU, brasileiro, casado, advogade, inscrito na OAB/CE sob o n° 22.794, RAIMUND0 NICOLAU JbNIOR, brasileiro, casado, advogado, inscrito na OAB/CE sob o n° 28.769 e IVANA CARLA TEIXEmA DE SOUSA NICOLAU, brasileira, casada, advogada, inscrita na OAB/CE sob o N° 37.599, s6cios do escrit6rio RIAN NICOLAU ~ ADVOCACIA, CNPJ n°. 32.396.957/0001-95, sociedede de advogados regularmente inscrita na OAB/CE sob o Registro n°. 2.057, com sede na Rua Uzias Soares Diriz, n°. 277, sala 01, chon Empresarial, centro, Ic6-CE, CEP. 63430rooo, email: contato@ri annieolauadv. adv. br ou riannicolau @hotmail. com.
+PODERES: Todos os arfubutos da clfusula j4D JtADfczA ET EX7lRI, erin qualquer Juizo ou Tribunal, no foro eni geral (art. 105 do CPC c/c §2 de art. 5° da Lei n° 8.906 EOAB) para, defender os interesses do(s) outorgante(s), podendo, em conjunto ou saparadamente, propor contra quem de direito (vide clausula restritiva abaixo) as ap5es cabiveis e de qualquer natureza e, contestar, embargar, habilitar-se ou de qualquer modo intervir nas ap6es de interesse do(s) outorgante(s), acompanhando umas e outras em todos os seus termos ate final decis§o e execug§o de sentenga, usando quando necessario dos recursos legais que se fizerem necessdrios e/ou oportunos, solicitar
+CADSENHA, CNIS, HISCRE-WEB, telas do Plenus-CV3 e qunisquer outros documentos e informap6es, dar entrada em requerimentos Administrativos, praticar todos atos perante rapartig5es pdblicas Federais, Estaduais e Munieipais, e 6ng5os da administrap5o pribliea dircta e indireta, e em especial para represenfa-1o administrativa e judicialmente, em quaisquer
+3ivl;:gor&£¥:ua:t#en#+=+:?|=vEL##:oN¥£:iolfinsen#:#alef#g,eo: Conselho de Recursos da Previd6ncia Social - CRPS), ben como junto ao Ministdio da Fazenda ou qualquer 6ngao da sua estmtura (inclusive o Conselho de Conthbuintes e a Secretaria da Receita Federal do Brasil), alch de Procuradorias Federals e seus 6rgaos regivnais, podendo propor, inclusive, mandados de seguran9a face a autoridades phblicas vinculadas a estes 6rg5os pdblicos fiederals, apses judiciais diversas (dentre elas: concess5o de beneflcios, restabelecimentos judiciais, anulat6rias de laneamento fiscais-previdenciinos, cautelares e declarat6rias, inclusive em riveis recursais) alem de atuar plenamente em executivos fiscais e opor enbargos a execu95o. ConferindoThe, aindr poderes especials para firmar declarapfro de
+hipossuficiencia econ6mica, confessar, renunciar, desistir, transigir, firmar compromisso ou acordos, I.eceber e dan qulcagao, agindo em conjunto ou saparadamente, podendo ainda substabe]eeer esta em outrem, com ou sem reservas de iguais poderes e realizar o destaque/retencfo dos honoralos advocaticios devidos. Concede ainda poderes especials para levantar valores existentes em contas judiciais, precat6rios e RPV, deduzindo e compensando os seus cieditos por deapesas de vdrba honorina contratual e as decorrentes da sucumb€ncia, nas reapectivas prestag6es de conta, firmar compromissos ou acordos, prestar declara96es, inclusive os de rapresentagto em audichcia de conciliagiv, instrugfro e julganento e, em conjunto ou separademente, emidr recibos e her quitapao, abrir contas de depdsito e tudo mais usar e praticar para tal fin, fazendo e assinando todo e qualquer tipo de requerimento de interesse do(s) outongante. [c6.cE, ass i3 dt oftfr€-7nELQ J*{_ anlq ,
++ r7izi4,c ,fc¢ dftTO€#8H€Arfe#s{,~,7 A,rfu:j¢frrfu
+(88) 3561 -2610 5 (se) 9tre5irty34
+www.riannicolauadv.adv.br F}ua uzias soares Diniz, 277, Sala o1, Orion t,I., contato@riarmicolauadv.adv.br Empresarial, Centre, Ic6/CE 1 CEP: 63430-000
+Num. 58832705 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091649100000072063092
+Número do documento: 24121317091649100000072063092
+RN
+DECLARACAO DE HIfossuFIcffiNCIA
+F]lAN
+NlooLAU OAR/Ci ?.057
+FRANCISC0 DAS CHAGAS JOSIN0 ALEXANDRE, solteiro(a), agricultor, inscrito(a) no CPF sob n° 302.826.568-04, portador(a) do RG 3263725-98, SSP/CE., residente e domiciliado(a) na Sitio Sobrado, 00, bairro Distrito Santarem, CEP 63520- 000, DECLARA a quem interessar possa e para todos os fins de direito, sob pena de ser
+responsabilizada criminalmente por falsa declaragao, que 6 pobre no sentido juridico do termo, pois nao possui condig6es de pagar as custas e despesas do processo, assim como os honofarios advocaticios, sem prejuizo de seu sustento prdprio e de sun familia, necessitando, portanto, da gratuidade da Justiga, mos termos do art. 98 do C6digo de Processo Civil.
+Ic6-cE,L5chdr#ulztrytydrae-ji.
+___ i rhacL,c;I(_di th{if_A4_&{pes Sdi5.;/® A,PItQryl!± -DECLARANTE
+(88) 3561 -2610 = (88) 98851-0834
+` www.riannjcolauadv,adv.br rfr<` Contato@riannicolauadv.adv.br
+Bua Uzias Soares Diniz, 277, Sala 01, Orion Empresarial, Centre, lc6/CE I CEP: 63430-000
+Num. 58832705 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091649100000072063092
+Número do documento: 24121317091649100000072063092
+RIAN
+NICOLAU
+rJAB,J'CF2057
+PECLARACAO DE RENdyclA AO VAI.OR OuE E]mcEDER 0 LrmTE ap JEF
+FRANCISCO I)AS CHAGAS JOSINO ALEXANDRE, solteiro(a), agricultor, inscrito(a) no CPF sob n° 302.826.568ro4, portador(a) do RG 3263725-98, SSP/CE., residente e domiciliado(a) na Sitio Sobrade, 00, bairro Distrito Santarem, CEP 63520- cOO, declara que RENUNCIA ao valor do seu credito que exceder 60 (sessenta) salinos
+minimos,procedimentonecessarioaodevidoajuizamentoeprosseguimentodoseupleito perante o Juizado Especi.al Federal.
+Ic6-CE, i2j o|n I)ti¥~tul+ c;;lQ .JGtJH.
+i:fl]aivl{;fc0dofc`4bE8#g±N9*E4f{`.~OAvrfu}GLed_,±rfu_
+.- (88)3561-2610 5 (ae) 98851-o834
+\ w\^rw.riannicolauadv.adv.br A I contato@hannicolaundv,etv.br
+Rua Uzia5 Soares Diniz, 277, Sala 01, Orion Empresarial, Centro, lc6/CE I CEP: 63430-000
+Num. 58832705 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091649100000072063092
+Número do documento: 24121317091649100000072063092
+Num. 58832707 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091659700000072063094
+Número do documento: 24121317091659700000072063094
+Num. 58832707 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091659700000072063094
+Número do documento: 24121317091659700000072063094
+Num. 58832707 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091659700000072063094
+Número do documento: 24121317091659700000072063094
+Num. 58832710 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091667500000072063097
+Número do documento: 24121317091667500000072063097
+Num. 58832710 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091667500000072063097
+Número do documento: 24121317091667500000072063097
+Num. 58832712 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091673600000072063099
+Número do documento: 24121317091673600000072063099
+Num. 58832714 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091680800000072063101
+Número do documento: 24121317091680800000072063101
+Num. 58832714 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091680800000072063101
+Número do documento: 24121317091680800000072063101
+Num. 58832714 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091680800000072063101
+Número do documento: 24121317091680800000072063101
+RN
+DECLARACA0 DE RESIDENCIA
+RIAN
+NlooLAU `,`',i;,, l)i :', I:,):; ,.`
+Eu, LINDINALVA INACIO DE LIMA, brasileira, portadora do RG de n°. 3291436-98 SSPDC/CE, inscrita no CPF sob o n°. 930.815.883-91, DECLARO, para os devidos fins de Direito e sob as penas da Lei, que Francisco das Chagas Josino Alexandre, brasileiro, solteiro, agricultor, portador do RG de n°. 326372598 SSP/CE, inscrito no CPF sob o n°.
+302.826.568-04, reside numa casa localizada na sitio Sobrado, 00, bairro Distrito Santar6m, CEP 63520-000, cidade de Ofos/CE, cuja fatura de energia el6trica/agua es fa em meu nome.
+Ic6-CE, aos Jj 5 de de lI`aJL! .
+A;nd;ncuJa jnaci`o de A`;mQ\`
+DECLARANTE
+;E#t (88) 856i_g6io RE contato®rlannlGolauadv.adv,br RE E,utiappez;%Sri3F::a:r3:|tz62€E:EEsad8£!'oefJ%no. 'tes! /F}FI` g 8851-n834 ffi ®rifinniroln`Jat]v HB Ririn Nifolaij Advtlcnr,ifl
+Num. 58832716 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091686900000072063103
+Número do documento: 24121317091686900000072063103
+Página 1 de 3
+13/12/2024 11:54:01
+un.
+Últ. Rem
+07/2001 11/07/2001
+Indicadores
+un.
+Últ. Rem
+01/2014
+Indicadores
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+Data Fim
+uneração
+Data Fim
+uneração
+Data Início
+01/06/2000
+Rem
+387,54
+375,17
+387,33
+438,55
+Data Início
+21/06/2013
+Rem
+696,69
+992,00
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Tipo Filiado no
+Empregado ou Agente Público
+petência
+Tipo Filiado no
+Empregado ou Agente Público
+petência
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+INSS
+e: Nom
+DAMIANA ALEXANDRE ãe: e da m
+Nom
+Vínculo
+Trabalhador
+Matrícula do
+do Vínculo
+INDUSTRIAL LEVORIN S A
+Com
+Indicadores
+uneração Rem
+petência
+08/2000 386,84
+11/2000 391,78
+03/2001 384,13
+06/2001 411,34
+Vínculo
+Trabalhador
+Matrícula do
+do Vínculo
+WM CONSTRUCOES LTDA
+Com
+Indicadores
+uneração Rem
+petência
+08/2013 678,00
+11/2013 686,70
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+Identificação do Filiado
+302.826.568-04 CPF:
+129.51898.93-4 NIT:
+27/08/1973 ento: Data de nascim
+Relações Previdenciárias
+Origem
+p.
+Código Em
+NIT Seq.
+49.032.337/0001-70 129.51898.93-4 1
+unerações Rem
+Com
+Indicadores
+uneração Rem
+petência Com
+07/2000
+367,00 06/2000
+10/2000
+376,11 09/2000
+474,21 12/2000
+02/2001
+358,78 01/2001
+05/2001
+382,11 04/2001
+522,57 07/2001
+Origem
+p.
+Código Em
+NIT Seq.
+02.364.381/0001-13 129.51898.93-4 2
+unerações Rem
+Com
+Indicadores
+uneração Rem
+petência Com
+07/2013
+226,00 06/2013
+10/2013
+688,26 09/2013
+995,04 12/2013
+Num. 58832719 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091694000000072063106
+Número do documento: 24121317091694000000072063106
+Página 2 de 3
+CNIS - Cadastro Nacional de Informações Sociais
+13/12/2024 11:54:01
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+DAMIANA ALEXANDRE
+Situação
+CESSADO
+22/11/2024
+Data Fim
+Data Início
+22/06/2022
+Indicadores
+uneração Rem
+petência Com
+1.412,00 09/2024
+1.412,00 06/2024
+1.412,00 03/2024
+1.320,00 10/2023
+INDEFERIDO
+Situação
+Data Fim
+Data Início
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+INSS
+Extrato Previdenciário
+e: Nom
+ãe: e da m
+Nom
+31 - AUXILIO DOENCA PREVIDENCIARIO
+Espécie
+Indicadores
+uneração Rem
+petência
+1.412,00
+1.412,00
+941,33
+1.412,00
+1.320,00
+31 - AUXILIO DOENCA PREVIDENCIARIO
+Espécie
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+302.826.568-04
+do Vínculo
+Com
+10/2024
+07/2024
+04/2024
+01/2024
+11/2023
+do Vínculo
+CPF:
+27/08/1973
+Relações Previdenciárias
+Origem
+Benefício 6458098980
+Indicadores uneração
+Origem
+Benefício 6396230740
+Identificação do Filiado
+129.51898.93-4 NIT:
+ento: Data de nascim
+99,20 01/2014
+NB
+129.51898.93-4
+NIT
+Seq.
+3
+unerações Rem
+Rem
+petência Com
+847,20 11/2024
+1.412,00 08/2024
+941,33 05/2024
+941,33 02/2024
+1.320,00 12/2023
+1.320,00 09/2023
+NB
+129.51898.93-4
+NIT
+Seq.
+4
+Num. 58832719 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091694000000072063106
+Número do documento: 24121317091694000000072063106
+Página 3 de 3
+CNIS - Cadastro Nacional de Informações Sociais
+13/12/2024 11:54:01
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+DAMIANA ALEXANDRE
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+INSS
+Extrato Previdenciário
+e: Nom
+ãe: e da m
+Nom
+Você pode conferir a autenticidade do documento em
+https://meu.inss.gov.br/central/#/autenticidade
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+Identificação do Filiado
+302.826.568-04 CPF:
+129.51898.93-4 NIT:
+27/08/1973 ento: Data de nascim
+com o código 241213K8Y7VSJUUSD8VS20
+Num. 58832719 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091694000000072063106
+Número do documento: 24121317091694000000072063106
+Num. 58832720 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:17 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091701000000072063107
+Número do documento: 24121317091701000000072063107
+Num. 58832720 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:17 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091701000000072063107
+Número do documento: 24121317091701000000072063107
+Num. 58832720 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:17 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091701000000072063107
+Número do documento: 24121317091701000000072063107
+PROTOCOLO DE AGENDAMENTO
+1281216089
+PROTOCOLO DE REQUERIMENTO
+484888365
+Data de Entrada: 18/11/2024 11:15 - Aplicação Parceira
+Emitido em: 19/11/2024 15:12:55
+COMPROVANTE DO PROTOCOLO DE AGENDAMENTO
+Requerente
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Serviço
+PERÍCIA MÉDICA CONCLUSIVA (PMF PERÍCIAS)
+O atendimento presencial será em
+22 NOV
+2024
+SEXTA-FEIRA
+Unidade Responsável
+Horário marcado
+09:30
+Dados do Requerente
+AGÊNCIA DA PREVIDÊNCIA SOCIAL
+AGÊNCIA DA PREVIDÊNCIA SOCIAL JUAZEIRO  DO NORTE
+RUA SANTA LUZIA, 287/295, CENTRO
+JUAZEIRO DO NORTE/CE
+CEP: 63.010-227
+Campos Adicionais
+CPF 302.826.568-04 NIT 129.51898.93-4 Nascimento 27/08/1973
+Mãe DAMIANA ALEXANDRE
+E-Mail Não informado
+Telefone (88) 9718-1051
+Celular Não informado
+NB 645.809.898-0 NR 424885217
+Informações Adicionais
+Favor comparecer com 25 (vinte e cinco) minutos de antecedência do horário agendado.  É obrigatória a apresentação de documento de identificação com foto.
+Documentação médica que disponha em relação à doença/lesão (laudos, exames, atestados, receitas,  etc.).
+Caso não possa comparecer, ligue 135 para cancelar ou remarcar seu atendimento até o dia anterior à data agendada. A não remarcação  ou cancelamento neste prazo implicará na impossibilidade de novo agendamento por 30 (trinta) dias.
+Caso necessite que o atendimento seja domiciliar ou hospitalar, o representante do periciado deverá comparecer na unidade de  atendimento selecionada, na data e hora marcada, com a documentação que comprove a impossibilidade de locomoção ou do  comprovante de internação hospitalar, além dos demais documentos de identificação do periciado, para fins de autorização para a  realização da perícia domiciliar ou hospitalar.
+Atenção: no dia da perícia, você deve apresentar documento de identificação com foto.
+Num. 58832721 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:17 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091710400000072063108
+Número do documento: 24121317091710400000072063108
+NIT: 129.51898.93-4
+Página 1 de 1
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+COMUNICAÇÃO DE DECISÃO
+CPF: 302.826.568-04
+Número do Benefício: 645.809.898-0 Espécie: 31
+Ao Sr. (a): FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Assunto: Requerimento de Pedido de Prorrogação.
+Decisão: INDEFERIDO.
+Motivo: Não constatação da incapacidade laborativa.
+Fundamentação Legal:
+A perícia médica não reconheceu a sua incapacidade para o trabalho ou atividade habitual e o seu benefício não foi prorrogado.
+O pagamento do benefício será mantido até 22/11/2024.
+Se não concordar com a decisão, é possível entrar com Recurso, em até 30 dias, após receber este comunicado. Para isso, acesse o Meu INSS ou ligue para a Central 135.
+Data: 25 de novembro de 2024.
+____________________________________
+Alessandro Antonio Stefanutto
+Presidente do INSS
+Termo de Responsabilidade: Responsabilizo-me, sob as penas do Artigo 171 do Código Penal, pela veracidade da documentação apresentada para a solicitação do benefício acima descrito. Ciente, em 25 de Novembro de 2024.
+Você pode conferir a autenticidade do documento em
+https://hcsinss.inss.gov.br/central/#/autenticidade
+com o código 241125FDAVYZGX7143QN00
+Num. 58832722 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 13/12/2024 17:09:17 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121317091718200000072063109
+Número do documento: 24121317091718200000072063109
+CERTIDÃO DE OCORRÊNCIAS
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE (302.826.568-04)
+Processo 0007675-24.2024.4.05.8107
+CERTIDÃO
+Certifico que, em consulta automatizada à base de dados dos sistemas PJe do TRF5, PJe 2.X, Creta e Tebas; foram identificados os seguintes processos para a parte acima mencionada:
+•
+Processo 0003949-76.2023.4.05.8107 como REQUERENTE com a classe judicial CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA e assunto Rural (art. 59/63); no sistema PJe 2.x
+OBS: A presente consulta não abrange os processos em segredo de justiça.  17 de Dezembro de 2024
+Juntada realizada pelo sistema Certi
+ca (Dados obtidos pelo MEDUSA)
+Num. 59151126 - Pág. 1 Assinado eletronicamente por: AC SOLUTI v5 G2 - 17/12/2024 09:37:09
+fi
+https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24121721371054400000073703741
+Número do documento: 24121721371054400000073703741
+PROCESSO: 0007675-24.2024.4.05.8107
+CLASSE: PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL (436)
+AUTOR(A): FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+RÉU: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+25ª VARA FEDERAL CE
+CITAÇÃO
+DE ORDEM da(o) MM. JUÍZA FEDERAL / MM. JUIZ FEDERAL
+SUBSTITUTO da 25ª VARA/SJCE – SUBSEÇÃO JUDICIÁRIA DE IGUATU/CE, com fundamento no art. 93, inciso XIV, da Constituição da República Federativa do Brasil de 1988 e no art. 203, § 4º, do Código de Processo Civil:
+1. CONSIDERANDO as disposições dos arts. 55, 59, 284, 285, 286 e 337
+do Código de Processo Civil - CPC, que regulam a distribuição de processos, a prevenção, a conexão, a continência e a coisa julgada, verifica-se que as ações eventualmente apontadas pelo relatório de ocorrência juntado a estes autos foram devidamente analisadas, não sendo identificados indícios da presença tais institutos ou se necessário, realizada sua redistribuição ao juízo prevento.
+2. DIFERE-SE a apreciação do(s) pedido(s) de concessão do(s) benefício(s)
+da gratuidade judiciária e de tutela de urgência para o momento da prolação da sentença.
+3. CITE-SE, por meio eletrônico, o RÉU para RESPONDER a ação, nos
+termos do art. 9º da Lei nº 10.259/2001.
+4. DESIGNE-SE de logo, nos termos do art. 1º, inciso I, da Recomendação
+Conjunta nº 1, de 15 de dezembro de 2015, do Conselho Nacional de Justiça, a realização de PERÍCIA MÉDICA.
+5. NOMEIE-SE profissional MÉDICO(A) inscrito(a) no Conselho Regional de
+Medicina do Estado do Ceará para atuar no feito como PERITO(A) do juízo.
+6.1. Deverá o(a) profissional nomeado(a) INFORMAR o juízo, no PRAZO de
+5 (CINCO) DIAS, eventual existência de causa de SUSPEIÇÃO ou de IMPEDIMENTO para a realização da perícia, nos termos do que dispõe o art. 148, inciso III, c/c os arts. 144 e 145, todos do CPC.
+7. ANEXEM-SE aos autos os QUESITOS DO JUÍZO a serem respondidos
+pelo(a) PERITO(A).
+8. INTIMEM-SE as PARTES, previamente à realização da perícia, para, no
+PRAZO de 10 (DEZ) DIAS, indicarem ASSISTENTES TÉCNICOS e/ou formularem QUESITOS
+Num. 60402289 - Pág. 1 Assinado eletronicamente por: KENNEDY SANTOS BRAGA - 15/01/2025 11:42:55 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25011511425568700000081341367
+Número do documento: 25011511425568700000081341367
+COMPLEMENTARES, nos termos do art. 12, § 2º, da Lei nº 10.259/2001, sob pena de preclusão.
+8. INTIME-SE o(a) AUTOR(A) para COMPARECER em LOCAL, DIA e
+HORÁRIO designados, cabendo-lhe ACOMPANHAR e CONHECER do agendamento mediante acesso e consulta a estes autos eletrônicos.
+8.1. Na ocasião deverá portar DOCUMENTO de IDENTIFICAÇÃO
+ORIGINAL COM FOTO e apresentar ao(à) PERITO(A) todos os EXAMES e LAUDOS que tenha EM SEU PODER e que entenda possam de algum modo servir à COMPROVAÇÃO da INCAPACIDADE afirmada.
+8.2. A AUSÊNCIA do(a) AUTOR(A) à PERÍCIA implicará a declaração de
+EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, nos termos do art. 51, inciso I, da Lei nº 9.099/95.
+9. FIXA-SE o PRAZO de 10 (DEZ) DIAS para a ENTREGA DO LAUDO, a
+contar da data da realização do exame.
+10.1. DISPENSA-SE o(a) PERITO(A) de RESPONDER quesitos
+complementares repetidos ou referentes à sua titulação acadêmica ou profissional, especialidade ou qualificação técnica, devendo, nestas hipóteses, mencionar expressamente o exercício desta prerrogativa.
+11. Apresentado o laudo, a INTIMEM-SE as PARTES para, no PRAZO de
+15 (QUINZE) DIAS, MANIFESTAREM-SE sobre a PEÇA TÉCNICA, oportunidade em que o INSS deverá apresentar PROPOSTA DE ACORDO ou trazer aos autos todos os elementos de que disponha para o ESCLARECIMENTO DA CAUSA, notadamente cópia dos autos do processo administrativo relacionado ao pedido administrativo em discussão, inclusive os antecedentes médico-periciais.
+12. ARBITRAM-SE os HONORÁRIOS PERICIAIS no valor de R$ 250,00
+(DUZENTOS E CINQUENTA REAIS), conforme estabelecido na Tabela V do Anexo da Resolução nº CJF-RES-2014/00305-2014, de 07/10/2014, do Conselho da Justiça Federal.
+13.1. O LEVANTAMENTO dos HONORÁRIOS PERICIAIS apenas será
+autorizado após a completa e efetiva prestação do serviço.
+Expedientes necessários.
+Iguatu/CE, data da assinatura do documento.
+Servidor(a) da 25ª Vara Federal/SJCE
+documento assinado eletronicamente
+Num. 60402289 - Pág. 2 Assinado eletronicamente por: KENNEDY SANTOS BRAGA - 15/01/2025 11:42:55 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25011511425568700000081341367
+Número do documento: 25011511425568700000081341367
+PROCESSO: 0007675-24.2024.4.05.8107
+CLASSE: PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL (436)
+AUTOR(A): FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+RÉU(RÉ): INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+25ª VARA FEDERAL CE
+ATO ORDINATÓRIO
+DE ORDEM do MM. JUIZ FEDERAL / MM. JUIZ FEDERAL SUBSTITUTO da 25ª VARA
+FEDERAL da SEÇÃO JUDICIÁRIA DO ESTADO DO CEARÁ – SUBSEÇÃO JUDICIÁRIA DE IGUATU, com fundamento no art. 93, inciso XIV, da Constituição da República Federativa do Brasil e no art. 203, § 4º, do Código de Processo Civil – CPC:
+1. Fica DESIGNADA a realização de PERÍCIA MÉDICA para a DATA/HORA especificadas
+na ABA PERÍCIAS dos autos deste processo.
+2. Fica, também, NOMEADO o(a) PERITO(A)-MÉDICO(A), devidamente cadastrado(a) nessa
+unidade para atuar como auxiliar do juízo, conforme consta na ABA PERÍCIAS dos autos deste processo.
+2.1. Deverá o(a) profissional nomeado(a) INFORMAR o juízo, no PRAZO de 5 (CINCO) DIAS
+, eventual existência de causa de SUSPEIÇÃO ou de IMPEDIMENTO para a realização da perícia, nos termos do que dispõe o art. 148, inciso III, c/c os arts. 144 e 145, todos do Código de Processo Civil.
+3. INTIME-SE o(a) AUTOR(A) para COMPARECER à sede da Justiça Federal na Subseção
+Judiciária de Iguatu/CE, localizada na Rua Vinte Cinco de Março, s/n, Paraná, Município de Iguatu/CE,na DATA/HORA especificada,cabendo-lhe ACOMPANHAR e tomar CONHECIMENTO do DIA E HORÁRIO DESIGNADOS mediante acesso aos autos do processo.
+3.1. Na ocasião deverá portar DOCUMENTO DE IDENTIFICAÇÃO ORIGINAL COM FOTO e
+apresentar ao(à) perito(a) do juízo TODOS OS EXAMES E LAUDOS QUE TENHA EM SEU PODER e que entenda possam de algum modo servir à COMPROVAÇÃO DA INCAPACIDADE afirmada.
+3.2. A AUSÊNCIA do(a) AUTOR(A) à PERÍCIA, sem justificativa comprobatória, implicará a
+declaração de EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, nos termos do art. 51, inciso I, da Lei nº 9.099/95.
+4. Os QUESITOS DO JUÍZO a serem respondidos pelo(a) perito(a) são os constantes abaixo:
+- QUESITOS DE APOSENTADORIA POR INVALIDEZ/AUXÍLIO DOENÇA/AUXÍLIO
+ACIDENTE:
+1. INFORMAÇÃO SOBRE A PARTE AUTORA:
+1.1. A PARTE AUTORA é ou foi PACIENTE de V. Sª.?
+1.2. Qual a IDADE e o GRAU DE INSTRUÇÃO informados pela PARTE AUTORA?
+1.3. Qual a ATIVIDADE HABITUAL afirmada pela PARTE AUTORA? Até quando a exerceu?
+1.4. Quais OUTROS TRABALHOS ou ATIVIDADES, ainda que temporários ou informais ja
+realizados informados pela PARTE AUTORA? Quando?
+2. INFORMAÇÃO SOBRE A DOENÇA:
+2.1. A PARTE AUTORA tem alguma doença, deficiência ou sequela?
+Num. 61809480 - Pág. 1 Assinado eletronicamente por: LAURO DOUZINHO DOS SANTOS JUNIOR - 04/02/2025 14:19:28 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414192875100000084832413
+Número do documento: 25020414192875100000084832413
+A. ( ) Não tem doença, deficiência ou sequela.
+B. ( ) Não apresentou documentos que permitam o diagnóstico.
+C. ( ) Teve doença, deficiência ou sequela.
+C.1. DESCRIÇÃO(ÕES) da(s) doença(s), deficiência(s) ou sequela(s) é (são), com o(s)
+respectivo(s) CID(s): xxx.
+C.2. DATAS de INÍCIO e de REVERSÃO DO ESTADO CLÍNICO, ainda que por estimativa,
+são: dd/mm/aaaa.
+D. ( ) Tem doença, deficiência ou sequela.
+D.1. DESCRIÇÃO(ÕES) da(s) doença(s), deficiência(s) ou sequela(s) é (são), com o(s)
+respectivo(s) CID(s): xxx.
+D.2. DATA(S) DE INÍCIO da(s) doença(s), deficiência(s) ou sequela(s), ainda que por
+estimativa, é(são): dd/mm/aaaa.
+2.2. O(a) periciando(a) está acometido(a) de: tuberculose ativa, alienação mental, esclerose
+múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, acidente vascular encefálico (agudo) ou abdome agudo cirúrgico? Especifique?
+3. PARA A ATIVIDADE HABITUAL:
+3.1. A(s) doença(s), deficiência(s) ou sequela(s) ocasiona(m) à PARTE AUTORA, quanto à
+ATIVIDADE HABITUAL informada:
+A. ( ) PREJUDICADO. Não tem doença, deficiência ou sequela, conforme assinalado no item
+2 deste laudo.
+B. ( ) NÃO HÁ INCAPACIDADE. O prazo necessário para tratamento e reversão do estado
+clínico foi coincidente ao do intervalo em que recebido benefício anterior (NB xxx.xxx.xxx-x).
+C. ( ) CAPACIDADE. Apesar de ter a doença/sequela informada acima, não há nem houve
+inviabilidade para o exercício da atividade habitual informada.
+D. ( ) INCAPACIDADE para todo e qualquer trabalho.
+E. ( ) INCAPACIDADE para o exercício da atividade habitual informada.
+3.2. Indique precisamente os documentos, constantes dos autos ou apresentados por ocasião
+da realização do exame pericial, que subsidiaram a conclusão técnica.
+3.3. Havendo INCAPACIDADE para a ATIVIDADE HABITUAL informada, é TEMPORÁRIA
+ou DEFINITIVA?
+A. ( ) PREJUDICADO, pois não constatada incapacidade, conforme item 3.1. deste laudo.
+B. ( ) INCAPACIDADE TEMPORÁRIA, assim entendida como aquela de recuperação
+previsível em curto/médio prazo.
+C. ( ) INCAPACIDADE DEFINITIVA, assim entendida como aquela de improvável
+recuperação.
+3.4. Havendo INCAPACIDADE TEMPORÁRIA, qual o PRAZO ESTIMADO, a contar da
+DATA DO EXAME PERICIAL, para TRATAMENTO e RECUPERAÇÃO da PARTE AUTORA para o exercício da ATIVIDADE HABITUAL informada?
+A. ( ) PREJUDICADO, pois foi atestado não haver incapacidade, conforme item 3.1. deste
+laudo.
+B. ( ) PREJUDICADO, pois foi atestado haver incapacidade definitiva, conforme item 3.3.
+Num. 61809480 - Pág. 2 Assinado eletronicamente por: LAURO DOUZINHO DOS SANTOS JUNIOR - 04/02/2025 14:19:28 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414192875100000084832413
+Número do documento: 25020414192875100000084832413
+deste laudo.
+C. ( ) Especifique. xxx.
+3.5. Havendo INCAPACIDADE DEFINITIVA para a ATIVIDADE HABITUAL informada seja,
+qual a respectiva ABRANGÊNCIA?
+A. ( ) PREJUDICADO, pois foi atestado não haver incapacidade, conforme item 3.1. deste
+laudo.
+B. ( ) PREJUDICADO, pois foi atestado haver incapacidade temporária, conforme item 3.3.
+deste laudo.
+C. ( ) TOTAL, assim entendida como aquela que é impeditiva de todo e qualquer trabalho.
+D. ( ) PARCIAL, assim entendida como aquela que é impeditiva do exercício da atividade
+habitual informada.
+3.6. Havendo INCAPACIDADE DEFINITIVA e PARCIAL para a ATIVIDADE HABITUAL
+informada, a PARTE AUTORA é suscetível de reabilitação?
+A. ( ) PREJUDICADO, pois foi atestado não haver incapacidade, conforme item 3.1. deste
+laudo.
+B. ( ) PREJUDICADO, pois foi atestado haver incapacidade temporária, conforme item 3.3.
+deste laudo.
+C. ( ) PREJUDICADO, pois foi atestado haver incapacidade definitiva e total, conforme item
+3.5. deste laudo.
+D. ( ) NÃO. Por quais razões, diante das condições pessoais da PARTE AUTORA?
+Especifique. xxx.
+E. ( ) SIM. Para quais atividades? Especifique. xxx.
+3.7. A incapacidade constatada é decorrente de ACIDENTE DE TRABALHO, assim
+entendido como o ocasionado em razão do exercício do trabalho habitual informado pela PARTE AUTORA ou decorrente de doença ocupacional? Especifique. xxx.
+3.8. Não havendo incapacidade, houve CONSOLIDAÇÃO DAS LESÕES decorrentes de
+ACIDENTE DE QUALQUER NATUREZA das quais resultaram SEQUELAS DEFINITIVAS que impliquem REDUÇÃO DA CAPACIDADE para o trabalho que a PARTE AUTORA habitualmente exercia?
+A. ( ) NÃO.
+B. ( ) SIM.
+B.1. Quais lesões foram consolidadas? Especifique. xxx.
+B.2. Quais sequelas definitivas resultaram da consolidação das lesões? Especifique. xxx.
+B.3. Qual a redução da capacidade para o trabalho habitual? Desde quando? Especifique.
+xxx.
+4. INÍCIO DA INCAPACIDADE:
+4.1. Qual a DATA de INÍCIO da INCAPACIDADE?
+A. ( ) PREJUDICADO, pois não constatada incapacidade, conforme item 3.1. deste laudo.
+B. ( ) Juntamente com a doença, deficiência ou sequela que acomete a PARTE AUTORA.
+Especifique. xxx
+C. ( ) Após a doença, decorrente de agravamento ou progressão. Especifique. xxx.
+D. ( ) Na data da perícia médica judicial por não ter provas para estabelecer outra data.
+E. ( ) Em outra data. Especifique diante das provas constantes dos autos: xxx.
+Num. 61809480 - Pág. 3 Assinado eletronicamente por: LAURO DOUZINHO DOS SANTOS JUNIOR - 04/02/2025 14:19:28 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414192875100000084832413
+Número do documento: 25020414192875100000084832413
+4.2. O(a) periciando(a) é capaz para realizar as ATIVIDADES DA VIDA DIÁRIA (banhar-se,
+vestir-se, comer, passear, tomar medicamentos etc.) sem a assistência ou o auxílio permanente de TERCEIROS? A. ( ) PREJUDICADO, pois não constatada incapacidade, conforme item 3.1. deste laudo.
+B. ( ) SIM. É capaz de realizar atividades da vida diária sem a assistência ou o auxílio
+permanente de terceiros.
+C. ( ) NÃO. Depende da assistência e do auxílio permanente de terceiros para realizar
+atividades da vida diária.
+5. RESPOSTAS AOS QUESITOS FORMULADORAS PELAS PARTES, SE HOUVER:
+5.1. Quesitos apresentados pela PARTE AUTORA: Deverá o(a) sr(a). perito(a) observar se há
+nos autos quesitos apresentados pela PARTE AUTORA e, em caso positivo, transcrevê-los e respondê-los neste espaço.
+5.2. Quesitos apresentados pelo INSS: Deverá o(a) sr(a). perito(a) observar se há nos autos
+quesitos apresentados pelo INSS e, em caso positivo, transcrevê-los e respondê-los neste espaço.
+Preste o(a) sr(a). perito(a) os esclarecimentos adicionais que considerar necessários.
+5. INTIMEM-SE as PARTES para, no PRAZO de 10 (DEZ) DIAS, indicarem ASSISTENTES
+TÉCNICOS e/ou formularem QUESITOS COMPLEMENTARES, nos termos do art. 12, § 2º, da Lei nº 10.259/2001, sob pena de preclusão
+6. FIXA-SE o PRAZO de 15 (QUINZE) DIAS para a ENTREGA DO LAUDO, a contar da data
+da realização do exame.
+6.1. DISPENSA-SE o(a) perito(a) do juízo de RESPONDER quesitos complementares
+repetidos ou referentes à sua titulação acadêmica ou profissional, especialidade ou qualificação técnica, devendo, nestas hipóteses, mencionar expressamente o exercício desta prerrogativa.
+7. Apresentado o laudo, a INTIMEM-SE as PARTES para, no PRAZO de 15 (QUINZE) DIAS,
+MANIFESTAREM-SE sobre a PEÇA TÉCNICA.
+8. Os HONORÁRIOS PERICIAIS serão ARBITRADOS, conforme estabelecido na Tabela V
+do Anexo da Resolução nº CJF nº 937, de 22 de Janeiro de 2025, do Conselho da Justiça Federal, bem como na Portaria Conjunta CJF/MPO nº 2, de 16 de dezembro de 2024 e Portaria SJCE/25ª VARA nº 748/2024, de 13/08/2024 (P.A SEI nº 0000305-60.2024.4.05.7600).
+8.1. O LEVANTAMENTO dos HONORÁRIOS PERICIAIS apenas será autorizado após a
+completa efetiva prestação do serviço.
+Expedientes necessários.
+Iguatu/CE, data da assinatura do documento.
+Servidor(a) do Juizado Especial Federal da 25ª Vara/SJCE
+documento assinado eletronicamente
+Num. 61809480 - Pág. 4 Assinado eletronicamente por: LAURO DOUZINHO DOS SANTOS JUNIOR - 04/02/2025 14:19:28 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414192875100000084832413
+Número do documento: 25020414192875100000084832413
+Num. 61809480 - Pág. 5 Assinado eletronicamente por: LAURO DOUZINHO DOS SANTOS JUNIOR - 04/02/2025 14:19:28 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414192875100000084832413
+Número do documento: 25020414192875100000084832413
+AJG - Sistema Assistência Judiciária Gratuita
+JUSTIÇA FEDERAL NO CEARÁ
+25VCE - 25A. VARA FEDERAL DE CEARÁ
+04/02/2025
+Nomeação de Profissional Página 1 de 1
+NOMEAÇÃO DE PROFISSIONAL
+ASSISTÊNCIA JUDICIÁRIA GRATUITA
+JUIZADO ESPECIAL FEDERAL
+Nomeação n.: 20250200113326
+Exmo. Sr. Diretor do Foro da Seção Judiciária: JUIZ FEDERAL ALCIDES SALDANHA LIMA
+Juiz requisitante: FABIO BEZERRA RODRIGUES
+E-mail juiz requisitante: fabio.rodrigues@jfce.jus.br
+Unidade: 25VCE - 25A. VARA FEDERAL DE CEARÁ
+Endereço: RUA 25 DE MARÇO
+Data da nomeação: 04/02/2025
+Valor requisitado: 270,00
+DADOS PROCESSUAIS:
+N. do processo: 00076752420244058107
+Tipo de atuação: PERITOS
+Assistido(s): FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Réu: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+Autor principal: FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+BENEFICIÁRIO DOS HONORÁRIOS:
+Nome: EMANUELLY GONCALVES SARAIVA
+N. CPF: 016.443.573-56
+Nesta data, o profissional aqui identificado foi nomeado a prestar serviço de Assistência Judiciária Gratuita nesta Vara Federal.: 04/02/2025
+Num. 61812342 - Pág. 1 Assinado eletronicamente por: Usuário do sistema - 04/02/2025 14:24:07 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414240740600000084832959
+Número do documento: 25020414240740600000084832959
+JUSTIÇA FEDERAL DA 5ª REGIÃO
+Processo Judicial Eletrônico
+25ª VARA FEDERAL CE
+PROCESSO: 0007675-24.2024.4.05.8107 - PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL (436)
+AUTOR: FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Advogado do(a) AUTOR: RIAN DE SOUSA NICOLAU - CE22794
+REU: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+INTIMAÇÃO
+Ficam as partes intimadas da perícia designada, conforme data e hora registradas nos autos do processo.
+Adverte-se ainda a parte autora que o seu não comparecimento injustificado ensejará a extinção do processo sem resolução do mérito.
+, 4 de fevereiro de 2025
+Num. 61812344 - Pág. 1 Assinado eletronicamente por: Usuário do sistema - 04/02/2025 14:24:07, Usuário do sistema - 04/02/2025 14:24:07 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020414240797900000084832961
+Número do documento: 25020414240797900000084832961
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ FEDERAL DO JUIZADO ESPECIAL
+FEDERAL ADJUNTO À 25ª VARA FEDERAL DA SUBSEÇÃO JUDICIÁRIA DE
+IGUATU, SEÇÃO JUDICIÁRIA DO CEARÁ.
+QUESITOS PARA A PERÍCIA MÉDICA
+Processo nº. 0007675-24.2024.4.05.8107
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE,
+devidamente qualificada nos autos epigrafados, vem à ilustre presença de Vossa
+Excelência, por meio de seus advogados, já qualificados no instrumento procuratório
+acostado aos autos epigrafados, cujo escritório profissional está localizado na Rua Uzias
+Soares Diniz, nº. 277, sala 01, centro, Icó-CE, CEP. 63430-000, e-mail:
+contato@riannicolauadv.adv.br, onde recebem as comunicações processuais de estilo,
+com o acato de costume, APRESENTAR QUESITOS a serem transcritos e
+respondidos pelo(a) Sr(a). PERITO(A).
+De saída, é importante lembrar que o laudo pericial deve conter
+“a exposição do objeto da perícia, a análise técnica ou científica realizada pelo perito, a
+indicação do método utilizado esclarecendo-o e demonstrando ser predominantemente
+aceito pelos especialistas da área do conhecimento da qual se originou e respostas
+conclusivas a todos os quesitos (...) fundamentação (...) indicando como alcançou as
+conclusões...”, conforme manda o art. 473, CPC, sob pena de nulidade.
+De acordo com uma análise minuciosa dos documentos
+médicos e condições físicas do(a) autor(a), diga o(a) Senhor(a) perito(a) SE
+CONCORDA COM O QUE ABAIXO SE EXPÕE:
+Num. 61909860 - Pág. 1 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 05/02/2025 11:06:43 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020511064307500000084928566
+Número do documento: 25020511064307500000084928566
+O Requerente é agricultor, tanto que recebeu auxílio por
+incapacidade temporária de 22/06/2022 a 22/11/2024 (NB 645.809.898-0), que foi
+cessado equivocadamente. SUAS ENFERMIDADES: Outra degeneração
+especificada de disco intervertebral M51.3 Transtornos de discos lombares e de
+outros discos intervertebrais com radiculopatia M51.1 Dor lombar baixa M54.5. Em
+virtude dessas mesmas enfermidades, o Requerente continua incapacitado para seu labor
+campesino, pois sofre com fortes dores agudas ou 3 latejantes na região lombar, dores
+ciáticas, que irradia para as pernas (pior na perna esquerda), rigidez que limita a
+mobilidade, formigamento, dormência e fraqueza muscular, dificuldade de ficar em pé
+por longos períodos, dor ao movimento, como dobrar-se, girar ou levantar objetos,
+sensação de choque nas pernas e de travamento na coluna, dificuldade para movimentar
+as pernas e contrações musculares.
+1. Para desenvolver o trabalho na agricultura é necessário que o trabalhador
+apresente condições físicas para tal? Quais seriam essas condições físicas?
+2. Quais são as enfermidades presentes na Parte Autora? Quais os sintomas presentes na
+Parte Autora e desde quando? Fundamente.
+2.1 Quais tratamentos foram realizados pela parte autora e diga se ainda há necessidade
+de tratamento específico? Explique fundamentando.
+2.2 No momento da perícia o senhor perito constatou o restabelecimento ou
+desaparecimento dos sintomas, por completo, da Parte autora a partir de novembro de
+2024? Explique fundamentando.
+3. Essas patologias (ORTOPÉDICAS) são passíveis de cura? Especifique e fundamente.
+3.1 É provável que as lesões/doenças e principalmente o sintoma de dor, ou qualquer
+outro problema de saúde a que a Parte Autora esteja exposta, tais como os narrados na
+Inicial e atestados pelos especialistas que as tratam, possam se agravar pela atividade
+laboral da Parte Autora? Como se daria o agravamento da dor ou outros sintomas?
+fundamente.
+4. As patologias (ORTOPÉDICAS) presentes na Parte Autora podem incapacitar um
+indivíduo para o seu trabalho habitual? Se sim, fundamente.
+5. Em caso positivo para incapacidade laboral, esta seria temporária ou permanente e para
+qual a data, ainda que aproximada, é possível apontar esta incapacidade? Com base em
+quais elementos chegou a essa conclusão? Fundamente.
+6 Caso a Parte Autora esteja temporariamente incapacitada, é possível determinar um
+prazo mínimo de duração do afastamento para a nova análise do quadro? Fundamente.
+Num. 61909860 - Pág. 2 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 05/02/2025 11:06:43 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020511064307500000084928566
+Número do documento: 25020511064307500000084928566
+7 A Parte Autora apresentou provas médicas e físicas, de acordo com sua análise, de
+que continua temporariamente incapacitada, levando-se em consideração que o
+mesmo recebeu auxílio por incapacidade temporária até NOVEMBRO de 2024 (NB
+645.809.898-0), pelas mesmas enfermidades ORTOPÉDICAS? FUNDAMENTE
+EM CASO CONTRÁRIO.
+Vejamos:
+7.1 Assim, responda, a parte autora continua temporariamente incapacitada desde
+o benefício cessado erroneamente pelo INSS ou não? Fundamente sua análise.
+8. É possível que tenha havido alteração nas condições das enfermidades para que
+fosse cessado o referido benefício anterior? Explique como essas enfermidades
+poderiam regredir e como ocorreu efetivamente a regressão das enfermidades na
+parte autora.
+9. É possível mensurar a eventual capacidade residual de trabalho da Parte Autora e a
+viabilidade de seu aproveitamento no mercado, dentro da sua área de atuação profissional
+ou em funções compatíveis no seu local de moradia? Qual o grau de limitação? Detalhe.
+10. A perda da capacidade laborativa da Parte Autora em função das moléstias adquiridas
+é de caráter definitivo? Qual é o percentual deste? Fundamente.
+11. A Parte Autora enfrenta limitações para atividades diárias comuns, como se
+locomover ou fazer esforço repetitivo, com peso, entre outros sem que para isso
+acarrete sintomas incapacitantes para o trabalho habitual? Fundamente.
+Num. 61909860 - Pág. 3 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 05/02/2025 11:06:43 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020511064307500000084928566
+Número do documento: 25020511064307500000084928566
+Por fim, a Parte Autora pugna pela apresentação de quesitos
+suplementares.
+Nesses termos,
+Pede deferimento.
+Icó-CE, aos 05 de fevereiro de 2025.
+Rian de Sousa Nicolau
+Advogado – OAB/CE nº. 22.794
+Raimundo Nicolau Júnior
+Advogado – OAB/CE nº. 28.769
+Ivana Carla Teixeira de Sousa Nicolau
+Advogada – OAB/CE nº. 37.599
+Num. 61909860 - Pág. 4 Assinado eletronicamente por: RIAN DE SOUSA NICOLAU - 05/02/2025 11:06:43 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020511064307500000084928566
+Número do documento: 25020511064307500000084928566
+ADVOCACIA-GERAL DA UNIÃO
+PROCURADORIA-GERAL FEDERAL
+PROCURADORIA REGIONAL FEDERAL 5Âª REGIÃO
+PETICIONAMENTO - INSTRUÃÃO
+EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO(A) 25Âª VARA FEDERAL CE
+NÚMERO: 0007675-24.2024.4.05.8107
+PARTE(S): INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+PARTES(S): FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, pessoa jurídica de direito público,
+representado(a) pelo membro da Advocacia-Geral da União infra-assinado, vem, respeitosamente, à presença de Vossa Excelência, requerer o que segue.
+O INSS vem requerer a juntada dos documentos administrativos em anexo.
+DANIELLA CAMPOS DOS SANTOS
+PROCURADORA FEDERAL
+Recife, 06 de fevereiro de 2025.
+SYBELLE RODRIGUES DE SOUZA
+SERVIDOR
+Num. 62039145 - Pág. 1 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:10 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253263900000085053239
+Número do documento: 25020611253263900000085053239
+ADVOCACIA-GERAL DA UNIÃO
+SUPER SAPIENS
+DOSSIÃ MÃDICO
+* InformaÃ§Ãµes extraÃdas dos sistemas informatizados do INSS
+*DossiÃª gerado em 17/01/2025 12:47:17
+DADOS DO SEGURADO
+NOME FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+CPF 30282656804
+DATA DE NASC
+SEXO
+HISTÃRICO DE LAUDOS MÃDICOS PERICIAIS - SABI
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6396230740 215264307 12/06/2023
+REQUERIMENT O (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO
+PREVISTA CID
+22/06/2022 - 01/06/2013 - - M5 1
+HISTÃRICO: PERÃCIA INICIAL PERICIANDO DIZ SER AGRICULTOR,49 ANOS, ENS. FUNDAMENTAL I INCOMPLETO. REFERE NÃO ESTAR PODENDO TRABALHAR PORQUÃ SENTE DORES NA COLUNA LOMBAR, QUE INICIARAM-SE HÃ CERCA DE 10 ANOS (FIXO DID EM 01/06/2013). TRAZ TC DA COLUNA LOMBAR, DE 24/11/2021, REFERINDO : ABAULAMENTO DISCAL LEVE NO NÃVEL L4-L5; CURVATURA LORDÃTICA LOMBAR HABITUAL; NÃO HÃ DESVIOS ESCOLIÃTICOS SIGNIFICATIVOS DA COLUNA LOMBAR; NÃO HÃ LESÃES ÃSSEAS FOCAIS COM CARACTERÃSTICAS AGRESSIVAS OU FRATURAS DESALINHADAS. REFERE USO DE DUOFLAM INJ.+ÃRTICO1,5GR+DUCOX 200MG. TRAZ LAUDO MÃDICO DO DR. SAMMUEL RODRIGUES, ORTOPEDISTA, CREMEC 11.672, DE 07/06/2023, REFERINDO SER O MESMO PORTADOR DE PATOLOGIAS DE CIDS 10 M 51.3 / M 51.1, SOLICITANDO 180 DIAS DE AFASTAMENTO DO TRABALHO.
+EXAME FÃSICO: ESTADO GERAL BOM, CONSCIENTE, ORIENTADO, MARCHA LIVRE, SEM NECESSIDADE DE APOIO OU EQUIPAMENTOS. SENTA E LEVANTA SEM DIFICULDADES PRESENÃA DE DISCRETA LIMITAÃÃO DE FLEXÃO E DORSO-FLEXÃO DA COLUNA LOMBAR. LASÃGUE NEATIVO BILATERALMENTE.
+CONSIDERAÃÃES: NÃO EXISTEM EVIDÃNCIAS DE INCAPACIDADE LABORATIVA NO MOMENTO. RESULTADO: NÃO EXISTE INCAPACIDADE LABORATIVA.
+Num. 62039146 - Pág. 1 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 03/10/2023
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 20/02/2024 HISTÃRICO: NAO DISPONIVEL
+EXAME FÃSICO: NAO DISPONIVEL
+CONSIDERAÃÃES: LAUDO DEVIDO AÃÃO JUDICIAL DE CONCESSÃO OU DE REATIVAÃÃO. RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 15/02/2024
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 21/03/2024
+HISTÃRICO:
+Num. 62039146 - Pág. 2 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+EXAME FÃSICO:
+CONSIDERAÃÃES: PEDIDO DE MANUTENÃÃO - TRATA-SE DE PRORROGAÃÃO AUTOMÃTICA. RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 11/03/2024
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 20/04/2024 HISTÃRICO:
+EXAME FÃSICO:
+CONSIDERAÃÃES: PEDIDO DE MANUTENÃÃO - TRATA-SE DE PRORROGAÃÃO AUTOMÃTICA. RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 12/04/2024
+Num. 62039146 - Pág. 3 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 20/05/2024 HISTÃRICO:
+EXAME FÃSICO:
+CONSIDERAÃÃES: PEDIDO DE MANUTENÃÃO - TRATA-SE DE PRORROGAÃÃO AUTOMÃTICA. RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 13/05/2024
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 19/06/2024
+HISTÃRICO:
+EXAME FÃSICO:
+CONSIDERAÃÃES: PEDIDO DE MANUTENÃÃO - TRATA-SE DE PRORROGAÃÃO AUTOMÃTICA.
+RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. AC. DO AUX- ISENÃÃO SUGEST. APOS. POR
+Num. 62039146 - Pág. 4 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+PROF TRABALHO ACIDENTE CARÃNCIA INVALIDEZ NÃO NÃO NÃO NÃO
+BENEFÃCIO NB REQTO OCUPAÃÃO DATA DO EXAME AuxÃlio - DoenÃ§a 6458098980 247816233 10/06/2024
+REQUERIMENTO (DER)
+INÃCIO
+BENEF. (DIB)
+INÃCIO
+DOENÃA (DID)
+INÃCIO
+INCAPACIDADE (DII)
+CESSAÃÃO PREVISTA
+CI D
+03/10/2023 22/06/2022 22/06/2022 22/06/2022 19/07/2024 HISTÃRICO:
+EXAME FÃSICO:
+CONSIDERAÃÃES: PEDIDO DE MANUTENÃÃO - TRATA-SE DE PRORROGAÃÃO AUTOMÃTICA. RESULTADO: EXISTE INCAPACIDADE LABORATIVA.
+ENCAM. Ã REAB. PROF
+AC. DO
+TRABALHO
+AUX
+ACIDENTE
+ISENÃÃO CARÃNCIA
+SUGEST. APOS. POR INVALIDEZ
+NÃO NÃO NÃO NÃO
+HISTÃRICO DE LAUDOS MÃDICOS PERICIAIS - PMF
+NB 64580989
+80 Protocolo PMF 16286736
+45
+Data realizaÃ§Ã£o exame
+4SituaÃ§Ã£o 4 22/11/202
+CID M51 CID secundÃ¡rio
+Tipo de conclusÃ£o de perÃcia
+1 Data comprovaÃ§Ã£o incapacidade (DCI) 17/01/202 5
+DCB 17/01/202
+5DID 22/06/202
+2
+Num. 62039146 - Pág. 5 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+NB restabelecimento PassÃvel de RP
+Faz jus auxÃlio
+acidente? NB agravamento da lesÃ£o auxÃlio acidente
+Possui isenÃ§Ã£o carÃªncia?
+Possui isenÃ§Ã£o carÃªncia por gestaÃ§Ã£o de alto risco?
+Possui isenÃ§Ã£o IR RecuperaÃ§Ã£o da capacidade laborativa
+Num. 62039146 - Pág. 6 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:36 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253265200000085053240
+Número do documento: 25020611253265200000085053240
+ADVOCACIA-GERAL DA UNIÃO
+SUPER SAPIENS
+EXTRATO DE DOSSIÃ PREVIDENCIÃRIO
+* InformaÃ§Ãµes extraÃdas dos sistemas informatizados do INSS em 17/01/2025 13:03:42 FICHA SINTÃTICA DO PROCESSO
+NÃMERO ÃNICO (CNJ) 0007675-24.2024.4.05.8107 DATA AJUIZAMENTO 13/12/2024
+ÃRGÃO JULGADOR 25Âª VARA FEDERAL CE ASSUNTO RESTABELECIMENTO NIT 12951898934
+PARTE AUTORA/INTERESSADO FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+CPF 30282656804
+DATA DE NASCIMENTO 27/08/1973
+ESTADO CIVIL
+FILIAÃÃO DAMIANA ALEXANDRE SEXO MASCULINO
+ENDEREÃO PRINCIPAL Logradouro: SOBRADO, NÃºmero: SN, Bairro: GUASSUSE, OROS - CE, CEP: 63520000
+ENDEREÃO SECUNDÃRIO
+CTPS NÃºmero: 65211, SÃ©rie: 35, UF: CE RELAÃÃO DE PROCESSOS MOVIDOS PELO AUTOR/CPF CONTRA O INSS
+JUDICIAL ASSUNTO INTERESSADOS ÃRGÃO
+PROCESSO
+JULGADOR
+AJUIZAME NTO
+DATA
+ABERTUR A
+000394976202340 RURAL FRANCISCO DAS 25Âª VARA 25/07/2023 01/08/202
+Num. 62039147 - Pág. 1 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+58107 (ART. 59/63)
+CHAGAS JOSINO ALEXANDRE
+INSTITUTO
+NACIONAL DO SEGURO SOCIAL - INSS
+CEAB-DJ INSS
+FEDERAL CE - TRF5
+3
+RESUMO INICIAL â DADOS GERAIS DOS REQUERIMENTOS
+NB BENEFÃCIO DER
+DATA INÃCIO (DIB)
+DATA
+CESSAÃÃO (DCB)
+STATUS MOTIVO
+645.809.89 8-0
+31 - AUXÃLIO POR
+INCAPACIDAD E
+TEMPORÃRIA PREVIDENCIÃ RIO
+03/10/20 23
+22/06/20 22
+22/11/2024 CESSAD O
+9 - DCA ACP
+2005.33.00.020219-8
+639.623.07 4-0
+31 - AUXÃLIO POR
+INCAPACIDAD E
+TEMPORÃRIA PREVIDENCIÃ RIO
+22/06/20 22
+- - INDEFERI DO
+3 - PARECER CONTRARIO DA PERICIA MEDICA
+RELAÃÃES PREVIDENCIÃRIAS
+ORIGEM
+qNIT COD
+DATA
+TIPO
+ÃLTIMA
+Se
+1 129518 98934
+2 129518 98934
+EMP/NB
+49.032.337/ 0001-70
+02.364.381/ 0001-13
+DO
+VÃNCULO
+INDUSTRI AL
+LEVORIN S A
+WM
+CONSTRU COES
+INÃCI O
+01/06/ 2000
+21/06/ 2013
+DATA FIM
+11/07/ 2001
+DE
+FILIAÃ ÃO
+Empre gado
+ou
+Agent e
+PÃºbli co
+Empre gado
+ou
+OCUPAÃÃO
+outros trab f produtos
+borracha
+(exceto
+pneumaticos) - 0901-90
+demolidor de edificacoes - 7170-05
+REMUNE RAÃÃO
+07/2001 01/2014
+INDICAD ORES
+Num. 62039147 - Pág. 2 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+LTDA Agent e
+PÃºbli
+co
+3 129518 98934
+4 129518 98934
+645809898 0
+639623074 0
+31 -
+AUXILIO DOENCA PREVIDEN CIARIO
+31 -
+AUXILIO DOENCA PREVIDEN CIARIO
+22/06/ 2022
+22/11/ 2024
+Benef Ãcio
+Benef Ãcio
+ATIVIDADES DECLARADAS PELO CONTRIBUINTE
+TIPO DE FILIADO NO VÃNCULO
+DATA INÃCIO
+DATA FIM
+FORMA PRESTAÃÃO SERVIÃO
+ATIVIDA DE
+ORIGEM
+VÃNCULO CI
+NÃ£o hÃ¡ atividades declaradas pelo contribuinte
+COMPETÃNCIAS DETALHADAS
+VÃnculo PrevidenciÃ¡rio
+Se q
+CÃ³digo Emp.
+Origem do VÃnculo
+Data
+InÃcio
+Data Fim
+Tipo de Filiado no VÃnculo
+Ãlt.
+Remun .
+Indicador es (*)
+1 49.032.337/000 1-70
+INDUSTRIAL LEVORIN S A
+01/06/20 00
+11/07/20 01
+Empregado ou Agente PÃºblico
+07/2001
+Causa rescisÃ£o: RescisÃ£o sem justa causa, por iniciativa do empregador, inclusive rescisÃ£o antecipada do contrato a termo
+PerÃodo ExtemporÃ¢neo: Sem perÃodos extemporÃ¢neos
+Lista de RemuneraÃ§Ãµes
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+Num. 62039147 - Pág. 3 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+06/2000 R$ 367,00 07/2000 R$ 386,84 08/2000 R$ 387,54 09/2000 R$ 376,11 10/2000 R$ 391,78 11/2000 R$ 375,17 12/2000 R$ 474,21 01/2001 R$ 358,78 02/2001 R$ 384,13 03/2001 R$ 387,33 04/2001 R$ 382,11 05/2001 R$ 411,34 06/2001 R$ 438,55 07/2001 R$ 522,57
+VÃnculo PrevidenciÃ¡rio
+Se q
+CÃ³digo Emp.
+Origem do VÃnculo
+Data
+InÃcio
+Data Fim
+Tipo de Filiado no VÃnculo
+Ãlt.
+Remun .
+Indicador es (*)
+2 02.364.381/000 1-13
+WM
+CONSTRUCOES LTDA
+21/06/2 013
+Empregado ou Agente PÃºblico
+01/2014
+PerÃodo ExtemporÃ¢neo: Sem perÃodos extemporÃ¢neos Lista de RemuneraÃ§Ãµes
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+06/2013 R$ 226,00 07/2013 R$ 678,00 08/2013 R$ 696,69 09/2013 R$ 688,26 10/2013 R$ 686,70 11/2013 R$ 992,00 12/2013 R$ 995,04 01/2014 R$ 99,20
+Dados do BenefÃcio
+Se
+qNB EspÃ©cie
+Data
+Requerim ento
+(DER)
+Data
+Despa cho
+(DDB)
+Data
+InÃcio (DIB)
+Data Fim
+(DCB)
+Data
+InÃcio Pagam ento
+(DIP)
+SituaÃ§
+Ã£o Motivo
+Num. 62039147 - Pág. 4 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+3 645809 8980
+Rend
+31 -
+AUXILIO DOENCA PREVIDEN CIARIO
+03/10/202 3
+Ãltim
+03/10/ 2023
+22/06/ 2022
+22/11/ 2024
+01/09/2 023
+CESSA DO
+9 - DCA ACP 2005.33.00.0 20219-8
+a
+Mens al
+Inicial (RMI)
+SalÃ¡rio de
+BenefÃ cio (SB)
+Coeficie nte
+a
+Rend a
+Mens al
+(RMA)
+Data
+Acidente / Desligament o (DAT)
+Data
+NB
+Anteri or
+Data Ãbito Titula r
+Ãndice Reajuste Teto
+(IRT)
+Ãndic e Teto 12/98
+Ãndic e Teto 01/04
+1.212, 00
+R$
+1.212,00
+0 % R$
+1.412,
+00
+Ramo
+22/06/2022 - - - - - Data
+Forma de FiliaÃ§Ã£o
+de
+Ativid ade
+Natureza OcupaÃ §Ã£o
+Tipo de Concess Ã£o
+Tratament o
+Regulariza Ã§Ã£o
+Documento (DRD)
+APS
+Concess ora
+APS
+Mantene dora
+SEGURADO_E SPECIAL
+RURA L
+- CONCES SAO
+DECORR
+ENTE DE
+ACAO
+JUDICIAL
+80 -
+SALARIO MINIMO - RURAL -
+PREVIDEN CIARIO
+SIMPLES
+01/09/2023 16001250 .
+AGÃNCIA
+DA
+PREVIDÃ
+NCIA
+SOCIAL
+ATENDIM
+ENTO
+DEMAND
+AS
+JUDICIAI
+S
+TERESIN
+A
+05021180 .
+AGÃNCI A DA
+PREVIDÃ NCIA
+SOCIAL ORÃS
+AP Reajustada (APR) Tipo Representante 0,00
+Lista de RemuneraÃ§Ãµes
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+CompetÃªn cia
+Moe da
+RemuneraÃ§ Ã£o
+Indicado res
+11/2024 847,20 10/2024 1.412,00
+Num. 62039147 - Pág. 5 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+09/2024 1.412,00 08/2024 1.412,00 07/2024 1.412,00 06/2024 1.412,00 05/2024 941,33 04/2024 941,33 03/2024 1.412,00 02/2024 941,33 01/2024 1.412,00 12/2023 1.320,00 11/2023 1.320,00 10/2023 1.320,00 09/2023 1.320,00
+Dados do BenefÃcio
+S e q
+NB EspÃ©cie
+Data
+Requeri mento (DER)
+Data
+Indeferi mento
+SituaÃ §Ã£o
+Forma de FiliaÃ§Ã£ o
+Ramo de
+Ativida de
+Motivo
+APS
+Requeri mento
+4 63962 30740
+31 -
+AUXILIO DOENCA PREVIDEN CIARIO
+22/06/202 2
+12/06/202 3
+INDEFE RIDO
+0 -
+DESEMPR EGADO
+0 - NÃO INFOR MADO
+3 -
+PAREC ER
+CONTR ARIO
+DA
+PERICI A
+MEDIC A
+5021080
+HISTÃRICO DE CARTAS DE CONCESSÃO DOS BENEFÃCIOS
+Se
+qNIT APS NB
+Data de
+ConcessÃ£o do BenefÃcio
+3 12951898 93-4
+16.0.01.250 - AGÃNCIA DA PREVIDÃNCIA SOCIAL ATENDIMENTO DEMANDAS JUDICIAIS TERESINA
+64580989 8-0
+03/10/2023
+Comunicamos que lhe foi concedido AUXILIO P/INCAPACIDADE TEMPORARIA PREVID (31)
+nÃºmero 645809898-0 requerido em 03/10/2023 com renda mensal de R$ 1.212,00, com inÃcio de
+Num. 62039147 - Pág. 6 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+vigÃªncia de 22/06/2022
+Dados do Pagamento do BenefÃcio
+ÃrgÃ£o Pagador / AgÃªncia BancÃ¡ria: 0000 / BRADESCO - OROS
+EndereÃ§o: TRAVESSA ELIBA, 159 - CENTRO
+HISTÃRICO DE CRÃDITOS DETALHADOS DOS BENEFÃCIOS
+Seq NB Data InÃcio (DIB) Data Fim (DCB) Data InÃcio Pagamento (DIP) 3 6458098980 22/06/2022 22/11/2024 01/09/2023
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Num. 62039147 - Pág. 7 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+CompetÃª ncia
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+PerÃo do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Valor LÃqui do
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+Meio de
+Pagamento Status
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+PrevisÃ £o do
+Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+Data do Pagame nto
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+CrÃ©di to
+Invalid ado
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+Isen to
+IR
+CompetÃª ncia
+PerÃo do
+Valor LÃqui
+Pagamento Status PrevisÃ
+Meio de
+£o do
+Data do Pagame
+CrÃ©di to
+Isen to
+Num. 62039147 - Pág. 8 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+do Pagame
+nto nto Invalid
+ado IR
+09/2023 01/09/2 023 a
+30/09/2
+023
+R$
+1.320,0 0
+CMG -
+CARTAO
+MAGNETICO
+PAGO - Pagame nto
+efetivad o
+24/10/202 3
+24/10/202 3
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 07/10/2023 Origem: ConcessÃ£o Validade InÃcio: 24/10/2023 Fim: 28/12/2023
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.320,00
+10/2023 01/10/2 023 a
+31/10/2
+023
+R$
+1.320,0 0
+CMG -
+CARTAO
+MAGNETICO
+PAGO - Pagame nto
+efetivad o
+06/11/202 3
+06/11/202 3
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 09/10/2023 Origem: MaciÃ§a Validade InÃcio: 06/11/2023 Fim: 28/12/2023
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.320,00
+11/2023 01/11/2 023 a
+30/11/2
+023
+R$
+2.640,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/12/202 3
+05/12/202 3
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 05/11/2023 Origem: MaciÃ§a Validade InÃcio: 05/12/2023 Fim: 31/01/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.320,00
+104 VALOR DO DECIMO-TERCEIRO SALARIO R$ 1.320,00
+12/2023 01/12/2 023 a
+31/12/2
+023
+R$
+1.320,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+04/01/202 4
+04/01/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado
+Data CÃ¡lculo: 15/12/2023 Origem: MaciÃ§a Validade InÃcio: 04/01/2024 Fim: 29/02/2024
+Num. 62039147 - Pág. 9 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.320,00
+01/2024 01/01/2 024 a
+31/01/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/02/202 4
+05/02/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 13/01/2024 Origem: MaciÃ§a Validade InÃcio: 05/02/2024 Fim: 28/03/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+02/2024 01/02/2 024 a
+20/02/2
+024
+R$
+1.176,6 6
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/03/202 4
+05/03/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 04/02/2024 Origem: MaciÃ§a Validade InÃcio: 05/03/2024 Fim: 30/04/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 941,33
+104 VALOR DO DECIMO-TERCEIRO SALARIO R$ 235,33
+02/2024 21/02/2 024 a
+29/02/2
+024
+R$
+470,66
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+21/02/202 4
+21/02/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 16/02/2024 Origem: PAB Validade InÃcio: 21/02/2024 Fim: 30/04/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 470,66
+337 CP-ReativaÃ§Ã£o R$ 470,66
+03/2024 01/03/2 024 a
+31/03/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+03/04/202 4
+03/04/202 4
+NÃ£o NÃ£ o
+Num. 62039147 - Pág. 10 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 15/03/2024 Origem: MaciÃ§a Validade InÃcio: 03/04/2024 Fim: 31/05/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+04/2024 01/04/2 024 a
+20/04/2
+024
+R$
+1.176,6 6
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+06/05/202 4
+06/05/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 07/04/2024 Origem: MaciÃ§a Validade InÃcio: 06/05/2024 Fim: 28/06/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 941,33
+104 VALOR DO DECIMO-TERCEIRO SALARIO R$ 470,66 218 13. SALARIO PAGO COMPETENCIAS ANTERIORES R$ 235,33
+04/2024 21/04/2 024 a
+30/04/2
+024
+R$
+470,66
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+18/04/202 4
+18/04/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 15/04/2024 Origem: PAB Validade InÃcio: 18/04/2024 Fim: 28/06/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 470,66
+337 CP-ReativaÃ§Ã£o R$ 470,66
+05/2024 01/05/2 024 a
+20/05/2
+024
+R$
+1.059,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/06/202 4
+05/06/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado
+Data CÃ¡lculo: 06/05/2024 Origem: MaciÃ§a Validade InÃcio: 05/06/2024 Fim: 31/07/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor
+101 VALOR TOTAL DE MR DO PERIODO R$ 941,33
+Num. 62039147 - Pág. 11 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+104 VALOR DO DECIMO-TERCEIRO SALARIO R$ 588,33 218 13. SALARIO PAGO COMPETENCIAS ANTERIORES R$ 470,66
+05/2024 21/05/2 024 a
+31/05/2
+024
+R$
+470,66
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+17/05/202 4
+17/05/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 14/05/2024 Origem: PAB Validade InÃcio: 17/05/2024 Fim: 31/07/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 470,66
+337 CP-ReativaÃ§Ã£o R$ 470,66
+06/2024 01/06/2 024 a
+30/06/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+03/07/202 4
+03/07/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 14/06/2024 Origem: MaciÃ§a Validade InÃcio: 03/07/2024 Fim: 30/08/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+07/2024 01/07/2 024 a
+31/07/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/08/202 4
+05/08/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 12/07/2024 Origem: MaciÃ§a Validade InÃcio: 05/08/2024 Fim: 30/09/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+08/2024 01/08/2 024 a
+31/08/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+04/09/202 4
+04/09/202 4
+NÃ£o NÃ£ o
+Num. 62039147 - Pág. 12 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 11/08/2024 Origem: MaciÃ§a Validade InÃcio: 04/09/2024 Fim: 31/10/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+09/2024 01/09/2 024 a
+30/09/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+03/10/202 4
+03/10/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 08/09/2024 Origem: MaciÃ§a Validade InÃcio: 03/10/2024 Fim: 29/11/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+10/2024 01/10/2 024 a
+31/10/2
+024
+R$
+1.412,0 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+05/11/202 4
+05/11/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 07/10/2024 Origem: MaciÃ§a Validade InÃcio: 05/11/2024 Fim: 30/12/2024
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 1.412,00
+11/2024 01/11/2 024 a
+18/11/2
+024
+R$
+1.553,2 0
+CCF - CONTA CORRENTE
+PAGO - Pagame nto
+efetivad o
+04/12/202 4
+04/12/202 4
+NÃ£o NÃ£ o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado Data CÃ¡lculo: 10/11/2024 Origem: MaciÃ§a Validade InÃcio: 04/12/2024 Fim: 31/01/2025
+CÃ³digo DescriÃ§Ã£o Rubrica Valor 101 VALOR TOTAL DE MR DO PERIODO R$ 847,20
+104 VALOR DO DECIMO-TERCEIRO SALARIO R$ 1.294,33 218 13. SALARIO PAGO COMPETENCIAS ANTERIORES R$ 588,33
+11/2024 19/11/2 024 a
+R$
+188,26
+CMG -
+CARTAO
+PAGO - Pagame
+25/11/202 4
+04/12/202 4
+NÃ£o NÃ£ o
+Num. 62039147 - Pág. 13 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+22/11/2 024
+MAGNETICO nto efetivad
+o
+Banco: 237 - BRADESCO OP: 827469 - OROS OcorrÃªncia: Pagamento efetivado
+Data CÃ¡lculo: 19/11/2024 Origem: PAB Validade InÃcio: 25/11/2024 Fim: 31/01/2025
+CÃ³digo DescriÃ§Ã£o Rubrica Valor
+101 VALOR TOTAL DE MR DO PERIODO R$ 188,26
+348 CP-ResÃduo calculado pelo sistema R$ 188,26
+Num. 62039147 - Pág. 14 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:42 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253266700000085053241
+Número do documento: 25020611253266700000085053241
+INSS - Instituto Nacional do Seguro Social GET - Gerenciador de Tarefas
+Página 1 de 5
+PROTOCOLO DE REQUERIMENTO
+484888365
+Data de entrada: 22/10/2024 - Central de Serviços -
+Dados Básicos
+Informações da Tarefa
+Serviço
+Pedido de Prorrogação de Benefício por Incapacidade
+Unidade de Protocolo
+AGÊNCIA DA PREVIDÊNCIA SOCIAL ORÓS
+Endereço para atendimento:
+A tarefa não possui endereço para atendimento externo. Campos adicionais:
+Status Prioridade Concluída Normal
+Data de entrada do requerimento Canal de atendimento 22/10/2024 11:05 Central de Serviços - Internet
+Última atualização
+22/11/2024 21:21
+Campo Valor
+NB 645.809.898-0
+NR 70003540
+DCB 18/11/2024
+APS Manutenção 05021180
+Tipo de Perícia de Prorrogação PMC
+Desejo informar uma DER de contingência Sim
+Espécie do Benefício 31
+Situação do primeiro agendamento AGENDADO
+Data do primeiro agendamento 18/11/2024 - 08:20
+Requerimento foi migrado do SABI Sim
+Interessados
+CPF Nome Completo Data Nascimento Nome Completo da Mãe 302.826.568-04 FRANCISCO DAS CHAGAS JOSINO ALEXANDRE 26/08/1973
+Procuradores / Representantes Legais
+A tarefa não possui procuradores / representantes legais.
+Instituidores
+A tarefa não possui instituidores.
+Anexos
+A tarefa não possui anexos.
+Você pode conferir a autenticidade do documento em
+https://meu.inss.gov.br/central/#/autenticidade
+com o código 2501173SRISX30
+Emitido em: 17/01/2025 12:47
+Num. 62039148 - Pág. 1 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+Página 2 de 5
+Despacho (462227413)
+Enviado em 22/10/2024 11:05
+484888365 - Pedido de Prorrogação de Benefício por Incapacidade (Tarefa principal)
+Agendamento de perícia realizada com sucesso(protocolo: 446710505 - data e hora da solicitação: 22/10/2024 11:05 - data e hora agendada: 18/11/2024 08:20 (horário de Brasília) - unidade: (05021080) - AGÊNCIA DA PREVIDÊNCIA SOCIAL JUAZEIRO DO NORTE)
+Num. 62039148 - Pág. 2 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+Página 3 de 5
+Despacho (470925857)
+Enviado em 18/11/2024 11:15
+484888365 - Pedido de Prorrogação de Benefício por Incapacidade (Tarefa principal)
+Agendamento de perícia realizada com sucesso(protocolo: 1281216089 - data e hora da solicitação: 18/11/2024 11:15 - data e hora agendada: 22/11/2024 09:00 (horário de Brasília) - unidade: (05021080) - AGÊNCIA DA PREVIDÊNCIA SOCIAL JUAZEIRO DO NORTE)
+Num. 62039148 - Pág. 3 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+Página 4 de 5
+Despacho (470926004)
+Enviado em 18/11/2024 11:16
+Unidade: 05021080 - AGÊNCIA DA PREVIDÊNCIA SOCIAL JUAZEIRO DO NORTE
+484888365 - Pedido de Prorrogação de Benefício por Incapacidade (Tarefa principal)
+Perícia remarcada em razão de adesão do profissional ao movimento grevista nesta data.
+Num. 62039148 - Pág. 4 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+Página 5 de 5
+Despacho (473105527)
+Enviado em 22/11/2024 21:21
+484888365 - Pedido de Prorrogação de Benefício por Incapacidade (Tarefa principal)
+A perícia médica não reconheceu a sua incapacidade para o trabalho ou atividade habitual e o benefício 6458098980 não foi prorrogado.A cessação do seu benefício continua sendo em 19/07/2024.
+Num. 62039148 - Pág. 5 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+Anexos de Perícias Médicas
+Num. 62039148 - Pág. 6 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+1
+PROTOCOLO DE REQUERIMENTO
+1628673645
+Data de entrada: 19/11/2024 - Central de Serviços -
+Dados Básicos
+Serviço
+Perícia Médica Conclusiva (PMF Perícias)
+Unidade
+01400 - SUBSECRETARIA DE PERÍCIA MÉDICA FEDERAL
+Endereço para atendimento:
+A tarefa não possui endereço para atendimento externo. Campos adicionais:
+Status Prioridade Concluída Normal
+Data de entrada do requerimento Canal de atendimento 19/11/2024 04:09 Central de Serviços - Intranet
+Última atualização
+22/11/2024 13:17
+Campo Valor
+NB 645.809.898-0
+Interessado(s)
+CPF Nome Completo Data Nascimento Nome Completo da Mãe 302.826.568-04 FRANCISCO DAS CHAGAS JOSINO ALEXANDRE 27/08/1973 DAMIANA ALEXANDRE
+Procurador(es) / Representante(s) Legal(is)
+A tarefa não possui procurador(es) / representante(s) legal(is).
+Anexos
+A tarefa não possui anexos.
+Emitido em: 17/01/2025 12:47
+Num. 62039148 - Pág. 7 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+2
+Comentário (13961365)
+Enviado em 22/11/2024 13:17
+Unidade: 01400 - DEPARTAMENTO DE PERÍCIA MÉDICA FEDERAL
+1628673645 - Perícia Médica Conclusiva (PMF Perícias)
+Conclusão da tarefa devida a conclusão da perícia
+Num. 62039148 - Pág. 8 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:16 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253271400000085053242
+Número do documento: 25020611253271400000085053242
+ADVOCACIA-GERAL DA UNIÃO
+SUPER SAPIENS
+DOSSIÃ SOCIAL CADUNICO
+*InformaÃ§Ãµes extraÃdas do Cadastro Ãnico para Programas Sociais do Governo Federal - CadÃnico, elaborado a partir de declaraÃ§Ã£o de uma pessoa da famÃlia - ResponsÃ¡vel pela Unidade Familiar (RF) - que se responsabiliza por prestar as informaÃ§Ãµes de todos os membros da famÃlia. Cada pessoa Ã© cadastrada em somente um grupo familiar. O cadastramento de cada famÃlia Ã© vinculado a seu domicÃlio e ao responsÃ¡vel pela unidade familiar. As informaÃ§Ãµes constantes do CadÃnico tÃªm validade de dois anos, contados a partir da data da Ãºltima atualizaÃ§Ã£o, sendo necessÃ¡ria, apÃ³s este perÃodo, a sua atualizaÃ§Ã£o ou revalidaÃ§Ã£o, na forma disciplinada pelo MinistÃ©rio da Cidadania.
+*DossiÃª gerado em 17/01/2025 12:47:05
+*Base de dados atualizada em 31/08/2024 08:40:59
+DADOS GERAIS
+Data do cadastramento da famÃlia
+Pessoa responsÃ¡vel pela unidade
+familiar EndereÃ§o famÃlia
+29/05/2002 LINDINALVA INACIO DE LIMA SITIO SOBRADO 0 GUASSUSSE CEP 63520000
+Data da Ãºltima atualizaÃ§Ã£o
+ResponsÃ¡vel pela atualizaÃ§Ã£o
+26/01/2024 JOSE VALDEMIR NOGUEIRA SAMPAIO MEMBROS DO GRUPO FAMILIAR
+Nome RelaÃ§Ã£o de parentesco com o resp. pela unid. fam
+nasc.CPF Dt. cadastro da pessoa
+Data
+no CadUnico
+LINDINALVA INACIO DE LIMA Pessoa ResponsÃ¡vel pela Unidade Familiar - RF
+19/12/19 74
+930815883 91
+14/06/2010
+FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+CÃ´njuge ou companheiro(a) 27/08/19 73
+302826568 04
+14/06/2010
+YURE LIMA JOSINO Filho(a) 17/07/20 02
+953306330 0
+14/06/2010
+KAYK LIMA JOSINO Filho(a) 12/11/20 04
+- 14/06/2010
+IDENTIFICAÃÃO E DOCUMENTAÃÃO CIVIL DO MEMBRO DO GRUPO FAMILIAR
+RelaÃ§Ã£o de parentesco com o ResponsÃ¡vel pela Unidade Familiar: Pessoa ResponsÃ¡vel pela Unidade Familiar - RF
+Nome: LINDINALVA INACIO DE LIMA Sexo: FEMININO Cor ou raÃ§a: BRANCA
+Num. 62039149 - Pág. 1 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:23 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253279600000085053243
+Número do documento: 25020611253279600000085053243
+Data Nascimento: 19/12/1974 Nome da mÃ£e: MARIA INACIO SUBRINHA
+Nome do pai: JOSE NILTON DE LIMA
+CPF: 93081588391 NÃºmero de IdentificaÃ§Ã£o Social â NIS: 16351700966
+NÃºmero da Carteira de Identidade: 329143698
+ÃrgÃ£o Emissor da Carteira de Identidade: SSP
+Complemento do nÂº da Carteira de Identidade : 0
+UF da Carteira de Identidade : CE
+Data de emissÃ£o da Carteira de Identidade: 27/05/1998
+MunicÃpio de nascimento: OROS UF de nascimento: CE Nome do paÃs de nascimento: NÃ£o informado
+Pessoa registrada em cartÃ³rio: NÃO INFORMADO
+Tipo de CertidÃ£o : NASCIMENTO
+Nome do cartÃ³rio: CARTORIO DE OROS
+Livro da certidÃ£o: 69 Folha da certidÃ£o : 46 NÃºmero do Termo/MatrÃcula da CertidÃ£o: 20884
+Data de emissÃ£o da certidÃ£o: 01/11/2001
+UF da CertidÃ£o : CE
+NÃºmero da Carteira de Trabalho: 94798 SÃ©rie da Carteira de Trabalho: NÃ£o informado
+UF da Carteira de Trabalho: CE
+Data da emissÃ£o da Carteira de Trabalho: 30/06/1999
+NÃºmero do TÃtulo de Eleitor: 34080710760
+Zona do TÃtulo de Eleitor: 85 SeÃ§Ã£o do TÃtulo de Eleitor: 41
+Data de cadastramento da Pessoa no CadÃnico: 14/06/2010
+Data do cadastramento da FamÃlia : 29/05/2002
+Data da Ãºltima atualizaÃ§Ã£o : 26/01/2024
+ESCOLARIDADE, PARTICIPAÃÃO NO MERCADO DE TRABALHO E RENDIMENTO DO MEMBRO DO GRUPO FAMILIAR
+Sabe ler e escrever: Sim Frequenta escola ou creche: NÃ£o, jÃ¡ frequentou - Informa se Ãºltima sÃ©rie concluÃda com aprovaÃ§Ã£o e
+conclusÃ£o do curso
+Se frequenta, nome da escola ou creche: NÃ£o se aplica
+Se frequenta, escola estÃ¡ localizada no municÃpio: NÃ£o se aplica
+Se frequenta, UF da escola: NÃ£o se aplica Se frequenta e escola nÃ£o estÃ¡ localizada no municÃpio, nome do municÃpio da escola: NÃ£o se aplica
+Se frequenta, qual nÃvel de escolaridade: NÃ£o se aplica
+Se frequenta ensino fundamental ou mÃ©dio, qual ano e sÃ©rie: NÃ£o se aplica
+Se jÃ¡ frequentou, qual nÃvel de escolaridade mais elevado: Ensino Fundamental 5Âª a 8Âª sÃ©ries, MÃ©dio 1Âº ciclo (Ginasial), Segunda fase do 1Âº grau
+Pessoa tem deficiÃªncia: (conforme declaraÃ§Ã£o do ResponsÃ¡vel Familiar): NÃ£o Cegueira: OpÃ§Ã£o nÃ£o marcada Baixa VisÃ£o: OpÃ§Ã£o nÃ£o marcada
+DeficiÃªncia Surdez severa: OpÃ§Ã£o nÃ£o marcada
+DeficiÃªncia Surdez leve: OpÃ§Ã£o nÃ£o marcada
+Num. 62039149 - Pág. 2 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:23 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253279600000085053243
+Número do documento: 25020611253279600000085053243
+DeficiÃªncia FÃsica: OpÃ§Ã£o nÃ£o marcada DeficiÃªncia Mental: OpÃ§Ã£o nÃ£o marcada SÃndrome de Down: OpÃ§Ã£o nÃ£o marcada Transtorno mental: OpÃ§Ã£o nÃ£o marcada
+BeneficiÃ¡rio do Programa Bolsa FamÃlia: Sim
+Valor da renda mÃ©dia (per capita) da famÃlia: R$ 55,00
+Trabalho infantil na famÃlia: NÃ£o
+Recebe ajuda de terceiros: NÃ£o Recebe ajuda de terceiros - famÃlia: NÃ£o Recebe ajuda de terceiros - especializada: NÃ£o Recebe ajuda de terceiros - vizinhos: NÃ£o
+Recebe ajuda de terceiros - instituiÃ§Ã£o rede social: NÃ£o
+Recebe ajuda de terceiros - outra forma: NÃ£o
+Pessoa trabalhou na semana passada, de forma remunerada ou nÃ£o (afazeres domÃ©sticas ou atividades de subsistÃªncia nÃ£o sÃ£o consideradas trabalho): NÃ£o
+Pessoa afastada na semana passada por qualquer motivo: NÃ£o - Na semana anterior Ã entrevista, nÃ£o teve qualquer trabalho.
+Trabalho principal que a pessoa exerce Ã© em atividades de agricultura, criaÃ§Ã£o de animais, pesca ou coleta: NÃ£o informado
+Trabalho principal que a pessoa tinha na semana anterior: NÃ£o informado
+Valor de remuneraÃ§Ã£o bruta recebida no mÃªs anterior: R$ 0,00
+Pessoa teve trabalho remunerado ou estava afastado pelo INSS em qualquer perÃodo nos Ãºltimos 12 meses: NÃ£o
+Quantidade de meses trabalhados em qualquer perÃodo nos Ãºltimos 12 meses: 0
+Valor mensal recebido de doaÃ§Ã£o/ajuda regular de nÃ£o morador : R$ 0,00
+Valor mensal recebido de seguro desemprego ou do seguro defeso: R$ 0,00
+Valor de remuneraÃ§Ã£o bruta recebida nos Ãºltimos 12 meses: R$ 0,00
+Valor mensal recebido de aposentadoria, aposentadoria rural, pensÃ£o, BPC: R$ 0,00
+Valor mensal recebido de pensÃ£o alimentÃcia : R$ 0,00
+Valor recebido de outras fontes (nÃ£o inclui benefÃcios do Bolsa FamÃlia, outros programas de transferÃªncia de renda, PETI, PrÃ³-Jovem ou AuxÃlio Emergencial Financeiro): R$ 0,00
+Dorme na rua: OpÃ§Ã£o nÃ£o marcada Quantidade de vezes por semana que dorme na rua: 0
+HÃ¡ quanto tempo vive na rua: 0Motivo da condiÃ§Ã£o de rua por perda de moradia: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por ameaÃ§a: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por alcoolismo: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por trabalho: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por preferÃªncia: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por problemas familiares: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por desemprego: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por tratamento de saÃºde: OpÃ§Ã£o nÃ£o marcada
+Motivo da condiÃ§Ã£o de rua por outro motivo: OpÃ§Ã£o nÃ£o marcada
+Num. 62039149 - Pág. 3 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:23 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253279600000085053243
+Número do documento: 25020611253279600000085053243
+NÃ£o sabe/nÃ£o lembra o motivo da condiÃ§Ã£o de rua: OpÃ§Ã£o nÃ£o marcada
+Vive com sua famÃlia na rua: OpÃ§Ã£o nÃ£o marcada
+NÃ£o respondeu o motivo da condiÃ§Ã£o de rua: OpÃ§Ã£o nÃ£o marcada
+Tem contato com parente fora da condiÃ§Ã£o de rua: OpÃ§Ã£o nÃ£o marcada
+Dorme em albergue: OpÃ§Ã£o nÃ£o marcada Quantidade de vezes por semana que dorme em albergue: OpÃ§Ã£o nÃ£o marcada
+Dorme em domicÃlio particular: OpÃ§Ã£o nÃ£o marcada
+Quantidade de vezes por semana que dorme em domicÃlio particular: 0
+Dorme de outra forma: OpÃ§Ã£o nÃ£o marcada Quantidade de vezes por semana que dorme de outra forma: 0
+HÃ¡ quanto tempo vive na cidade em que reside atualmente: 0
+Atividade comunitÃ¡ria em ASSOCIAÃÃO: OpÃ§Ã£o nÃ£o marcada
+Atividade comunitÃ¡ria em Movimento social: OpÃ§Ã£o nÃ£o marcada
+NÃ£o respondeu se frequentou atividade comunitÃ¡ria: OpÃ§Ã£o nÃ£o marcada
+Atendido por Centro de ReferÃªncia Especializado de AssistÃªncia Social (CREAS): OpÃ§Ã£o nÃ£o marcada
+Atendido por InstituiÃ§Ã£o Governamental: OpÃ§Ã£o nÃ£o marcada
+Atendido por Hospital Geral: OpÃ§Ã£o nÃ£o marcada
+Teve emprego com carteira assinada: NÃ£o informado
+Ganha dinheiro como guardador de carro: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro como catador: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro como pedinte: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro de outra forma: OpÃ§Ã£o nÃ£o marcada
+Atividade comunitÃ¡ria em ESCOLA: OpÃ§Ã£o nÃ£o marcada
+Atividade comunitÃ¡ria em COOPERATIVA: OpÃ§Ã£o nÃ£o marcada
+NÃ£o sabe se frequentou atividade comunitÃ¡ria: OpÃ§Ã£o nÃ£o marcada
+Atendido por Centro de ReferÃªncia da AssistÃªncia Social (CRAS): OpÃ§Ã£o nÃ£o marcada
+Atendido por Centro ReferÃªncia PopulaÃ§Ã£o de Rua: OpÃ§Ã£o nÃ£o marcada
+Atendido por InstituiÃ§Ã£o nÃ£o Governamental: OpÃ§Ã£o nÃ£o marcada
+NÃ£o foi atendido por nenhum local: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro com construÃ§Ã£o civil: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro como carregador: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro com serviÃ§os gerais: OpÃ§Ã£o nÃ£o marcada
+Ganha dinheiro com vendas: OpÃ§Ã£o nÃ£o marcada
+Respondeu como ganha dinheiro: NÃ£o respondeu como ganha dinheiro
+IDENTIFICAÃÃO E DOCUMENTAÃÃO CIVIL DO MEMBRO DO GRUPO FAMILIAR RelaÃ§Ã£o de parentesco com o ResponsÃ¡vel pela Unidade Familiar: CÃ´njuge ou companheiro(a)
+Nome: FRANCISCO DAS CHAGAS JOSINO ALEXANDRE
+Sexo: MASCULINO Cor ou raÃ§a: PARDA
+Num. 62039149 - Pág. 4 Assinado eletronicamente por: *.AGU.GOV.BR - 06/02/2025 11:17:23 https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25020611253279600000085053243
+Número do documento: 25020611253279600000085053243

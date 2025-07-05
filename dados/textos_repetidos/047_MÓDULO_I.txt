@@ -1,0 +1,341 @@
+MÓDULO I – NOÇÕES INICIAIS
+DE PRÁTICA
+1. PROCURAÇÃO
+a) PROCURAÇÃO AD JUDICIA ET EXTRA
+- O que significa cláusula ad judicia et extra?
+A cláusula ad judicia et extra autoriza, dentre outros poderes, o advogado a
+praticar todos os atos judiciais e extrajudiciais de defesa e representação de seu
+cliente perante as pessoas jurídicas de direito público ou privado.
+Portaria 993. Art. 43, § 6º. A procuração cujo único objeto seja a representação
+ad judicia dá poderes para o procurador representar o interessado apenas junto
+ao Poder Judiciário e, por si só, não produz efeito para representação no
+processo administrativo previdenciário.
+OBS. Modelo
+IN 128/22. Art. 543. A procuração deverá ser anexada ao requerimento
+eletrônico, acompanhada de cópia do documento de identificação do procurador.
+b) PROCURAÇÃO PARTICULAR OU PÚBLICA
+IN 128/22. Art. 541. O instrumento de mandato poderá ser público ou particular,
+exigindo-se a forma pública na hipótese de outorgante ou outorgado não
+alfabetizado.
+§ 1º. Em se tratando de outorgante não alfabetizado, poderá ser dispensada a
+forma pública para fins de requerimentos quando:
+I - o outorgado for advogado do outorgante.
+Portaria 993. Art. 43, § 3º. Na hipótese do § 2º, em se tratando de outorgado
+advogado, fica dispensada a obrigatoriedade da forma pública para a
+procuração, sendo suficiente a apresentação de procuração particular com
+aposição de digital pelo interessado para fins de assinatura.
+§ 4º. Na hipótese do §§ 2º e 3º, havendo dificuldade que prejudique a aposição
+de assinatura no instrumento de representação, a procuração particular ou
+documento de outorga pode ser efetuada com assinatura a rogo na presença de
+duas testemunhas, as quais deverão assinar conjuntamente com um terceiro que
+assinará em nome da pessoa interessada.
+Portaria nº 1.341, de 20 de agosto de 2021
+Portaria n° 1.392, de 10 de dezembro de 2021
+OBS. Modelo
+- É necessário o reconhecimento de firma na procuração particular?
+Não é necessário o reconhecimento de firma, salvo por imposição legal.
+Entretanto, o servidor poderá solicitar o reconhecimento quando tiver dúvida
+sobre a autenticidade da procuração.
+c) PROCURAÇÃO PARA MENOR DE IDADE
+Portaria 993. Art. 37. Os menores de dezesseis anos são absolutamente
+incapazes para os atos da vida civil e devem ser representados pelos pais, pelo
+tutor ou pelo detentor da guarda.
+Portaria 993. Art. 43. § 1º. O menor entre 16 (dezesseis) e 18 (dezoito) anos
+pode ser procurador, nos termos da lei civil, mas só pode nomear outra pessoa
+para ser o seu procurador através de procuração pública.
+2. TERMO DE REPRESENTAÇÃO
+O Termo de Representação e Autorização de Acesso a Informações
+Previdenciárias é o documento em que o interessado confere poderes para que
+a entidade conveniada o represente perante o INSS e deve estar anexado ao
+requerimento por ela protocolado.
+Portaria 993. Art. 43, § 7º. O Processo Administrativo Previdenciário deve ser
+instruído com a procuração, o documento oficial de identificação do procurador
+e o termo de responsabilidade quando protocolado diretamente pelo procurador
+ou, se protocolado pelo interessado, quando houver atuação do procurador em
+qualquer de suas fases.
+O termo de responsabilidade é o documento por meio do qual o procurador e
+o representante legal se comprometem a comunicar o óbito do titular ou
+dependente do benefício, sua emancipação e a cessação da representação.
+Portaria 993. Art. 44, § 3º. O advogado que protocola requerimento por meio de
+Acordo de Cooperação Técnica celebrado com a Ordem dos Advogados do
+Brasil- OAB deve instruí-lo com o Termo de Representação e Autorização de
+Acesso a Informações Previdenciárias ou com procuração, devendo neste caso
+anexar também o termo de responsabilidade e documento oficial de
+identificação.
+OBS. No Meu INSS não é necessário
+Portaria 993, Art. 46. Quando houver atuação do representante do interessado
+no protocolo do requerimento, cumprimento de exigências, juntada de
+documentos ou em outra fase do Processo Administrativo Previdenciário, este
+deverá ser instruído com seu documento oficial de identificação, CPF, termo de
+responsabilidade e o documento que comprova a representação
+OBS. II. Atenção com a exigência automática
+OBS. III. Modelo
+3. CONTRATO
+Em regra, os contratos celebrados em Direito Previdenciário, são contratos
+de risco, entretanto, atualmente já estão aparecendo outras modalidades pelo
+serviço prestado como para elaboração de planejamento previdenciário,
+atualização de vínculos e remunerações.
+Importante conter no contrato cláusula de desistência ou de renúncia,
+autorização para acesso aos dados do Meu INSS, e valores conforme tabela de
+honorários da sua seccional da OAB.
+OBS. Modelo
+4. ATENDIMENTO NAS AGÊNCIAS – APS
+Portaria Nº 982, de 22 de fevereiro de 2022 - Estabelece regras e
+procedimentos para o atendimento presencial nas Agências da
+Previdência Social do INSS.
+5. INSS DIGITAL
+É um sistema online de protocolo de benefícios e serviços autorizado através
+de termo de cooperação técnica entre o INSS e a entidade conveniada, com
+a função de facilitar a vida do segurado evitando o comparecimento as
+agências.
+a) CADASTRAMENTO E SENHA
+Entrar no site da OAB
+Acessar CADASTRO INSS DIGITAL, preencher o formulário, clicar em
+“Clique aqui para gerar seu termo de compromisso de manutenção de sigilo”.
+Após finalizar o preenchimento, imprimir e assinar a punho com duas
+testemunhas.
+Após assinado, digitalizar o TERMO DE COMPROMISSO e cópia da sua
+carteira da OAB-PI.
+Fazer juntada dos dois documentos no FORMULÁRIO DE CADASTRO na
+opção “ESCOLHER ARQUIVOS”.
+Em seguida, clicar em ENVIAR.
+No prazo de 48 horas, enviaremos a senha provisória para seu e-mail.
+Você deve redefinir a senha provisória que foi enviada para seu e-mail no
+prazo de 24 horas, com uma senha de 8 dígitos, letras e números, tudo
+minúsculo.
+OBS. Acesso por Estado da seccional
+b) ENDEREÇO DE ACESSO
+requerimento.inss.gov.br
+c) CONFIGURAÇÕES DOS ARQUIVOS
+Antes de acessar o sistema para protocolar os requerimentos, organize e
+digitalize toda a documentação, pois o sistema expira ao ficar inativo por
+algum tempo.
+- Formato de cores: 24 bits colorido
+- Resolução: 150 DPI (150 x 150)
+- Documentos posição vertical
+d) TAMANHO DOS ARQUIVOS
+-Tamanho do arquivo: o tamanho de cada arquivo não poderá exceder 5 MB
+e a somatório de todos os arquivos deverá respeitar o limite de 50 MB.
+OBS. Não comprimir o arquivo, programa recomendável para digitalizar PDF
+24
+OBS. II. Caso o conjunto de arquivos ultrapasse 50 MB, verifique se a
+digitalização ocorreu nas regras de configuração, pois dificilmente
+ultrapassará. Verificado que as regras foram seguidas, deverá ser
+protocolado na agência o serviço de Juntada de Documentos onde o servidor
+irá anexar.
+e) NOMENCLATURA DOS ARQUIVOS
+- ORIGINAIS são os documentos originais
+PRIMEIRO NOME DO CLIENTE_CPF_ORIGINAIS
+- TERCEIROS são as cópias autenticadas por terceiros (ex: cartórios,
+servidor público, advogado...)
+PRIMEIRO NOME DO CLIENTE_CPF_TERCEIROS
+- SIMPLES são as fotocópias/xerox
+PRIMEIRO NOME DO CLIENTE_CPF_SIMPLES
+f) CUMPRIMENTO DE EXIGÊNCIAS:
+PRIMEIRO
+NOME
+DO
+CLIENTE_CPF_CUMPRIMENTO
+DE
+EXIGENCIA_ORIGINAIS
+PRIMEIRO
+NOME
+DO
+CLIENTE_CPF_CUMPRIMENTO
+DE
+EXIGENCIA_TERCEIROS
+PRIMEIRO
+NOME
+DO
+CLIENTE_CPF_CUMPRIMENTO
+DE
+EXIGENCIA_SIMPLES
+g) ARQUIVO DO MESMO TIPO ULTRAPASSAR 5MB:
+PRIMEIRO NOME DO CLIENTE_CPF_ORIGINAIS_01
+PRIMEIRO NOME DO CLIENTE_CPF_ORIGINAIS_02
+OBS. O CPF deve ser informado sem pontos ou traços.
+OBS. II. O advogado deve autenticar no sistema somente os documentos
+do tipo ORIGINAIS.
+OBS. III. A autenticação pelo advogado deve ser feita no sistema e não
+no documento impresso, salvo se for uma cópia preto e branco, que
+poderá conferir na folha e anexar como terceiros.
+h) NA PRÁTICA NO SEU COMPUTADOR:
+- Criar pasta: Processos INSS Digital 2022
+- Dentro da Pasta Criar Subpasta:
+PRIMEIRO NOME DO CLIENTE_CPF
+- Dentro da última subpasta criar novas subpastas como o nome de cada
+arquivo:
+1. TERMO DE REPRESENTAÇÃO
+2. PROCURAÇÃO
+3. OAB DO ADVOGADO
+4. DOCUMENTOS PESSOAIS DO CLIENTE
+5. ...
+6. ...
+7. ...
+8. OUTROS DOCUMENTOS
+- Dentro de cada subpasta acima salva o arquivo com a nomenclatura
+correta entre originais, terceiros e simples.
+6. INSS DIGITAL: REQUERER
+a) Selecione o serviço e avançar;
+b) Preencher o CPF e clique na lupa: nome e data de nascimento;
+c) Informações de contato: Telefone e e-mail;
+d) Você aceita acompanhar pelo Meu INSS;
+e) Endereço principal;
+f) Endereço secundário;
+g) Dados adicionais: perguntas;
+h) Envie sua documentação e avançar;
+i) Escolha da agência: Estado e município (importante para o pagamento);
+j) Município de órgão pagador e avançar;
+k) Declaro que li e concordo com as informações acima e confirmar.
+OBS. Com asterisco é obrigatório o preenchimento.
+OBS. II. O e-mail que você informar no protocolo é que vai receber as
+notificações.
+7. INSS DIGITAL: CONSULTAR
+Para consultar os requerimentos efetuados pelo advogado, na página inicial,
+clicar em “Consultar”.
+Serão listadas todas as tarefas protocoladas pelo advogado, que poderão ser
+filtradas pela situação: PENDENTE, CANCELADO, CONCLUÍDO ou em
+EXIGÊNCIA.
+a) É possível nessa tela de consulta realizar as seguintes ações:
+- Gerar comprovante do requerimento;
+- Detalhar tarefa;
+- Cancelar tarefa.
+b) Detalhar tarefa para cumprimento de exigência
+OBS. A qualquer tempo poderá anexar arquivos no processo, desde que o
+processo ainda esteja pendente ou em exigência.
+c) Cancelamento de tarefa é necessário incluir comentário
+8. PRATELEIRAS VIRTUAIS
+a) CEAB
+b) CEAP
+c) ELAB
+Portaria Nº 1.182, de 20 de novembro de 2020
+9. CENTRAL 135
+A Central de Atendimento 135 foi criada com o propósito de ampliar o
+acesso da população aos serviços do INSS através de um canal de
+atendimento por telefone e funciona de segunda à sábado, das 7 às 22
+horas – horário de Brasília.
+As quatro centrais do serviço instaladas em Caruaru (PE), Salvador (BA),
+Palmas (TO) e Recife (PE).
+Por ser considerando um serviço de utilidade pública, as ligações
+efetuadas, a partir de telefones fixos e telefones públicos (orelhões) para
+o número 135, são gratuitas e, a partir de celular, é cobrada a tarifa de
+custo de uma ligação local.
+OBS. Operadora OI, Skype, Claro (Plano)
+Ligue 135
+Informe seu CPF
+Selecione as opções de acordo com o serviço desejado
+SERVIÇOS EXCLUSIVOS PELA CENTRAL 135
+Todas as vezes que não localizar pelo Meu INSS, será pela Central 135.
+Portaria n° 123, de 13 de maio de 2020
+Portaria Conjunta n° 15, de 15 de setembro de 2020
+10. NÚMERO PARA O ADVOGADO
+Foi criado o número 0800-135-0135 para atendimento exclusivo para a
+Advocacia e funcionará de segunda a sábado, das 7h às 22h. O atendente
+pedirá o número da OAB e outros dados pessoais para confirmar a
+identificação.
+11. MEU INSS
+Integração de acesso através do Portal Gov.br para acessar o Meu INSS,
+requerer seguro-desemprego, conecte SUS...
+OBS. Não é do Advogado, é do cliente.
+OBS. II. Não acessa de falecido
+OBS. Senha provisória na agência
+a) CADASTRO NO GOV.BR
+b) IMAGEM DE INFORMAÇÃO SOBRE AUMENTO DA CONFIABILIDADE
+DO SEU ACESSO
+c) COLOCAR O CPF (INDEPENDENTE SE JÁ TEM ACESSO OU NÃO) E
+CLICA EM CONTINUAR
+d) SE O CLIENTE JÁ TEM CADASTRO O SISTEMA IDENTIFICA PELO
+CPF E JÁ ABRE A TELA DA SENHA
+e) SE O CLIENTE NÃO TEM CADASTRO VAI ABRIR A POSSIBILIDADE
+DE CADASTRAMENTO (MARCAR LI E ESTOU DE ACORDO COM OS
+TERMOS DE USO E POLÍTICA DE PRIVACIDADE E SOU HUMANO)
+f) VAI
+DAR
+A
+OPÇÃO
+DE
+FAZER
+O
+CADASTRO
+PELO
+RECONHECIMENTO FACIAL BAIXANDO O APLICATIVO
+g) SE NÃO TIVER CELULAR OU NÃO DESEJAR FAZER O CADASTRO
+DESSA FORMA, CLICA EM NÃO TENHO CELULAR
+h) POSSIBILIDADE DE CRIAR A CONTA PELO INTERNET BANKING NO
+SEU CELULAR, CASO NÃO TENHA, CLIQUE EM TENTAR DE OUTRA
+FORMA
+i) VAI SOLICITAR QUE PREENCHA AS INFORMAÇÕES COM OS
+DADOS PESSOAIS (NOME DA MÃE, ANO DE NASCIMENTO E MÊS
+DE NASCIMENTO).
+j) VAI APARECER O CPF E NOME COMPLETO, CLIQUE EM
+CONTINUAR
+k) VAI PRECISAR CADASTRAR E-MAIL OU NÚMERO DO CELULAR
+PARA GERAR UM CÓDIGO
+l) OBSERVAÇÕES EM RELAÇÃO AO E-MAIL OU CELULAR QUE VOCÊ
+CADASTROU
+m) SE O E-MAIL OU CELULAR JÁ ESTÃO CADASTRADOS EM OUTRA
+CONTA VAI APARECER O ALERTA IMPEDITIVO.
+n) CONFIRME O CÓDIGO QUE RECEBEU NO E-MAIL OU CELULAR
+o) CADASTRAR A SENHA COM OS SEGUINTES REQUISITOS: de 8 à 70
+caracteres, letra minúscula, letra maiúscula, número e símbolo.
+p) CONTA GOV.BR CRIADA, CLIQUE EM CONCLUIR QUE VAI
+RETORNAR AO SITE MEU INSS, FAÇA O LOGIN COM CPF E SENHA.
+q) CLIQUE EM AUTORIZAR E VAI ABRIR PARA RESPONDER AS
+PERGUNTAS PARA AUTORIZAR O ACESSO AO MEU INSS
+OBS. SE APARECER A MENSAGEM “ERRO NO PROCESSAMENTO DA
+SOLICITAÇÃO”, ABRA PELO APLICATIVO DO CELULAR.
+- REINICIALIZAR SENHA
+Código vai para o e-mail ou telefone cadastrado, se não lembrar, pode
+pegar uma senha provisória na agência ou solicitar Atualização de Cadastro para
+Emissão de Senha de Meu INSS sem fazer o login.
+- CONFIABILIDADE DO ACESSO GOV.BR
+Os níveis de autenticação dão segurança para sua identidade, ou seja,
+garantem que quem está acessando um serviço digital é você mesmo. Para ter
+um nível de autenticação seguro, você precisa de pelo menos um selo de
+confiabilidade que garanta essa segurança.
+Os selos de confiabilidade é que dizem qual o grau de confiança da sua
+conta gov.br, para proteger, por exemplo, suas informações sigilosas. É por este
+motivo que alguns serviços somente podem ser acessados se você tiver um nível
+de autenticação mais elevado./
+Existem três níveis de autenticação: bronze, prata e ouro. Veja a seguir quais
+selos garantem cada nível e saiba como obtê-los.
+a) Nível bronze
+b) Nível prata
+c) Nível Ouro
+- SERVIÇOS EXCLUSIVOS PARA ACESSO OURO OU PRATA
+Portaria INSS n° 929, de 24 de setembro de 2021
+- DISPENSA DE DOCUMENTOS ORIGINAIS
+Portaria INSS n° 892, de 2 de setembro de 2020
+Decreto 3.048/99. Art. 19-B. § 2º. Os documentos necessários à
+atualização do CNIS e à análise de requerimentos de benefícios e
+serviços poderão ser apresentados em cópias simples, em meio físico ou
+eletrônico, dispensada a sua autenticação, exceto nas hipóteses em que
+haja previsão legal expressa e de dúvida fundada quanto à autenticidade
+ou à integridade do documento, ressalvada a possibilidade de o INSS
+exigir, a qualquer tempo, os documentos originais para fins do disposto no
+art. 179, situação em que o responsável pela apresentação das cópias
+ficará sujeito às sanções administrativas, civis e penais aplicáveis.
+(Incluído pelo Decreto nº 10.410, de 2020)
+- SERVIÇOS OFERECIDOS PELO MEU INSS
+Ofício-Circular Conjunto nº 8 /DIRAT/DIRBEN/INSS
+OBS. Na prática
+OBS. II. Benefício assistencial marca avaliação social e perícia médica no
+momento do requerimento
+OBS. III. Marca perícia de auxílio por incapacidade temporária.
+Portaria 993/22. Art. 59. Presumem-se válidas as informações prestadas
+pelo interessado analfabeto no ato do protocolo do requerimento realizado
+mediante identificação com a senha do "Meu INSS", na Central 135, ou
+nas unidades de atendimento após ter sido identificado.
+§ 1º Quando for necessária manifestação expressa do interessado
+analfabeto ou impossibilitado de assinar, o mesmo deverá comparecer a
+uma unidade de atendimento do INSS, onde deverá:
+I - apor a sua digital no documento declaratório, na presença de um
+servidor público do INSS ou que esteja a serviço do INSS; ou
+II - efetuar assinatura a rogo na presença de duas pessoas,
+preferencialmente servidores, as quais deverão assinar conjuntamente
+com um terceiro que assinará em nome da pessoa interessada
+- PRIORIDADE PARA ADVOGADOS
+Memorando-Circular Conjunto nº 16 /DIRAT/PFE/DIRBEN/INSS
+a) Convênio para expansão nas sedes da OAB
+b) Via e-mail
+c) Guichê virtual

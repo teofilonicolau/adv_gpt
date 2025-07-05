@@ -1,0 +1,72 @@
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+PORTARIA CONJUNTA Nº 15/DIRAT/DIRBEN/INSS, DE 15 DE SETEMBRO DE 2020
+Altera o ﬂuxo de requerimento de tarefas
+para o tratamento de pendências pós-
+perícia de auxílio-doença
+O DIRETOR DE ATENDIMENTO
+e o DIRETOR DE BENEFÍCIOS DO INSTITUTO NACIONAL DO
+SEGURO SOCIAL, no uso das atribuições que lhes conferem o Decreto nº 9.746, de 8 de abril de
+2019, e considerando o contido no processo SEI nº 35014.201947/2020-13,
+RESOLVEM:
+Art. 1º Alterar o ﬂuxo de requerimento de tarefas para o tratamento de pendências pós-perícia de
+auxílio-doença, por ocasião do retorno gradual do atendimento presencial nas Agências da Previdência
+Social - APS visando o enfrentamento da pandemia do COVID 19.
+§1º Considera-se tratamento de pendências pós-perícia o acerto de dados cadastrais, vínculos e
+remunerações, crí;cas de concessão e indeferimentos de bene<cios para segurado especial, que
+impeçam a conclusão do reconhecimento de direito ao benefício de auxílio-doença.
+§2º Os indeferimentos de bene<cios para segurados especiais considerados para este serviço serão
+apenas para os casos em que o mo;vo de indeferimento for diferente de parecer contrário da perícia
+médica.
+Art. 2º Para atender o novo ﬂuxo de tratamento das pendências pós-perícia a nomenclatura dos
+seguintes serviços foram alteradas:
+I - Auxílio-Doença - Rural (Acerto Pós-perícia), código 5473; e
+II - Auxílio-Doença - Urbano (Acerto Pós-perícia), código 5474.
+Parágrafo único. Os serviços mencionados nos incisos estão a;vos e conﬁgurados em todas as
+Agências da Previdência Social - APS.
+Art. 3º Após a conclusão do exame médico pericial, não haverá mais redirecionamento da senha do
+Sistema de Atendimento - SAT para o Setor Administrativo para tratamento de pendências pós-perícia.
+Parágrafo único. Mesmo que ocorra o redirecionamento após a perícia médica, a APS deverá orientar o
+usuário a acompanhar o resultado do requerimento pela Central 135 a par;r das 21 horas da data de
+realização da perícia médica.
+Art. 4º O requerimento de acerto pós-perícia será realizado pela Central 135, com o cadastramento
+das tarefas de “Auxílio-Doença - Rural (Acerto Pós-perícia)” e "Auxílio-Doença - Urbano (Acerto Pós-
+perícia)”, após o contato do usuário para obter resultado da perícia médica realizada.
+Art. 5º O operador da Central 135 ao não localizar o resultado da perícia médica deverá consultar o
+sistema PMF Agenda para conﬁrmar se havia perícia agendada para o usuário e, em caso posi;vo,
+cadastrar a tarefa mencionado no Art. 4º, correspondente ao benefício pendente de tratamento.
+Parágrafo único. O requerimento será criado para a APS na qual o usuário realizou a perícia médica.
+Art. 6º O tratamento das tarefas de “Auxílio-Doença - Rural (Acerto Pós-perícia)” e "Auxílio-Doença -
+Urbano (Acerto Pós-perícia)” é de responsabilidade da APS em que foi realizada a Perícia Médica, no
+prazo de cinco dias.
+Parágrafo único. Para melhor gestão do serviço, a Seção ou Serviço de Atendimento/SEAT/SERAT, em
+conjunto com a Gerência-Execu;va, poderá conﬁgurar transferência automá;ca para UO especíﬁca de
+sua abrangência, para centralização e acompanhamento quanto ao cumprimento das tarefas dentro do
+prazo.
+Art. 7º As Superintendências Regionais acompanharão as ações das Gerências-Execu;vas na gestão
+das tarefas de “Auxílio-Doença - Rural (Acerto Pós-perícia)” e "Auxílio-Doença - Urbano (Acerto Pós-
+perícia).
+Art. 8º O serviço do ;po tarefa “Pendência Pós Perícia - Piloto Brasília” (Código 5992) ﬁca
+desabilitado para novos requerimentos, considerando a expansão nacional do modelo.
+Parágrafo único. As tarefas “Pendência Pós Perícia - Piloto Brasília” criadas até publicação desta
+portaria deverão ser analisadas e concluídas regularmente.
+Art. 9º Ficam revogados os itens 1.4.6 dos Anexo I e II da Portaria nº 24/DIRAT/INSS, de 8 de outubro
+Portaria Conjunta 15 (1728182)         SEI 35014.201947/2020-13 / pg. 1
+de 2019.
+Art. 10. Esta Portaria Conjunta entra em vigor na data de sua publicação.
+JOBSON DE PAIVA SILVEIRA SALES
+ALESSANDRO ROOSEVELT SILVA RIBEIRO
+Diretor de Atendimento
+Diretor de Benefícios
+Documento assinado eletronicamente por JOBSON DE PAIVA SILVEIRA SALES, Diretor(a), em
+15/09/2020, às 20:55, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+Documento assinado eletronicamente por ALESSANDRO ROOSEVELT SILVA RIBEIRO, Diretor(a),
+em 17/09/2020, às 11:30, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º,
+do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.inss.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador
+1728182 e o código CRC 8C899324.
+Referência: Processo nº 35014.201947/2020-13
+SEI nº 1728182
+Portaria Conjunta 15 (1728182)         SEI 35014.201947/2020-13 / pg. 2

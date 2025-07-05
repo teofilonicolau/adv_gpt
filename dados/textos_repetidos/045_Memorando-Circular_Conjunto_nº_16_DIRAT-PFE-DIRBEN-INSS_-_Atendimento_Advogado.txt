@@ -1,0 +1,102 @@
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+1
+Memorando-Circular Conjunto nº 16 /DIRAT/PFE/DIRBEN/INSS
+Em 28 de outubro de 2017.
+Aos Superintendentes Regionais, Gerentes Executivos, Chefes de Divisão de Atendimento,
+Especialista em Normas e Gestão de Benefícios, Seção/Serviço de Atendimento –
+SEAT/SERAT. Seção/Serviço de Benefícios, e Gerentes de Agências da Previdência Social –
+APS e demais servidores.
+Assunto: Cumprimento da decisão proferida na Ação Civil Pública Nº 0026178-
+78.2015.4.01.3400 ajuizada pelo Conselho Federal da OAB.
+1.
+Considerando que não houve até a presente data apreciação do Agravo de
+Instrumento n° 53324-41.2017.4.01.0000, por parte do Tribunal Regional Federal da 1ª Região à
+suspensão da decisão liminar proferida na Ação Civil Pública nº 0026178-78.2015.4.01.3400,
+ajuizada pelo Conselho Federal da Ordem dos Advogados do Brasil, que, em sede de liminar, o
+MM. Juiz determinou ao INSS que:
+a.
+Garanta aos advogados atendimento diferenciado nas suas agências, sem
+agendamento prévio, em local próprio e independente de distribuição de senhas,
+durante o horário de expediente;
+b.
+Se abstenha de impedir aos advogados de protocolizarem mais de um
+benefício por atendimento, bem como de obrigar o protocolo de documentos e
+petições apenas por meio de agendamento prévio e retirada de senhas, fixando
+multa de R$ 50.000,00 (cinquenta mil reais) diários para o caso de
+descumprimento.
+2.
+Nesse sentido, considerando a necessidade de organizar a operacionalização do
+fluxo de trabalho, informamos:
+a.
+O atendimento deverá ser realizado exclusivamente e diretamente ao
+Advogado, que deverá apresentar a Carteira de inscrição ativa na Ordem dos
+Advogados do Brasil;
+b.
+O atendimento será realizado durante o horário de expediente da unidade,
+conforme artigo 6º da Resolução n.º 336 PRES/INSS, de 22 de agosto de 2013;
+c.
+Deverá ser disponibilizado guichê exclusivo, com devida identificação:
+Atendimento Exclusivo ao Advogado, conforme anexo I;
+d.
+O advogado que optar pelo atendimento de acordo com a ACP não deverá
+receber senha para o atendimento;
+e.
+Os advogados presentes nas Agências da Previdência Social deverão ser
+atendidos de acordo com a ordem de chegada, uma vez que não haverá emissão de
+senhas para o atendimento, conforme ACP;
+f.
+O servidor deverá realizar a conclusão de cada serviço solicitado no
+momento do atendimento, de modo a evitar acúmulo de solicitações pendentes;
+(revogado pelo Memorando-Circular Conjunto nº 7 /DIRAT/PFE/DIRBEN/INSS,
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+2
+de 30 de maio de 2018)
+g.
+Quando tratar-se de requerimento de benefícios, o mesmo deverá ser
+contemplado com despacho decisório ou emissão de exigência interna ou exigência
+atribuída ao requerente; (revogado pelo Memorando-Circular Conjunto nº 7
+/DIRAT/PFE/DIRBEN/INSS, de 30 de maio de 2018)
+h.
+Não será garantida a DER para atendimentos previamente agendados onde
+o Advogado optar pelo atendimento exclusivo nos moldes da ACP. O servidor
+deve cancelar o agendamento atendido antecipadamente no SAG;
+i.
+O servidor lotado em uma unidade inserida no projeto INSS Digital deverá
+digitalizar, incluir no GET, e proceder conforme o item anterior; (revogado pelo
+Memorando-Circular Conjunto nº 7 /DIRAT/PFE/DIRBEN/INSS, de 30 de maio de
+2018)
+j.
+O gestor da unidade participante do projeto INSS Digital deverá atribuir o
+papel “SERVIDOR_ADM_UNIDADE” no GERID (sistema GET e subsistema
+GET), enquanto que o SERAT/SEAT deverá conceder a permissão “atribuir
+responsável” para os serviços do tipo tarefa no SAG GESTÃO (Unidades >
+Gestão de Profissionais > Editar profissional) para o servidor designado para
+atendimento no guichê do advogado. Dessa forma, esse servidor poderá se colocar
+como responsável durante a criação da tarefa e realizar a análise conclusiva do
+requerimento;
+k.
+As Agências do INSS que tem dez ou menos servidores em exercício
+deverão afixar o aviso constante no anexo II, para esclarecimento aos advogados
+da obrigatoriedade por parte do Instituto ao respeito às prioridades legalmente
+definidas em relação ao atendimento preferencial, nos termos da presente ação
+civil pública.
+3.
+Quando se tratar de Requerimento de Benefício, o servidor deverá registrar no
+sistema PRISMA o número da ACP, informando somente os números, sem hífen e pontos. Para
+as demais espécies cujo o requerimento não seja protocolado no Prisma, não caberá a informação
+do número da ACP;
+4.
+Visa este expediente dar conhecimento da prolação de tal decisão judicial e
+cumprimento a partir de 27 de outubro de 2017.
+5.
+Solicitamos ampla divulgação aos servidores das Agências da Previdência Social.
+6.
+Revoga-se o Memorando-Circular 28/DIRAT/PFE de 27 de outubro de 2017.
+Atenciosamente,
+ILTON JOSE FERNANDES FILHO
+DIRETOR DE ATENDIMENTO
+MARCIA ELIZA DE SOUZA
+PROCURADORA-CHEFE DA PFE/INSS
+SUBSTITUTA
+ALESSANDRO ROOSEVELT SILVA RIBEIRO
+DIRETOR DE BENEFÍCIOS

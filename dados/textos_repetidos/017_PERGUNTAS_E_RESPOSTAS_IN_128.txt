@@ -1,0 +1,529 @@
+Perguntas
+e
+Respostas
+IN 128 e Portarias Procedimentais
+1
+INSTRUÇÃO NORMATIVA PRES/INSS nº 128, de 28 de março de 2022
+QUESTÃO 1  Conforme disposição do artigo 68 da Instrução Normativa PRES/INSS nº 128, de 2022,
+deverá ser seguido o fluxo de abertura de subtarefa para solicitação do histórico RGPS/RPPS do
+ente? Não seria melhor liberar acesso ao Cadprev Web em nível de consulta para todos os analistas?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)
+informação de CADPREV -
+ente federativo. Não é possível conceder acessos a todos os analistas devido à limitação sistêmica,
+sendo disponibilizados 4 (quatro) acessos para cada GEX.
+IN 128
+Art. 68. O INSS utiliza as informações constantes no CADPREV, como a vinculação dos agentes
+públicos e o histórico do regime previdenciário, para o reconhecimento do período de atividade do
+agente público, seja no RPPS ou RGPS, inclusive para atualização de dados no CNIS e emissão ou
+recepção de CTC.
+Parágrafo único. Havendo divergência entre a legislação apresentada por qualquer ente
+federativo e o contido no CADPREV, ou, ainda, tomando conhecimento de novos elementos, tais
+como Leis, Decretos, entre outros, que ainda não constem nesse sistema, o INSS poderá solicitar à
+área competente da Secretaria de Previdência, os esclarecimentos, bem como orientar o ente
+federativo a encaminhar a legislação correlata para análise e manutenção do CADPREV, a cargo
+da Secretaria.
+QUESTÃO 2  A emancipação não é mais causa de cessação de cota de benefício?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Não. A Lei nº 13.183, de 4 de novembro de 2015,
+alterou o inciso II do §2º do artigo 77 da Lei nº 8.213, de 24 de julho de 1991, excluindo a
+emancipação como causa de cessação de cota de pensão por morte (regra extensível ao auxílio-
+reclusão). Não se confunde critério para enquadramento como dependente de segurado com causa
+de cessação de benefício. O filho, o irmão ou o equiparado a filho será considerado dependente se
+atendidos os critérios do artigo 16 da Lei nº 8.213, de 1991, do artigo 178 da Instrução Normativa
+nº 128, de 2022, e do artigo 1º da Portaria DIRBEN/INSS nº 991, de 28 de março de 2022. Por
+exemplo, se um requerente comprovar ser filho não emancipado menor de 21 (vinte e um) anos de
+um instituidor e se cumpridos os demais requisitos para concessão do benefício, este deverá ser
+concedido. Contudo se, após a concessão, este dependente for emancipado, a emancipação não
+configurará causa de cessação de cota do benefício. Diferente situação é aquela em que se verificar,
+no requerimento do benefício, que o dependente filho menor de 21 anos é emancipado; nesse caso,
+o benefício será indeferido, pois o requerente perdeu sua qualidade de dependente com a
+ocorrência na emancipação.
+IN 128
+Art. 178. São beneficiários do RGPS na condição de dependentes do segurado:
+2
+I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição,
+menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou
+deficiência grave;
+II - os pais; ou
+III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou
+que tenha deficiência intelectual ou mental ou deficiência grave.
+Art. 378. São causas de extinção da cota e/ou da pensão por morte:
+I - o óbito do dependente;
+II - para o filho, o enteado, o menor tutelado ou o irmão, de qualquer condição, o alcance de 21
+(vinte e um) anos de idade, exceto se for inválido ou tiver deficiência intelectual, mental ou grave;
+III - a cessação da invalidez ou o afastamento da deficiência intelectual, mental ou grave para o
+filho, o enteado, o menor tutelado ou o irmão, de qualquer condição, maiores de 21 (vinte e um)
+anos;
+IV - a adoção para o filho adotado que receba pensão por morte dos pais biológicos, observado o
+disposto no § 5º do art. 181;
+V - o decurso do prazo de duração da cota prevista no § 8º do art. 375, para cônjuge, companheiro
+ou companheira;
+VI - a cessação da invalidez ou o afastamento da deficiência intelectual, mental ou grave para
+cônjuge, companheiro ou companheira, respeitados os prazos previstos no § 8º do art. 375;
+VII - o alcance da data-limite fixada na concessão da pensão alimentícia para o divorciado,
+separado de fato ou separado judicialmente, conforme o disposto no §2º do art. 373.
+QUESTÃO 3  Nas antigas instruções normativas, inclusive na recente Instrução Normativa nº 77,
+em seu artigo 135 havia a previsão de uma lista de documentos que poderiam ser apresentados. A
+Instrução Normativa PRES/INSS nº 128, em seu artigo 180, não apresenta qualquer lista de
+documentos. Portanto, por não existir tal previsão, aqueles documentos que eram previstos para
+fins e comprovação da união estável e listados antigamente no artigo 135 permanecem válidos?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O rol exemplificativo de documentos hábeis à
+comprovação tanto de união estável como de dependência econômica permanece válido, haja vista
+sua previsão constar não apenas em normativo interno, mas no próprio Decreto nº 3.048, de 1999,
+art. 22,  § 3º. O referido rol, por se tratar de matéria procedimental, não consta no texto da Instrução
+Normativa PRES/INSS nº 128, de 2022, mas sim no artigo 8º da Portaria DIRBEN/INSS nº 991, de
+2022 (Livro II  Benefícios).
+Livro II  Portaria DIRBEN/INSS nº 991
+Art. 8º A partir de 1º de julho de 2020, com a publicação do Decreto nº 10.410, para fins de
+comprovação da união estável e da dependência econômica, conforme o caso, deverão ser
+apresentados, no mínimo, 2 (dois) dos seguintes documentos, nos processos pendentes de análise:
+I - certidão de nascimento de filho havido em comum;
+II - certidão de casamento religioso;
+III - declaração do imposto de renda do segurado, em que conste o interessado como seu
+dependente;
+IV - disposições testamentárias;
+V - declaração especial feita perante tabelião;
+VI - prova de mesmo domicílio;
+VII - prova de encargos domésticos evidentes e existência de sociedade ou comunhão nos atos da
+vida civil;
+3
+VIII - procuração ou fiança reciprocamente outorgada;
+IX - conta bancária conjunta;
+X - registro em associação de qualquer natureza, onde conste o interessado como dependente do
+segurado;
+XI - anotação constante de ficha ou livro de registro de empregados;
+XII - apólice de seguro da qual conste o segurado como instituidor do seguro e a pessoa interessada
+como sua beneficiária;
+XIII - ficha de tratamento em instituição de assistência médica, da qual conste o segurado como
+responsável;
+XIV - escritura de compra e venda de imóvel pelo segurado em nome de dependente;
+XV - declaração de não emancipação do dependente menor de 21 (vinte e um) anos;
+XVI - certidão de casamento emitida no exterior, na forma do art. 10;
+XVII - sentença judicial proferida em ação declaratória de união estável, ainda que a decisão
+judicial seja posterior ao fato gerador; ou
+XVIII - quaisquer outros que possam levar à convicção do fato a comprovar.
+3.1  Como fica a análise probatória em relação a outros documentos que não constavam na lista,
+dependerá da convicção do servidor? Nessa linha, se o servidor receber fotografias, qual o
+fundamento legal para indeferir/deferir com base nesta prova?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O artigo 16, §5º, da Lei nº 8.213, de 1991, assim
+como o artigo 16, §6º-A do Decreto nº 3.048, de 1999, estabelecem que a comprovação da união
+estável e da dependência econômica ocorrerá com a apresentação de prova material
+contemporânea dos fatos. Essa mesma orientação foi reproduzida no artigo 180 da Instrução
+Normativa
+PRES/INSS
+nº
+128,
+de
+2022.
+Entende-se
+por contemporânea
+a
+prova
+produzida/emitida/datada à época do fato alegado. Nesse contexto, é fundamental para a formação
+de convicção do servidor a existência de alguma data ou marco temporal que o permita verificar a
+contemporaneidade das provas apresentadas no processo administrativo.
+IN 128
+Art. 180. Para comprovação de união estável e de dependência econômica são exigidas duas
+provas materiais contemporâneas dos fatos, sendo que pelo menos uma delas deve ter sido
+produzida em período não superior a 24 (vinte e quatro) meses anterior ao fato gerador, não sendo
+admitida a prova exclusivamente testemunhal, exceto na ocorrência de motivo de força maior ou
+caso fortuito.
+QUESTÃO 4  Conforme redação do artigo 194, § 1º, o período de serviço militar comprovado com
+base no certificado de reservista não poderá ser computado para fins de carência, se exercido após
+Emenda Constitucional nº 103, de 12 de novembro de 2019?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Não. O período de serviço militar, seja obrigatório
+ou voluntário, somente será considerado para fins de carência para períodos posteriores à Emenda
+Constitucional nº 103, de 2019, se devidamente certificado pelo respectivo ente federativo na forma
+de contagem recíproca - CTC.
+4
+IN 128
+Art. 194. Não será computado como período de carência:
+I - o tempo de serviço militar, obrigatório ou voluntário, observado o § 1º;
+§ 1º O tempo de serviço militar obrigatório exercido posteriormente a 13 de novembro de 2019,
+data da publicação da Emenda Constitucional nº 103, devidamente certificado pelo respectivo
+ente federativo na forma da contagem recíproca por meio de Certidão de Tempo de Contribuição,
+será considerado para fins de carência.
+QUESTÃO 5  Aos que possuem Certidão de Tempo de Contribuição  CTC emitida anteriormente à
+Emenda Constitucional nº 103, de 2019, e ainda encontram-se vinculados ao ente federativo
+emitente, inclusive com atuais recolhimentos ao Regime Próprio de Previdência Social  RPPS, o
+servidor deverá emitir exigência para exoneração e emissão da nova CTC após a exoneração com o
+intuito de reconhecer o período certificado como tempo de contribuição na aposentadoria a ser
+concedida?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  A Emenda Constitucional nº 103, de 2019, não
+inovou quanto à exigência de que uma CTC seja emitida apenas a um ex-servidor. A referida
+exigência consta no artigo 12 da Portaria MPS nº 154, de 15 de maio de 2008.
+IN 128
+Art. 213. A CTC oriunda de outros regimes de previdência, emitida a partir de 16 de maio de 2008,
+data da publicação da Portaria MPS nº 154, de 2008, somente poderá ser aceita para fins de
+Contrib
+§ 1º A CTC somente poderá ser emitida por RPPS para ex-servidor.
+Livro II - Portaria DIRBEN/INSS nº 991
+Art. 161. A CTC somente poderá ser emitida por regime próprio de previdência para ex-servidor,
+em consonância com o disposto no art. 12 da Portaria MPS nº 154, de 2008.
+Portaria MPS nº 154
+Art. 12. A CTC só poderá ser emitida para ex-servidor.
+§ 1º Na hipótese de vinculação do servidor ao RGPS por força de lei do ente federativo, poderá ser
+emitida a CTC relativamente ao período de vinculação ao RPPS mesmo que o servidor não esteja
+exonerado ou demitido do cargo efetivo na data do pedido, situação na qual a CTC somente
+poderá ser utilizada para obtenção de aposentadoria no RGPS relativa ao cargo a que se refere a
+certidão. (Redação dada pela Portaria MF nº 567, de 18/12/2017)
+QUESTÃO 6  O §2º do artigo 246 da Instrução Normativa PRES/INSS nº 128, de 2022, prevê que o
+INSS notificará o empregador do segurado que se aposentar, a partir de 14 de novembro de 2019,
+com a utilização de tempo de contribuição decorrente de cargo, emprego ou função pública. Como
+ocorrerá essa notificação?
+5
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  A Emenda Constitucional nº 103, de 2019, incluiu
+o §14 no artigo 37 da Constituição Federal de 1988. Esse parágrafo dispõe que a aposentadoria
+concedida com a utilização de contribuição decorrente de cargo, emprego ou função pública
+acarretará o rompimento do vínculo que gerou o referido tempo de contribuição. Em atenção a essa
+nova disposição, foi ampliado o acesso ao sistema Conadem, inicialmente desenvolvido apenas para
+acesso aos benefícios por incapacidade dos empregados, requeridos pelos empregadores. Assim,
+diante da inviabilidade de emissão de comunicação, a informação será acessada pelos entes da
+Administração Pública direta e indireta de quaisquer poderes da União, dos Estados e dos
+Municípios. A Portaria DIRBEN/INSS nº 993, de 28 de março de 2022 (Livro IV
+Processo
+Administrativo Previdenciário) será alterada para conter orientações sobre o citado sistema. A
+consulta ao sistema Conadem está disponibilizada no sítio do INSS, podendo ser acessada em:
+www.gov.br/inss ; nas opções: Serviços em destaque> Empresas > Consulta benefícios
+previdenciários do empregado.
+IN 128
+Art. 246. A aposentadoria com DER a partir de 14 de novembro de 2019, concedida com a
+utilização de tempo de contribuição decorrente de cargo, emprego ou função pública, acarretará
+o rompimento do vínculo que gerou o referido tempo de contribuição.
+§ 1º O disposto no caput aplica-se a cargo, emprego ou função pública vinculado ao RGPS.
+§ 2º Para fins do disposto no caput, após a consolidação da aposentadoria, nos termos do disposto
+no art. 181-B do RPS, o INSS notificará o empregador responsável sobre a aposentadoria do
+segurado, devendo constar da notificação as datas de concessão e do início do benefício.
+QUESTÃO 7  A Instrução Normativa PRES/INSS nº 128, de 2022, a partir de seu artigo 333, trata da
+recuperação da capacidade de trabalho do aposentado por incapacidade permanente. Não há
+menção à recuperação parcial da capacidade, quais são as orientações para esses casos?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  As orientações para os casos de recuperação
+parcial da capacidade constam no artigo 49, inciso II, do Decreto nº 3.048, de 1999. Ressalta-se
+ainda que as solicitadas orientações constam no artigo 85 da Portaria DIRBEN/INSS nº 992, de 28 de
+março de 2022 (Livro III  Manutenção de benefícios). Haverá alguns ajustes na Instrução Normativa
+PRES/INSS nº 128, de 2022, oportunidade em que esse tema será incluído.
+Decreto nº 3.048, de 1999
+Art. 49.  Verificada a recuperação da capacidade laborativa do aposentado por incapacidade
+permanente, exceto na hipótese prevista no art. 48, serão observadas as seguintes normas:
+(...)
+II - quando a recuperação for parcial ou ocorrer após o período previsto no inciso I, ou ainda
+quando o segurado for declarado apto para o exercício de trabalho diverso do qual habitualmente
+exercia, a aposentadoria será mantida, sem prejuízo da volta à atividade:
+a) pelo seu valor integral, durante seis meses contados da data em que for verificada a
+recuperação da capacidade;
+6
+b) com redução de cinquenta por cento, no período seguinte de seis meses; e
+c) com redução de setenta e cinco por cento, também por igual período de seis meses, ao término
+do qual cessará definitivamente.
+QUESTÃO 8  O fato gerador mencionado no § 6° do artigo 338 da Instrução Normativa PRES/INSS
+nº 128, de 2022, diz respeito à data que gerou o auxílio-reclusão ou o auxílio por incapacidade
+temporária?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O segurado em regime semiaberto não fará jus ao
+auxílio por incapacidade permanente enquanto seus dependentes gozarem de auxílio-reclusão que
+tenha fato gerador (data da reclusão) anterior a 18 de janeiro de 2019.
+IN 128
+Art. 338. Não será devido o auxílio por incapacidade temporária para o segurado recluso em
+regime fechado com fato gerador a partir de 18 de janeiro de 2019, vigência da Medida Provisória
+nº 871, de 2019, convertida na Lei nº 13.846, de 18 de junho de 2019.
+(...)
+§ 6º Não terá direito ao recebimento do auxílio por incapacidade temporária o segurado em
+regime semiaberto, durante a percepção de auxílio-reclusão pelos dependentes, cujo fato gerador
+seja anterior a 18 de janeiro de 2019 data da vigência da Medida Provisória nº 871, de 2019,
+permitida a opção pelo benefício mais vantajoso.
+QUESTÃO 9  A Instrução Normativa PRES/INSS nº 128, de 2022, em seu artigo 354, §2º, II,
+estabelece que não será devido auxílio-acidente de qualquer natureza ao segurado quando houver
+mudança de função, mediante readaptação profissional promovida pela empresa, como medida
+preventiva, em decorrência de inadequação do local de trabalho. No entanto, é comum que a
+conclusão da Reabilitação Profissional seja pelo retorno à função diversa e, nesse caso,
+imediatamente após essa conclusão, é protocolado requerimento de auxílio-acidente, muitas vezes
+feito pelo próprio servidor que concluiu o procedimento. Nesse contexto, em que situação não será
+devido o auxílio-acidente: apenas quando a empresa, por iniciativa própria, readaptar o empregado
+para outra função ou também para os casos dos segurados que estiverem em gozo de benefício por
+incapacidade e que voltarem ao trabalho em outra função, após a devida qualificação oferecida pelo
+INSS através da Reabilitação Profissional?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Nos termos do artigo 354, §2º, inciso II, da
+Instrução Normativa PRES/INSS nº 128, de 2022, apenas não será devido o auxílio-acidente quando
+ocorrer mudança de função, mediante readaptação profissional promovida pela empresa, como
+medida preventiva, em decorrência de inadequação do local de trabalho. Essa previsão também
+consta no artigo 104, §4º, inciso II, do Decreto nº 3.048, de 1999. Registra-se que, na Instrução
+Normativa nº 77, de 2015, a situação estava tratada no artigo 334, §2º, inciso IV.
+IN 128
+7
+Art. 354. O Perito Médico Federal estabelecerá a existência ou não de redução da capacidade de
+trabalho quando a consolidação das lesões decorrentes de acidente de qualquer natureza resultar
+em sequela definitiva para o segurado.
+§ 1º As sequelas a que se refere o caput constarão em lista, exemplo das constantes no Anexo III
+do RPS, elaborada e atualizada a cada três anos pela Secretaria de Previdência do Ministério do
+Trabalho e Previdência, de acordo com critérios técnicos e científicos.
+§ 2º Não caberá a concessão de auxílio-acidente de qualquer natureza ao segurado:
+I - que apresente danos funcionais ou redução da capacidade funcional sem repercussão na
+capacidade laborativa; e
+II - quando ocorrer mudança de função, mediante readaptação profissional promovida pela
+empresa, como medida preventiva, em decorrência de inadequação do local de trabalho.
+9.1  Sendo a readaptação por iniciativa da empresa, como saber quando isso ocorreu ao
+analisarmos os pedidos de auxílio-acidente?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  A análise da existência ou não de redução da capacidade
+de trabalho quando a consolidação das lesões decorrentes de acidente de qualquer natureza resultar em
+sequela definitiva para o segurado cabe ao Perito Médico Federal.
+QUESTÃO 10  Como aplicar as orientações contidas nos §§3º e 5º do artigo 513 da Instrução
+Normativa PRES/INSS nº 128, de 2022, relativas ao empregado doméstico, tendo em vista a
+contradição presente entre elas?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O período de empregado doméstico, exercido até
+01/06/2015, poderá ser certificado, ainda que não comprovadas as contribuições, desde que
+devidamente comprovado o vínculo empregatício. Nesse caso, será inserido o valor de um salário
+mínimo, ainda que haja comprovação de remuneração em valor superior. Haverá alguns ajustes na
+Instrução Normativa PRES/INSS nº 128, de 2022 para esclarecer que, em decorrência das alterações
+trazidas pelo Decreto nº 10.410, de 2022, que trouxe a possibilidade de cômputo do período de
+empregado doméstico para todos os fins, independente de recolhimento, permitiu que estes
+períodos também fossem reconhecidos para contagem recíproca.
+IN 128
+Art. 513. É vedada emissão de CTC para fins de contagem de recíproca:
+I - com conversão de tempo de contribuição exercido em atividade sujeita a condições especiais;
+II - com conversão do tempo de contribuição do segurado na condição de pessoa com deficiência;
+III - com contagem de qualquer tempo de serviço fictício;
+IV - para período em que não se comprove a efetiva contribuição, observados os §§ 2º, 3º e 4º;
+(...)
+§ 2º O disposto no inciso III e IV do caput não se aplica ao tempo de serviço anterior à edição da
+Emenda Constitucional nº 20, de 1998, que tenha sido equiparado por lei a tempo de contribuição.
+§ 3º O disposto no inciso IV do caput, considerando a presunção de contribuição, não se aplica ao:
+I - empregado;
+II - trabalhador avulso;
+8
+III - doméstico, a partir de 2 de junho de 2015; e
+IV - contribuinte individual prestador de serviço a pessoa jurídica, a partir de 1º de abril de 2003.
+§ 4º Para períodos de exercício de atividade de empregado, de empregado doméstico a partir de
+2 de junho de 2015 e de trabalhador avulso, sem remuneração no CNIS e não sendo possível a
+apresentação da documentação comprobatória da remuneração auferida pelo segurado, deverá
+ser informado o valor de um salário mínimo nas referidas competências.
+§ 5º Para período de exercício comprovado de atividade de empregado doméstico até 1º de junho
+de 2015, na falta de comprovação de efetiva contribuição, deverá ser inserido o valor de um salário
+mínimo.
+Livro II  Portaria DIRBEN/INSS nº 991
+Art. 553. É vedada a emissão de CTC para fins de contagem recíproca:
+I - com conversão de tempo de contribuição exercido em atividade sujeita a condições especiais,
+exceto o tempo de serviço público sob a égide do regime celetista quando da implantação do
+Regime Jurídico Único;
+II - com conversão do tempo de contribuição do segurado na condição de pessoa com deficiência;
+III - a contagem de qualquer tempo de serviço fictício;
+IV - para período em que não se comprove a efetiva contribuição, exceto para o segurado
+empregado, empregado doméstico, trabalhador avulso e a partir de 1º de abril de 2003, para o
+contribuinte individual que presta serviço a empresa;
+(...)
+§ 2º Para os períodos de exercício de atividade de empregado, empregado doméstico a partir de
+2 de junho de 2015 e trabalhador avulso, sem remuneração no CNIS e não sendo possível a
+apresentação da documentação comprobatória da remuneração auferida pelo segurado, deverá
+ser informado o valor de um salário mínimo nas referidas competências.
+§3º Para os períodos de exercício de atividade de empregado doméstico até 1º de junho de 2015,
+sem remuneração no CNIS e sem comprovação do efetivo recolhimento, deverá ser incluído o valor
+de um salário mínimo nas referidas competências, ainda que apresentada documentação
+comprobatória da remuneração auferida.
+§ 4º A Para período de exercício de atividade de contribuinte individual prestador de serviço até
+31 de março de 2003, nos termos do art. 15 da Lei 10.666, de 2003, será obrigatória a
+comprovação da efetiva contribuição, nos requerimentos realizados a partir de 18 de junho de
+2019, data de publicação da Lei n° 13.846.
+QUESTÃO 11  A data da ciência de que trata o caput do artigo 566 da Instrução Normativa
+PRES/INSS nº 128, de 2022, pode ser considerada a data em que o interessado detalhou a tarefa,
+conforme consta no Histórico de Ações do GET? Se sim, essa data também pode ser considerada nos
+casos em que o requerente não aceita acompanhar o andamento do processo pelo Meu INSS,
+Central 135 ou e-mail (mas mesmo assim acompanha)?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Sim, é o que dispõe o artigo 20 da Portaria
+DIRBEN/INSS nº 993, de 2022 (Livro IV  Processo Administrativo Previdenciário), sobretudo seu
+-
+9
+IN 128
+Art. 566. Constatada a ausência de elemento necessário ao reconhecimento do direito ou serviço
+pleiteado, o servidor deverá emitir carta de exigências elencando providências e documentos
+necessários, com prazo mínimo de 30 (trinta) dias para cumprimento, contados da data da ciência.
+Livro IV  Portaria DIRBEN/INSS nº 993
+Art. 20. Consideram-se realizadas validamente as notificações:
+I - após 5 (cinco) dias da data de sua emissão no PAT, nos casos em que o endereço eletrônico de
+e-mail do interessado estiver corretamente cadastrado ou quando ele informar que concorda com
+o acompanhamento do processo por meio dos canais remotos;
+II - na data da consulta efetuada pelo interessado ou seu representante ao processo eletrônico, ou
+na data da juntada da manifestação expressa do interessado ou seu representante no processo
+eletrônico, o que ocorrer primeiro, nos casos de notificação por meio eletrônico;
+III - na data do recebimento constante do aviso de recebimento - AR, nos casos de notificação via
+postal;
+IV - na data da manifestação expressa do interessado no processo físico, quando a notificação
+tiver sido realizada pessoalmente; e
+V - na data da publicação do edital, conforme previsão do art. 24.
+§ 1º As notificações dispostas neste artigo incluem as comunicações que se destinam ao
+cumprimento de exigência, a apresentação de defesa ou a apresentação de contrarrazões
+recursais.
+§ 2º Cabe ao interessado manter seu endereço atualizado, comunicando ao INSS eventual
+alteração por meio de agendamento do serviço de atualização de dados cadastrais.
+§ 3º Caso sejam apresentados elementos dentro do processo que demonstrem alteração de
+endereço do interessado, tais dados deverão ser atualizados no CNIS previamente à emissão da
+notificação postal.
+§ 4º Em se tratando de exigência, esta deverá ser emitida no PAT de forma que o interessado
+-
+Central 135, ou unidades de atendimento.
+§ 5º Na hipótese do inciso III, considera-se como válida para fins de notificação, a consulta
+efetuada pelo interessado ou seu representante ao Processo Eletrônico, desde que devidamente
+identificada ou autenticada, quando do acesso ao seu conteúdo no ambiente de acesso destinado
+aos usuários do sistema, desde que devidamente identificados.
+§ 6º Na hipótese do inciso III, considera-se como válida para fins de notificação, a juntada da
+manifestação expressa pelo interessado ou seu representante ao Processo Eletrônico, desde que
+devidamente identificada ou autenticada.
+QUESTÃO 12  A Instrução Normativa nº 77, de 2015, previa a possibilidade de processamento de
+Justificação Administrativa  JA para comprovar fator de risco ruído, por exemplo. Nessa hipótese
+era necessária a apresentação de laudo técnico da empresa que já estava inativa. Na Instrução
+Normativa PRES/INSS nº 128, de 2022, não consta essa previsão. O segurado não mais terá direito
+à comprovação de atividade especial por meio de JA?
+10
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O artigo 81 da Portaria DIRBEN/INSS nº 993, de
+2022 (Livro IV  Processo Administrativo Previdenciário), trata do processamento de Justificação
+Administrativa  JA para fins de comprovação de atividade especial, dispondo em seu inciso II que
+quando se tratar de exposição a agente nocivo, a JA deverá ser instruída com a apresentação do
+laudo técnico de avaliação ambiental, coletivo ou individual. Ainda, o artigo 568 da Instrução
+Normativa PRES/INSS nº 128, de 2022, exige início de prova material contemporânea aos fatos para
+o processamento de JA.
+IN 128
+Art. 568. Somente será processada JA para fins de comprovação de tempo de serviço, dependência
+econômica, união estável ou outra relação não passível de comprovação em registro público, se
+estiver baseada em início de prova material contemporânea aos fatos.
+Livro IV  Portaria DIRBEN/INSS nº 993
+Art. 81. Quando o segurado solicitar análise de atividade especial e a empresa estiver legalmente
+extinta, a JA poderá ser processada, mediante requerimento, observando-se as seguintes
+disposições:
+I - quando se tratar de enquadramento por categoria profissional ou atividade até 28 de abril de
+1995 que não puder ser comprovado de outra forma, a JA será instruída com base em documentos
+que informem a função exercida, devendo ser verificada a correlação entre a atividade da empresa
+e a profissão do segurado; e
+II - quando se tratar de exposição a qualquer agente nocivo em período anterior ou posterior à Lei
+nº 9.032, de 1995, a JA deverá ser instruída obrigatoriamente com a apresentação do laudo
+técnico de avaliação ambiental coletivo ou individual, contemporâneo à época da prestação do
+serviço ou acompanhado de declaração em que a empresa informe expressamente que não houve
+alteração no ambiente de trabalho ou em sua organização ao longo do tempo, tais como: (...)
+QUESTÃO 13  Na prática, qual a diferença entre a análise revisional realizada com base no caput
+do artigo 584 da Instrução Normativa PRES/INSS nº 128, de 2022, e a análise baseada em seu
+parágrafo único?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Este questionamento deve ser encaminhado à
+Divisão de Revisão de Direitos  DREVD.
+QUESTÃO 14  Qual data deve ser considerada para fins de prescrição nas revisões determinadas
+por ações judiciais como, por exemplo, nas revisões extraordinárias determinadas por Ações Civis
+Públicas? Seria a data em que o INSS recebeu a citação?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Este questionamento deve ser encaminhado à
+Divisão de Revisão de Direitos  DREVD.
+11
+LIVRO II  BENEFÍCIOS
+Portaria DIRBEN/INSS nº 991, de 28 de março de 2022
+QUESTÃO 1  O §4º do artigo 523 da Portaria DIRBEN/INSS nº 991, de 2022, informa que poderão
+ser aceitos até 24 de março de 2022, data da publicação da Instrução Normativa PRES/INSS nº 128,
+de 2022, a certidão judicial ou atestado/declaração do estabelecimento prisional que ratifique o
+regime de reclusão. A informação da data da publicação da IN nº 128 está incorreta e no caput do
+artigo 523 é informado que o requerimento do auxílio-reclusão será instruído com certidão judicial.
+Como há data limite para aceitar atestado ou declaração citada no §4º, a partir da publicação da IN
+128 a comprovação do regime de reclusão será somente por meio de Certidão Judicial?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  A referência à data da publicação da Instrução
+Normativa PRES/INSS nº 128, de 2022, feita nesse dispositivo já foi corrigida no Portal da IN.
+A partir da vigência da Medida Provisória nº 871, de 18 de janeiro de 2019, a regra é a comprovação
+da reclusão mediante a apresentação de certidão judicial. No entanto, para o período de
+09/04/2019 a 28/03/2022, em decorrência da vigência da Instrução Normativa nº 101/PRES/INSS,
+de 9 de abril de 2019, poderiam ser aceitas tanto a certidão judicial quanto a declaração de cárcere.
+Com a publicação da Instrução Normativa PRES/INSS nº 128, de 2022, cabe aceitar apenas a certidão
+judicial que ateste o regime de reclusão.
+Livro II  Portaria DIRBEN/INSS nº 991
+Art. 523. Para requerimentos a partir de 18 de janeiro de 2019, vigência da Medida Provisória nº
+871, o requerimento do auxílio-reclusão será instruído com certidão judicial que ateste o
+recolhimento efetivo à prisão e será obrigatória a apresentação de prova de permanência na
+condição de presidiário para a manutenção do benefício.
+§1º Para requerimentos efetuados até 17 de janeiro de 2019, véspera da vigência da Medida
+provisória nº 871, a certidão judicial poderá ser substituída por atestado ou declaração do
+estabelecimento prisional.
+§2º Para o maior de 16 (dezesseis) e menor de 18 (dezoito) anos, serão exigidos certidão do
+despacho de internação e o documento atestando seu efetivo recolhimento a órgão subordinado
+ao Juiz da Infância e da Juventude.
+§3º As informações obtidas pelo INSS, dos bancos de dados disponibilizados por meio de ajustes
+firmados com órgãos públicos responsáveis pelos cadastros de presos, substituirão a necessidade
+de apresentação da certidão judicial e a prova de permanência na condição de presidiário.
+§ 4º Para requerimentos efetuados a partir de 9 de abril de 2019, data da publicação da Instrução
+Normativa PRES/INSS nº 101, até 28 de março de 2022, data da publicação da Instrução
+Normativa PRES/INSS nº 128, de 2022, poderão ser aceitos certidão judicial ou
+atestado/declaração do estabelecimento prisional que ratifique o regime de reclusão.
+12
+QUESTÃO 2  O §2º do artigo 562 da Portaria DIRBEN/INSS nº 991, de 2022, determina que, no caso
+da impossibilidade de devolução da CTC pelo órgão de RPPS, o emissor deverá encaminhar a nova
+CTC com ofício esclarecedor, o qual informará quanto ao cancelamento dos efeitos da CTC
+anteriormente emitida. Como será feito esse procedimento?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  O ofício deve ser criado no SEI e deverá ser deverá
+ser verificado com a área responsável local a forma de encaminhamento desse ofício ao órgão de
+RPPS.
+Livro II  Portaria DIRBEN/INSS nº 991
+Art. 562. A CTC pode ser revista a qualquer tempo, a pedido do interessado ou de seus
+dependentes, desde que não seja alterada a destinação dos períodos já averbados e utilizados
+para obtenção de aposentadoria ou vantagem remuneratória ao servidor público em atividade no
+RPPS, mediante a apresentação dos seguintes documentos:
+I - solicitação do cancelamento da certidão emitida;
+II - certidão original, , salvo se emitida em meio eletrônico; e
+III - declaração emitida pelo órgão de lotação do interessado, contendo informações sobre a
+utilização ou não dos períodos certificados pelo INSS, e para quais fins foram utilizados.
+(...)
+§ 2º Em caso de impossibilidade de devolução pelo órgão de RPPS, caberá ao emissor encaminhar
+a nova CTC com ofício esclarecedor, informando quanto ao cancelamento dos efeitos da
+anteriormente emitida.
+13
+LIVRO IV  PROCESSO ADMINISTRATIA PREVIDENCIÁRIO
+Portaria DIRBEN/INSS nº 993, de 28 de março de 2022
+QUESTÃO 1  Conforme disposição do artigo 18, não deve ser utilizado o despacho PDR em forma
+de arquivo? Deve ser feito Ctrl-C + Ctrl-V do texto e incluir no campo? Qual o sentido?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)
+A redação desse dispositivo será ajustada,
+podendo o despacho ser digitado diretamente em campo no próprio GET/PAT, como também
+poderá ser incluído arquivo com o despacho final.
+Art. 18. Os despachos não serão anexados em arquivos, mas digitados diretamente no campo
+próprio no PAT.
+QUESTÃO 2
+de emitir
+a decisão final (deferimento ou indeferimento), não seria dever do INSS apresentar ao segurado
+uma prévia de toda a análise processual, conforme dispõe o artigo 44 da Lei nº 9.784, de 29 de
+janeiro de 1999, para que o requerente aponte qualquer pedido não analisado, equívocos, ou
+contrariedade às provas apresentadas?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Primeiramente, cabe destacar que o artigo 44 da
+Lei nº 9.784, de 1999, dispõe que após a instrução do processo, o interessado tem o direito de se
+manifestar no prazo de 10 (dez) dias, exceto se houver outro prazo legalmente fixado. Na fase
+instrutória ocorre a coleta de dados para a análise do benefício, podendo haver saneamento do
+processo por meio de emissão de exigência, realização de justificação administrativa ou pesquisa
+externa. Em outras palavras, a instrução processual corresponde à preparação do processo para a
+decisão final, é a etapa que antecede à fase decisória. A conclusão do processo no sistema de
+benefício equivale a essa fase decisória, logo, em observância ao citado dispositivo da lei que regula
+o processo administrativo no âmbito da Administração Pública federal, não seria após a
+manifestar-se no processo a qualquer momento e não apenas após a instrução processual, desde
+que o faça antes da fase decisória. Manifestações após a decisão final (deferimento ou
+indeferimento) podem ocorrer e, nesse caso, comporão a fase recursal do processo.
+QUESTÃO 3  A Instrução Normativa nº 77, de 2015, em seu artigo 678, §6º, citava que é vedado o
+cadastramento de exigência para apresentação de procuração. Essa vedação foi revogada? Agora,
+é possível fazer exigência de procuração como, por exemplo, nos casos em que a assinatura do
+documento de identificação do outorgante é incompatível com a assinatura da procuração?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Com a revogação da Instrução Normativa nº 77,
+de 2015, essa orientação perdeu validade a partir de 29 de março de 2022, data da publicação da
+Instrução Normativa PRES/INSS nº 128, de 2022, e das portarias procedimentais. A orientação
+vigente quanto à emissão de exigência para apresentação de procuração está contemplada no
+14
+artigo 77 da Portaria DIRBEN/INSS nº 993, de 2022 (Livro IV
+Processo Administrativo
+Previdenciário).
+Livro IV  Portaria DIRBEN/INSS nº 993
+Art. 77. O cadastramento de exigência para apresentação de procuração deverá observar as
+seguintes orientações:
+I - aquele que comparecer à unidade de atendimento e alegar ser procurador de um interessado
+sem possuir procuração ou, ao menos, um documento de identificação válido do próprio
+interessado, não terá protocolado o benefício ou serviço que alegar que o interessado pretende
+obter;
+II - aquele que comparecer à unidade de atendimento munido, além de um documento de
+identificação pessoal válido, um documento de identificação válido do interessado de quem alegar
+ser procurador, deve ser atendido, protocolado o benefício ou serviço pretendido e emitida
+exigência ao interessado para apresentação de procuração no prazo de 30 (trinta) dias;
+III - até que a procuração seja apresentada, não deverão ser disponibilizadas, ao solicitante,
+informações pessoais do interessado, assim como não deverão ser aceitas declarações para fins
+de acerto de dados, vínculos, remunerações e contribuições, ou que importem em renúncia ou
+opção relacionada à percepção de benefício.
+§ 1º Na situação prevista no inciso II deste artigo, quando não cumprida a exigência para
+apresentação da procuração, o servidor responsável pela análise do requerimento deverá
+certificar a desistência administrativa por ausência de documento essencial, sem análise dos
+dados constantes dos sistemas informatizados do INSS e sem análise de mérito.
+§ 2º A simples entrega de documentos do segurado ou interessado no INSS, por terceiros, dispensa
+a apresentação de procuração para a respectiva juntada.
+QUESTÃO 4  Quando se trata de cópia de processo de pessoa falecida, quais são os interessados
+que possuem direito de acesso a essa cópia?
+RESPOSTA CRIDIR/CGRD/DIRBEN (ABRIL/2022)  Será providenciada inclusão de previsão a esse
+acesso no Livro IV  Processo Administrativo Previdenciário.

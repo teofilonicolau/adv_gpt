@@ -1,0 +1,854 @@
+DIÁRIO OFICIAL DA UNIÃO
+Publicado em: 23/06/2020 | Edição: 118 | Seção: 1 | Página: 23
+Órgão: Ministério da Economia/Instituto Nacional do Seguro Social/Presidência
+PORTARIA Nº 689, DE 17 DE JUNHO DE 2020
+Estabelece a pontuação para aferição da produtividade na
+análise de processos e serviços de benefícios.
+O PRESIDENTE DO INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, no uso das atribuições
+que lhe confere o Decreto n° 9.746, de 8 de abril de 2019, e considerando o contido na Lei nº 13.846, de 18
+de junho de 2019, bem como o que consta nos Processos Administrativos nºs 00695.000138/2019-56 e
+35014.075447/2020-10, , resolve:
+Art. 1° Estabelecer a pontuação para aferição da produtividade na análise de processos e
+serviços de benefícios no âmbito deste Instituto, na forma do Anexo.
+Art. 2º Fica revogada a Portaria nº 414/PRES/INSS, de 25 de março de 2020, publicada no
+Diário Oﬁcial da União nº 61, de 30 de março de 2020, Seção 1, págs. 32/34.
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+LEONARDO JOSÉ ROLIM GUIMARÃES
+ANEXO
+PONTUAÇÃO DE SERVIÇOS E TAREFAS
+SERVIÇO
+PONTUAÇÃO
+Abertura de Exigência (Computado apenas uma vez por processo) 0,20
+Abertura de fase do programa de RP
+0,50
+Abertura do programa de RP
+0,50
+Abertura e tramitação de processos no SEI referentes ao PRP
+0,33
+Acertos para marcação de Perícia Médica
+0,33
+Acompanhamento de Indicadores ITC-GDASS
+0,17
+Acompanhamento de Indicadores Mobilização
+0,17
+Acompanhamento de Produtividade de Servidores (FACILITA)
+0,17
+Acompanhamento dos Circuitos de Dados (COCAR)
+0,17
+Acompanhamento Processo SEI
+0,50
+Acompanhamento, Suporte e Resposta via E-mail
+0,33
+Acordo Internacional - Aposentadoria por Idade Rural
+1,05
+Acordo Internacional - Aposentadoria por Idade Urbana
+1,00
+Acordo Internacional - Aposentadoria por Incapacidade Permanente
+0,75
+Acordo Internacional - Aposentadoria por Tempo de Contribuição
+1,05
+Acordo Internacional - Auxílio por Incapacidade Temporária
+0,75
+Acordo Internacional - Declaração de Filiação ao RGPS
+0,50
+Acordo Internacional - Formalização de análise ao Órgão de Ligação
+0,25
+Acordo Internacional - Pensão por Morte Rural
+0,74
+Acordo Internacional - Pensão por Morte Urbana
+0,74
+Acordo Internacional - Revisão
+1,00
+Acordo Internacional - Salário-Maternidade
+0,75
+Acordo Internacional - Solicitar Alteração do Certiﬁcado de Deslocamento Temporário 0,50
+Acordo Internacional - Solicitar Atualização de Atestado de Vida
+0,20
+Acordo Internacional - Solicitar Atualização de Dados Cadastrais e/ou Bancários
+0,33
+Acordo Internacional - Solicitar Atualização de Dados de Imposto de Renda
+0,23
+Acordo Internacional - Solicitar Benefício Exclusivo do País Acordante
+0,50
+Acordo Internacional - Solicitar Certiﬁcado de Contribuições em País Acordante
+0,50
+Acordo Internacional - Solicitar Certiﬁcado de Deslocamento Temporário Inicial
+0,50
+Acordo Internacional - Solicitar Certiﬁcado de Prorrogação de Deslocamento Temporário
+0,50
+Acordo Internacional - Solicitar Certiﬁcado Retiﬁcação de Deslocamento Temporário
+0,50
+Acordo Internacional - Solicitar Histórico de Seguro em País Acordante
+1,17
+Acordo Internacional - Solicitar Reativação de Benefício
+0,50
+Acordo Internacional - Solicitar Regularização de Pagamentos em Atraso
+0,50
+Acordo Internacional - Solicitar Transferência de Benefício de residente no exterior para
+Recebimento no Brasil
+0,50
+Acordo Internacional - Solicitar Transferência de Benefício para Recebimento em Banco no Exterior
+0,50
+Acordo Internacional - Aposentadoria da Pessoa com Deﬁciência por Idade
+0,79
+Acordo Internacional - Aposentadoria da Pessoa com Deﬁciência por tempo de contribuição
+0,96
+Acumulação Indevida de Benefícios
+0,25
+Aeronauta Gestante - Auxílio-Doença
+0,75
+Alterar Local ou Forma de Pagamento
+0,20
+Alterar Status de Pagamento
+0,25
+Analisar Solicitação de Reclamação sobre Glosa de Empréstimo Consignado
+0,25
+Análise Antecipação Calamidade
+0,20
+Análise de acórdão recursal
+0,75
+Análise de redimensionamento da rede de atendimento
+1,00
+Antecipação de Benefício Assistencial (B16)
+0,80
+Aposentadoria da pessoa com deﬁciência por idade
+0,79
+Aposentadoria da pessoa com deﬁciência por tempo de contribuição
+0,96
+Aposentadoria por idade rural
+1,05
+Aposentadoria por idade urbana
+1,00
+Aposentadoria por tempo de contribuição
+1,05
+Apresentar Defesa MOB
+0,19
+Apuração de Batimento Contínuo
+0,19
+Apuração de irregularidade
+2,00
+Atendimento de Expedientes de Órgãos Externos e Internos
+0,33
+Atendimento por Decisão Judicial
+0,20
+Atividades Administrativas da Unidade
+0,25
+Atividades de Gestão e Acesso aos Sistemas Corporativos de sua Competência 0,25
+Atividades de Supervisão Técnica
+1,00
+Atos Normativos do Suporte Técnico da Área de Atendimento
+0,50
+Atualização de Cadastro para Emissão de Senha de Meu INSS
+0,33
+Atualização de Código de Atividade
+0,50
+Atualização de Dados Cadastrais
+0,33
+Atualização de Tempo de Contribuição
+0,12
+Atualizações de base de dados SDC
+0,17
+Atualizar Atestado de Vida no Exterior
+0,20
+Atualizar Dados Cadastrais do Beneﬁciário
+0,21
+Atualizar Dados do Imposto de Renda Direto na Fonte (DIRF)
+0,23
+Atualizar Dados do Instituidor e Dependentes (RELAC/IUB)
+0,25
+Atualizar Dependentes para Imposto de Renda
+0,23
+Atualizar o Imposto de Renda para Declaração de Saída Deﬁnitiva do País
+0,25
+Atualizar Vínculos e Remunerações
+0,50
+Auditar Pagamento
+0,25
+Autenticação de Documentos
+0,12
+Autorização de Pagamento - Cadastro e encaminhamento no APWeb
+0,25
+Auxílio-Acidente
+0,33
+Auxílio-Doença - Rural (Pós-perícia)
+0,50
+Auxílio-Doença - Urbano (Pós-perícia)
+0,33
+Auxílio-Doença com Documento Médico
+0,80
+Auxílio-Reclusão Rural
+0,74
+Auxílio-Reclusão Urbano
+0,74
+Avaliação Social B87
+0,50
+Avaliação Social B87 - Recurso
+0,50
+Avaliação Social B87 - Revisão
+0,50
+Avaliação Social B87 - Revisão Judicial
+0,50
+Avaliação Social da Aposentadoria da Pessoa com Deﬁciência
+0,50
+Avaliação Social da Aposentadoria da Pessoa com Deﬁciência - Recurso
+0,50
+Benefício Assistencial à Pessoa com Deﬁciência
+1,05
+Benefício Assistencial à Pessoa com Deﬁciência - Microcefalia
+1,05
+Benefício Assistencial ao Idoso
+1,05
+Benefício Assistencial ao Trabalhador Portuário
+1,05
+Benefício de Origem sem PA Relacionada
+0,42
+Benefício de Pensão por Morte Desdobradas Relacionadas com Múltiplo Pagamento Integral de
+Cotas
+0,61
+Benefícios Ativos com Gênero de Titulares com Divergências
+0,21
+Benefícios com Comprovação de Vida/Data de Renovação de Senha Zerada
+0,33
+Benefícios com Data de Nascimento Válida Divergente do MDM
+0,21
+Benefícios Concedidos com a Utilização de NIT Faixa Crítica
+0,21
+Benefícios de Após, por Idade Concedidos para Nomes Masculinos mas Consta Sexo Feminino
+0,21
+Benefícios de Após, Tempo de Contribuição Concedidos para Nomes Masculinos mas Consta Sexo
+Feminino
+0,21
+Benefícios de Pensão por Morte sem Informação do Instituidor
+0,25
+Bloquear/Desbloquear Benefício para Empréstimo Consignado
+0,16
+Cadastramento de Ação Regressiva
+0,33
+Cadastramento de Máquinas para Utilização do Seguro Defeso
+0,17
+Cadastramento de Pedidos de Gravação do 135 (E-Integração)
+0,17
+Cadastramento de Servidores no SAG Gestão
+0,17
+Cadastrar Consignação em Benefício por Ordem Judicial
+0,33
+Cadastrar ou Atualizar Dependentes para Salário-Família
+0,25
+Cadastrar ou Renovar Procuração
+0,33
+Cadastrar ou Renovar Representante Legal
+0,33
+Cadastrar/Alterar/Excluir Pensão Alimentícia
+0,40
+Carta de Concessão do Benefício
+0,05
+Certidão de Tempo de Contribuição
+1,17
+Compensação Previdenciária - RI
+1,00
+Comprev - RO
+1,00
+Comunicação à DIRAT de Eventualidades de Fechamento de Unidade de Atendimento 0,17
+Concessão e Gestão de Acessos ao GERID GPA, GID e GERID MTE
+0,17
+Conﬁguração de Servidores no SAG Gestão
+0,17
+Contrarrazões de Recuso Especial
+1,00
+Convocação para apoio às atividades de gestão da Reabilitação Proﬁssional
+4,26
+Cópia de Laudos Médicos
+0,09
+Cópia de Processo
+0,25
+Cópia de Processo - Entidade Conveniada
+0,25
+CPF Não Consta na Base de Dados da RFB
+0,21
+CPF Usado por Diferentes Segurados
+0,21
+CPF Zerado
+0,21
+Cumprimento de Exigência
+0,14
+Cumprimento de Exigência - Processo Físico
+0,25
+Dados de Instituidores Faltantes ou Inconsistentes
+0,25
+Dados do Representante Legal Faltantes
+0,17
+Data de Nascimento Zerada ou Inconsistente
+0,21
+Declaração de Benefício - Consta/Nada Consta
+0,05
+Declaração de Regularidade do Contribuinte Individual - DRSCI
+0,14
+Despacho de evolução do caso
+0,17
+Despacho e conclusão do caso
+0,33
+Devolução de Documentos ou Processos
+0,17
+Digitalização de Documentos
+0,13
+Distribuição, Validação e Acompanhamento de Manifestações na Ouvidoria (SouWeb)
+0,17
+Elaboração de BERP
+4,00
+Elaboração de Ofícios
+0,50
+Emissão 2ª Via de Certidão de Tempo de Contribuição
+0,25
+Encaminhamento - Ampliação e Consolidação do Acesso à Previdência Social
+0,33
+Encaminhamento - Direito das Pessoas com Deﬁciência e das Pessoas Idosas
+0,33
+Encaminhamento - Segurança e Saúde do Trabalhador
+0,33
+Encaminhamentos do Processo de Apuração - MOB
+0,75
+Entrega de Documentos para Requerimento de Pensão Por Morte
+0,13
+Envio de Documentos para Auxílio-Doença Rural
+0,50
+Estudo dirigido
+1,00
+Excluir Procurador/Representante Legal
+0,28
+Execução de Atividades de Informações do Segurado
+0,50
+Execução de Atividades de Manutenção de Direitos
+0,50
+Execução de Atividades de Reconhecimento de Direitos
+0,50
+Extrato de Pagamento de Benefício (HISCRE)
+0,05
+Extrato para Imposto de Renda (IR)
+0,05
+Extrato Previdenciário (CNIS)
+0,05
+Fornecer Subsídios a partir de Quesitos Formulados (Computado Apenas uma Vez por Processo
+Judicial)
+0,50
+Gestão de acessos ao SIRC
+0,33
+Gestão de acessos ao SISOBI pelos Cartórios
+0,33
+Gestão de Agendas/Vagas de Atendimento (SAG Gestão)
+0,33
+Gestão do Estoque de Tarefas em Conjunto com ELAB MAN, ELAB RD, ELAB DJ e APS (GET Gestão)
+0,17
+Gestão do Estoque de Tarefas no Âmbito da Superintendência Regional
+0,17
+Gestão e Operacionalização do Serviço de Habilitação e Reabilitação Proﬁssional
+0,50
+Gestão e Operacionalização do Serviço Social
+0,50
+Histórico de Consignações - HISCON
+0,05
+Homologação Eventualidade de Feriado Estadual
+0,17
+Homologação Eventualidades SAGGESTÃO
+0,17
+Implantar Decisão Judicial Referente à Cessação, Restabelecimento, Emissão de Créditos de
+Benefícios, Isenções Fiscais, Consignações e Emissão de Documentos de Arrecadação
+0,25
+Incompatibilidade entre Tratamento e Espécie
+0,61
+Inscrição Junto à Previdência Social
+0,12
+Instrução de Processo de Recurso
+0,20
+Internacional - Aposentadoria por Incapacidade Permanente - Relatório Médico no Exterior
+0,75
+Internacional - Auxílio por Incapacidade Temporária - Relatório Médico no Exterior
+0,75
+JUD - Agendar Justiﬁcação Administrativa
+0,10
+JUD - Agendar Perícia Médica Revis em Benef por Incapacidade Jud por Solicitação da
+Procuradoria
+0,10
+JUD - Agendar Reabilitação Proﬁssional por Determinação Judicial
+0,10
+JUD - Analisar/Autorizar Crédito
+0,25
+JUD - Art. 535 CPC - Fornecer simulação de RMI
+0,50
+JUD - Cancelar Averbação (PRISMA ou CNIS)
+0,25
+JUD - Cancelar CTC
+0,25
+JUD - Cancelar/Bloquear Crédito
+0,25
+JUD - Cessar Benefício
+0,25
+JUD - Comunicar Encerramento de Tarefa Sem Cumprimento - Aguardando Parâmetros
+0,20
+JUD - Comunicar Revogação de Tutela
+0,25
+JUD - Desfazer Desaposentação
+0,25
+JUD - Emitir Averbação (PRISMA ou CNIS)
+0,50
+JUD - Emitir Crédito
+0,25
+JUD - Emitir CTC
+1,00
+JUD - Emitir GPS
+0,25
+JUD - Excluir Consignação
+0,25
+JUD - Fornecer Análise da Validação de Recolhimentos de Facultativo de Baixa Renda
+0,50
+JUD - Fornecer Análise da Validação de Recolhimentos de Facultativo de Baixa Renda à
+Procuradoria
+0,50
+JUD - Fornecer Análise da Validação de Recolhimentos de Facultativo de Baixa Renda ao Judiciário
+0,50
+JUD - Fornecer Dossiê de Cumprimento Judicial
+0,10
+JUD - Fornecer Informações/Despacho
+0,10
+JUD - Fornecer Laudo Médico
+0,10
+JUD - Fornecer Laudo Social
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário - CTC
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário - CTC ao Judiciário
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário - GET
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário - SIPPS
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário ao Judiciário
+0,10
+JUD - Fornecer Processo Administrativo Previdenciário ao Judiciário - GET
+0,10
+JUD - Fornecer Prontuário de Reabilitação Proﬁssional à Procuradoria
+0,10
+JUD - Fornecer Prontuário de Reabilitação Proﬁssional ao Poder Judiciário
+0,10
+JUD - Fornecer Telas dos Sistemas Previdenciários
+0,10
+JUD - Implantar Benefício - Aposentadoria Especial
+1,00
+JUD - Implantar Benefício - Aposentadoria por Idade da Pessoa com Deﬁciência
+0,50
+JUD - Implantar Benefício - Aposentadoria por Idade Rural
+0,40
+JUD - Implantar Benefício - Aposentadoria por Idade Urbana
+0,50
+JUD - Implantar Benefício - Aposentadoria por Invalidez
+0,50
+JUD - Implantar Benefício - Aposentadoria por Invalidez Acidentária
+0,50
+JUD - Implantar Benefício - Aposentadoria por Tempo de Contribuição da Pessoa com Deﬁciência
+1,00
+JUD - Implantar Benefício - Aposentadoria por Tempo de Contribuição do Professor
+1,00
+JUD - Implantar Benefício - Aposentadoria por Tempo de Contribuição Rural
+1,00
+JUD - Implantar Benefício - Aposentadoria por Tempo de Contribuição Urbana
+1,00
+JUD - Implantar Benefício - Auxílio-Acidente
+0,50
+JUD - Implantar Benefício - Auxílio-Acidente Decorrente de Acidente de Qualquer Natureza 0,50
+JUD - Implantar Benefício - Auxílio-Doença
+0,50
+JUD - Implantar Benefício - Auxílio-Doença Acidentário
+0,50
+JUD - Implantar Benefício - Auxílio-Reclusão
+0,60
+JUD - Implantar Benefício - Pensão Especial Hanseníase
+0,60
+JUD - Implantar Benefício - Pensão Mensal Vitalícia do Seringueiro (Soldado da Borracha)
+1,00
+JUD - Implantar Benefício - Pensão Mensal Vitalícia por Síndrome de Talidomida
+1,00
+JUD - Implantar Benefício - Pensão por Morte
+0,60
+JUD - Implantar Benefício - Pensão por Morte Acidentária
+0,60
+JUD - Implantar Benefício - Pensão por Morte de Ex-Combatente
+0,60
+JUD - Implantar Benefício - Prorrogação de Salário-Maternidade
+0,40
+JUD - Implantar Benefício - Salário-Maternidade
+0,40
+JUD - Implantar Benefício - Seguro-Defeso
+0,40
+JUD - Implantar Benefício Assistencial
+0,40
+JUD - Implantar Benefício Assistencial à Pessoa Com Deﬁciência
+0,40
+JUD - Implantar Benefício Assistencial ao Idoso
+0,40
+JUD - Implantar Benefício por Incapacidade Acidentário
+0,50
+JUD - Implantar Benefício por Incapacidade Previdenciário
+0,50
+JUD - Incluir Consignação
+0,25
+JUD - Inserir Majoração de 25% em Benefício
+0,25
+JUD - Inserir/Retirar Isenção de Imposto de Renda
+0,25
+JUD - Prestar Subsídios
+0,50
+JUD - Prestar Subsídios - Teto no Buraco Negro
+0,50
+JUD - Prestar Subsídios - Teto no Período Pré-Constitucional
+0,50
+JUD - Processar Desaposentação
+1,00
+JUD - Realizar Justiﬁcação Administrativa
+2,00
+JUD - Restabelecer Benefício
+0,25
+JUD - Restabelecer Benefício por Incapacidade ou Assistencial
+0,50
+JUD - Revisar Benefício - Excluir /Alterar Múltipla Atividade
+1,00
+JUD - Revisar Benefício - Incluir ou Excluir Auxílio-Acidente do Período Básico de Cálculo
+1,00
+JUD - Revisar Benefício - IRSM/ORTN
+1,00
+JUD - Revisar benefício - Revisão da vida toda/inteira
+1,00
+JUD - Revisar Benefício (Teto no Buraco Negro)
+1,00
+JUD - Revisar Benefício (Teto no Período Pré-Constitucional)
+1,00
+JUD - Revisar Benefício para alterar Data do Direito Adquirido/ DDA ou Alterar competência
+ﬁnal/PBC
+1,00
+JUD - Revisar Benefício Por Incapacidade ou Benefício Assistencial
+0,50
+JUD - Revisar Benefício Programado
+0,60
+JUD - Revisar Consignação
+0,25
+JUD - Revisar CTC
+0,60
+JUD - Simular Tempo de Contribuição
+0,50
+JUD - Suspender Benefício
+0,25
+JUD Implantar Benefício - Pensão Mensal Vitalícia do Dependente do Seringueiro (Soldado da
+Borracha)
+1,00
+JUD- Revisar Averbação (PRISMA ou CNIS)
+0,50
+Justiﬁcação Administrativa
+2,00
+Justiﬁcação Judicial
+2,00
+LISVER
+0,18
+Marcação Junta Médica
+0,17
+Marcação ou Remarcação de Perícia
+0,09
+Marcação, Remarcação, Cancelamento e Consulta de Agendamento
+0,09
+Migração de processo físico
+1,00
+MOB - Atendimento Presencial
+0,22
+Monitoramento do Upload Assíncrono e Exigência Ofﬂine (SAT Central) 0,17
+Monitorar e Acompanhar o Processamento de Tarefas de SD
+0,50
+NIT Inconsistente
+0,21
+NIT Usado por Diferentes Segurados
+0,21
+NIT Zerado
+0,17
+Nome da Mãe Inconsistente
+0,21
+Nome do Titular Igual ao Nome da Mãe
+0,21
+Nome do Titular Igual ao Nome do Instituidor
+0,21
+Nome do Titular Igual ao Nome do Procurador
+0,21
+Nome do Titular Igual ao Nome do Representante Legal
+0,21
+Nome do Titular Inconsistente
+0,21
+Notiﬁcação de Cartório
+0,25
+Orientação de Informação - Protocolo
+0,09
+Orientação quanto acertos no SISOBI ou SIRC
+0,50
+Orientação quanto aos Fluxos e Sistemas de Atendimento
+0,50
+Orientações aos Servidores quanto a Normativos e Comunicados da Área de Atendimento 0,33
+Outros Extratos - Serviços
+0,08
+Parecer da Área Técnica
+1,00
+Participação em supervisão técnica online
+0,50
+Participação em Videoconferências/Teleconferência
+2,00
+Pecúlio
+1,00
+Pensão Alimentícia não Relacionada com o Instituidor
+0,21
+Pensão Especial - Crianças com Microcefalia decorrente do Zika Vírus
+0,75
+Pensão Especial - Síndrome da Talidomida
+0,75
+Pensão por Morte com Instituidor com Outro Benefício
+0,25
+Pensão por Morte Desdobrada e Não-Relacionada
+0,42
+Pensão por Morte Rural
+0,74
+Pensão por Morte sem Dependentes Válidos
+0,25
+Pensão por Morte Urbana
+0,74
+Pensões por Morte não Relacionadas com Múltiplo Pagamento Integral das Cotas
+0,61
+Pesquisa de ﬁxação
+0,33
+Produção e Extração de Relatórios do BGINSS
+0,50
+Produção e Extração de Relatórios do E-tarefas
+0,25
+Produção e Extração de Relatórios do GETGestão
+0,50
+Produção e Extração de Relatórios do SIGMA e Novo SIGMA
+0,50
+Prospecção para Acordos de Cooperação Técnica (Forma Remota)
+0,50
+Protocolo de Requerimento
+0,12
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Acumulação Indevida
+0,33
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências de Dados Cadastrais 0,17
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências de Valores
+0,42
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências no Pagamento
+0,33
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências no Relacionamento
+0,42
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências nos Dados do
+Benefício
+0,33
+Qualiﬁcação da Folha de Pagamento_SVCBEN/Painel QDBEN_Inconsistências Relativas ao Óbito
+0,42
+Qualiﬁcação da Folha de Pagamentos_Apuração de Irregularidade
+1,00
+Qualiﬁcação da Folha de Pagamentos_Cobrança
+1,00
+Qualiﬁcação da Folha de Pagamentos_Revisão
+1,00
+Realizar Prova de Vida (Situações Excepcionais)
+0,33
+Reativação de BPC Após Atualização do CADÚnico
+0,23
+Reativar Benefício
+0,25
+Reativar Benefício Assistencial Suspenso por Inclusão no Mercado de Trabalho
+0,23
+Recepção de Dúvidas, Sugestões e Encaminhamento para a DIRAT
+0,17
+Recurso - Cumprimento de Acórdão com Implantação de Benefício
+1,00
+Recurso - Cumprimento de Acórdão com Implantação de Benefício/BI
+0,75
+Recurso - Cumprimento de Acórdão com Implantação de Benefício/Defeso
+0,33
+Recurso - Cumprimento de Acórdão com Implantação de Benefício/LOAS
+0,75
+Recurso - Cumprimento de Acórdão de Apuração de Irregularidade - MOB
+0,50
+Recurso - Cumprimento de Diligência
+0,50
+Recurso - Instrução (Análise de novos documentos juntados após decisão administrativa, com
+manutenção do indeferimento e envio à JRPS/CRPS)
+0,20
+Recurso - Cumprimento de Acórdão sem Implantação de Benefício
+0,50
+Reemitir Parcelas - Seguro Defeso
+0,09
+Registo e Monitoramento de SIM
+0,17
+Registro de acertos de cadastro dos Cartórios
+0,25
+Registro SDM
+0,17
+Renovar Declaração de Cárcere/Reclusão
+0,17
+Renunciar Cota de Pensão por Morte ou Auxílio-Reclusão
+0,24
+Requerimento de Antecipação de Pagamento da Revisão do Art. 29
+0,33
+Resposta Ouvidoria
+0,25
+Respostas a Ofício (Judicial/Mandado Segurança)
+0,33
+Resultado de Perícia Médica
+0,08
+Reuniões técnicas online
+1,00
+Revisão
+1,00
+Revisão - Entidade Conveniada
+1,00
+Revisão Administrativa de Benefício por Incapacidade
+0,33
+Revisão Administrativa em Fase Recursal
+0,75
+Revisão de Ofício
+1,00
+Revisão Legado
+1,00
+Salário-Maternidade Rural
+0,75
+Salário-Maternidade Urbano
+0,75
+Seguro Defeso - Pescador Artesanal
+0,11
+Senha Inicial Para o Meu INSS (Central de Serviços)
+0,05
+Serviços Recursos - AIS
+0,50
+Simulação de Tempo de Contribuição e/ou Renda Inicial ACP Goiás
+0,17
+Socialização de Informações (Serviço Social) - Coletivo
+0,50
+Socialização de Informações (Serviço Social) - Individual
+0,25
+Solicitação de Acréscimo de 25%
+0,33
+Solicitação de Exclusão de Empréstimo Consignado
+0,25
+Solicitação de Exclusão de Empréstimo Consignado Judicial
+0,33
+Solicitação de Informação de Valor Residual de Benefício Cessado por Óbito
+0,17
+Solicitação de Isenção de IR
+0,33
+Solicitação de Reativação de Empréstimo Consignado Judicial
+0,33
+Solicitar Alta a Pedido
+0,33
+Solicitar Alteração de Código de Pagamento
+0,50
+Solicitar Cálculo de Complementação
+0,50
+Solicitar Cálculo de Contribuição em Atraso, Emissão e/ou Cálculo de GPS
+0,33
+Solicitar Cálculo de Período Decadente
+0,50
+Solicitar Certidão de Inexistência de Dependentes Habilitados à Pensão por Morte 0,18
+Solicitar Certidão para Saque de PIS/PASEP/FGTS
+0,18
+Solicitar Contestação de NTEP
+0,33
+Solicitar Desistência do Benefício
+0,24
+Solicitar Encerramento do Benefício por Óbito
+0,18
+Solicitar Exclusão de Mensalidade de Associação ou Sindicato no Benefício
+0,18
+Solicitar Pagamento de Benefício Não Recebido
+0,33
+Solicitar Prova de Vida - Diﬁculdade de Locomoção
+0,23
+Solicitar Prova de Vida - Maior de 80 anos
+0,23
+Solicitar Retroação da Data do Início da Contribuição - DIC
+0,50
+Solicitar Valor não Recebido até a Data do Óbito do Beneﬁciário
+0,25
+Solução de Manifestações na Ouvidoria (SouWeb)
+0,17
+Subsídio Técnico - AIS
+0,50
+Subsídio Técnico - MAN
+0,50
+Subsídio Técnico - RD
+0,50
+Supervisão do envio de informações ao SIRC
+1,00
+Supervisão Técnica B21 - SUPERTEC21
+1,00
+Supervisão Técnica B25 - SUPERTEC25
+1,00
+Supervisão Técnica B41 - SUPERTEC41
+1,00
+Supervisão Técnica B42 - SUPERTEC42
+1,00
+Supervisão Técnica B46 - SUPERTEC46
+1,00
+Supervisão Técnica B57 - SUPERTEC57
+1,00
+Supervisão Técnica B80 - SUPERTEC80
+1,00
+Supervisão Técnica B87 - SUPERTEC87
+1,00
+Supervisão Técnica B88 - SUPERTEC88
+1,00
+Supervisão Técnica CTC - SUPERTECCTC
+1,00
+Suporte à Acordos de Cooperação Técnica (Forma Remota)
+0,50
+Suporte aos Sistemas de Atendimento (GET, GET Gestão, SAG Gestão, SAG, SAT, SAT Central)
+0,50
+Suporte Operacional - SABI
+1,00
+Suporte quanto a utilização do SIRC
+0,50
+Suporte Técnico à Gerência-Executiva
+0,50
+Suporte Técnico à Superintendência Regional
+0,50
+Suporte Técnico ao Coordenador da ELAB
+0,50
+Suporte Técnico ao Coordenador das CEABs
+0,50
+Suporte Técnico ao Gerente Executivo
+0,50
+Suporte Técnico ao Gestor de Aps
+0,50
+Suporte Técnico ao Serviço de Atendimento
+0,50
+Suporte Técnico para Entidade Conveniada (Forma Remota)
+0,50
+Suspender o Benefício Assistencial à Pessoa com Deﬁciência para Inclusão no Mercado de
+Trabalho
+0,28
+Tramitação de Pedidos de Gravação do 135 (E-Integração)
+0,17
+Transferir Benefício para Conta Corrente
+0,20
+Transferir Benefício para Outra Agência do INSS
+0,25
+Treinamento para Entidade Conveniada (Forma Remota)
+4,00
+Utilização de uma Mesma Conta-Corrente por Vários Beneﬁciários
+0,20
+Validação Facultativo Baixa Renda
+0,33
+Valor Acima do Salário Mínimo - Tratamento 19
+0,61
+Valor Acima do Salário Mínimo - Tratamento 80 e 81
+0,61
+Valor Acima do Salário Mínimo - Tratamento 80 e 81 com NB Anterior
+0,61
+Valor Acima do Teto do Ministro do STF
+0,61
+Valor Acima do Teto Previdenciário
+0,61
+Vista / Carga de Processos
+0,17
+Este conteúdo não substitui o publicado na versão certiﬁcada.
