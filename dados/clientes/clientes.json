@@ -1,0 +1,16 @@
+{
+  "teixeira_nicolau": {
+    "nome": "ADVOGADOS ASSOCIADOS TEIXEIRA & NICOLAU",
+    "endereco": "Rua das Petições, 123 – Icó/CE",
+    "telefone": "(88) 91234-5678",
+    "logo": "dados/clientes/teixeira_nicolau/logo.png",
+    "api_key": "teixeira123-token"
+  },
+  "gomesealmeida": {
+    "nome": "GOMES & ALMEIDA ADVOCACIA",
+    "endereco": "Av. Principal, 456 – Fortaleza/CE",
+    "telefone": "(85) 99876-5432",
+    "logo": "dados/clientes/gomesealmeida/logo.png",
+    "api_key": "gomes456-token"
+  }
+}
