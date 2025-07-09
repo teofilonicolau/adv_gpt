@@ -57,3 +57,7 @@ dados/vetores/
 # 🌐 Arquivos de requisição HTTP/REST (testes de API)
 *.http
 *.rest
+
+app.db
+*.db
+

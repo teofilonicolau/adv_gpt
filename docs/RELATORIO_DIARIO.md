@@ -167,6 +167,69 @@ Quer testar? Quer integrar? Quer colaborar?
 **Fale com o Teófilo. Esse robô ainda vai tirar OAB digital.**
 
 ---
+## 🔐 NOVO MÓDULO DE AUTENTICAÇÃO E MULTIUSUÁRIOS  
+📅 Implementado em: 08/07/2025  
+📂 Pastas: `app/api/auth.py`, `app/models/usuario.py`, `app/services/auth.py`
+
+---
+
+### 🏗️ Estrutura criada
+
+| Arquivo | Descrição |
+|--------|-----------|
+| `usuario.py` | Modelo `Usuario` com campos como `email`, `senha_hash`, `plano` e `is_admin` |
+| `auth.py` (serviço) | Verificação de senha, hash com `bcrypt`, e geração de token JWT |
+| `auth.py` (rotas) | Rotas `POST /auth/register` e `POST /auth/login`, com dependência injetada |
+| `db.py` | Conexão centralizada com SQLite e `get_db()` |
+
+---
+
+### 🚀 Fluxo de autenticação implementado
+
+- Usuários agora podem se registrar via Swagger (nome, email, senha, plano)
+- Login gera um token JWT válido por 60 minutos
+- Token é salvo no `localStorage` e usado automaticamente no front-end
+- Banco SQLite (`app.db`) é gerado automaticamente com `create_all` no startup do FastAPI
+
+---
+
+### 📁 Detalhes do banco `app.db`
+
+- Guarda a tabela `usuarios`
+- Campos: `nome`, `email`, `senha_hash`, `plano`, `is_admin`
+- Preparado para expansão com tabelas de:
+  - Documentos enviados
+  - Consultas realizadas
+  - Histórico de petições
+  - Logs de uso
+
+> ✅ Excluído do Git com `.gitignore` por ser dependente do ambiente e gerado em runtime
+
+---
+
+### 💄 Front-end integrado com autenticação
+
+- Tela de login funcional com React + Tailwind
+- Integração com `/auth/login` via Axios
+- Navegação protegida (`/dashboard`, `/historico`) com JWT
+- Botão de logout funcional e redirecionamento ao login
+- Layout com menu lateral responsivo, em tons de azul
+
+---
+
+### 🧪 Testado com sucesso
+
+- Usuário de testes criado via `/auth/register`:
+  ```json
+  {
+    "nome": "Nome do Usuário",
+    "email": "usuario@exemplo.com",
+    "senha": "sua_senha_segura",
+    "plano": "gratuito"
+  }
+
+  ```
+
 
 
 *Atualizado por PrevInfoBot com supervisão de Teófilo — 30/06/2025 às 04:00 (BST)* 🚀

@@ -1,50 +1,33 @@
 # app/main.py
-
 from fastapi import FastAPI
-from app.api import router
-from app.api import aprofundar_resposta
-from app.api import elabora_peca
-from app.api import download_peticao
-from app.api import pdf_final
+from app.api import router, aprofundar_resposta, elabora_peca, download_peticao, pdf_final, upload
+
+from app.core.db import engine
+from app.models.usuario import Base
+Base.metadata.create_all(bind=engine)  # ⬅️ Cria o banco na primeira execução
 
 app = FastAPI(
     title="⚖️ Previnfobot API",
-    description=(
-        "Robô jurídico especializado em Direito Previdenciário, "
-        "com integração RAG (GPT + vetores), "
-        "pronto para consultas, petições e pareceres automatizados.\n\n"
-        "Desenvolvido por Teófilo Nicolau, com arquitetura modular, "
-        "boas práticas e visão de escalabilidade para múltiplos ramos do Direito."
-    ),
+    description="Robô jurídico especializado em Direito Previdenciário...",
     version="1.0.0",
     contact={
         "name": "Time Previnfobot",
-        "url": "https://github.com/seuusuario/previnfobot-correto",  # ajuste se quiser
-        "email": "contato@seudominio.com"
+        "url": "https://github.com/teofilonicolau/adv_gpt.git",
+        "email": "teofilonicolau157@gmail.com"
     },
     openapi_tags=[
-        {
-            "name": "Consultas Jurídicas",
-            "description": "Consulta com inteligência artificial baseada em jurisprudência e normas indexadas"
-        },
-        {
-            "name": "Pareceres Aprofundados",
-            "description": "Geração de pareceres com análise jurídica aprofundada usando RAG"
-        },
-        {
-            "name": "Geração de Petições",
-            "description": "Criação automatizada de petições com base em dados fornecidos"
-        },
-        {
-            "name": "Geração de PDF final",
-            "description": "Endpoint para download e formatação final dos documentos em PDF"
-        }
+        {"name": "Consultas Jurídicas", "description": "Consulta com IA jurídica"},
+        {"name": "Pareceres Aprofundados", "description": "RAG + GPT"},
+        {"name": "Geração de Petições", "description": "Automatização"},
+        {"name": "Geração de PDF final", "description": "Download dos documentos"},
+        {"name": "Upload de Documentos", "description": "Upload por escritório"},
+        {"name": "Autenticação", "description": "Login e registro de usuários"}
     ]
 )
 
-# Inclusão dos routers por funcionalidade
 app.include_router(router.router, tags=["Consultas Jurídicas"])
 app.include_router(aprofundar_resposta.router, tags=["Pareceres Aprofundados"])
 app.include_router(elabora_peca.router, tags=["Geração de Petições"])
 app.include_router(download_peticao.router)
 app.include_router(pdf_final.router, tags=["Geração de PDF final"])
+app.include_router(upload.router, tags=["Upload de Documentos"])
