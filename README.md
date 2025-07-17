@@ -45,53 +45,194 @@ Criar um assistente jurídico especializado em **Direito Previdenciário**, capa
 ## 📁 Estrutura do Projeto (atualizada)
 
 ```
-PREVINFOBOT-CORRETO/
+ADVOGPT/
+├── .pytest_cache/
+|    ├── V\cache
+|    |   ├── lastfailed
+|    |   └── nodeids
+|    ├──gitignore
+|    ├──CACHEDIR.TAG
+|    └──README.md
+├── .vscode
+|    └── settings.json
 ├── app/
-│   ├── api/router.py
-│   ├── core/
-│   └── services/
-│       ├── hash_utils.py
-│       ├── limpeza.py
-│       └── rag.py
-│
+│     ├──__pycache__/
+|     |   ├──_init_cpython-313.pyc
+|     |   └──main.cpython-313.pyc
+|     ├──api/
+│     ├── __pycache__
+│     ├── __init__.py
+│     ├── aprofundar_resposta.py
+|     ├── auth.py
+|     ├── documentos.py
+│     ├── download_peticao.py
+│     ├── elabora_peca.py
+|     ├── pdf_final.py
+|     ├── router.py
+|     ├── upload_logo.py
+│     └── upload.py
+├── core/
+|   ├──___pycache__
+|   ├── __init__.py
+|   ├── db.py
+|   ├── deps.py
+|   ├── logging_monitor.py
+│   └── security.py
+├── models/
+|   ├── __pycache__
+|   ├── documento.py
+|   └── usuario.py
+├── __init__.py
+├── services/
+|   ├── __pycache__
+|   ├── __init__.py
+|   ├── auth.py
+|   ├── hash_ultils.py
+|   ├── limpeza.py
+|   └── rag.py
+├── main.py
 ├── dados/
+|   ├── clientes/
+│   ├── fontes_convertiveis/
+│   │   ├── doc_001_crianca_com_deficiencia_intelectual_1...
+│   │   ├── doc_002_contrato_benefícios_previdenciários....
+│   │   ├── doc_003_procuracao_para_analfabeto.doc
+│   │   └── doc_004_procuracao_ad_judicia_et_extra_com_...
+│   ├── fontes_extra/
+|   ├── logos/
+|   |   └── logo_padrao.png
+│   ├── pdfs/
+│   │   └── Direito-Processual-Previdenciário (1.1).pdf
 │   ├── pdfs_coletados/
-│   ├── textos_pendentes/
-│   ├── textos_revisados/
+│   ├── peticoes_geradas/
+│   │   └── peticao_loas_teofilo.docx
+│   ├── textos/
+│   │   └──.txt
+│   ├── textos_base/
+│   │   ├── DECRETO_3048_1999.txt
+│   │   ├── DECRETO_10410_2020.txt
+│   │   ├── EC_103_2019.txt
+│   │   ├── LEI_8213_1991.txt
+│   │   └── LEI_9876_1999.txt
+│   ├── textos_descartados/
 │   ├── textos_limpos/
-│   └── vetores/faiss_index/
-│
-├── scripts/
+│   ├── textos_pendentes/
+│   │   ├── exemplo_sujo.txt
+│   │   └── regras_transicao_ec103_2019.txt
+│   ├── textos_repetidos/
+│   ├── textos_revisados/
+│   │   ├── exemplo_sujo.txt
+│   │   └── regras_transicao_ec103_2019.txt
+│   ├── vetores/faiss_index/
+│   │   ├── index.faiss 
+|   |   └── index.pkl                           
+|   └── docs/
+│   |   ├── gitgnore_explicado.md
+|   |   ├── RELATORIO_DIARIO.md 
+|   |   ├── relatorio-backend-13-07-2025.md
+|   |   ├── relatorio-backend-14-07-2025.md  
+|   |   ├── ROADMAP.md   
+|   |   └── testes.md    
+│   |    
+├── drivers/
+|   └──chromodriver.exe
+├── logs/
+│   ├── erros_conversao.txt
+│   └── renomeados.txt                                                   
+├── relatorios/
+│   ├── coleta_planalto.csv                                                  
+│   ├── documentos_embutidos.csv
+│   ├── duplicatas_detectadas.csv
+│   ├── extracoes_com_erro.csv
+│   ├── log_revisoes.csv
+│   ├── resumo_arquivos.csv
+│   └── termos_frequentes.csv
+├── scripts/ 
+│   ├── analisa_termos_indexados.py
 │   ├── extrai_e_limpa_drive.py
-│   ├── limpa_textos_pendentes.py
 │   ├── gera_relatorio_csv.py
+│   ├── limpa_textos_pendentes.py
+│   ├── mover_textos_suspeitos.py
 │   ├── valida_textos.py
-│   └── mover_textos_suspeitos.py
-│
-├── streamlit_apps/
-│   ├── revisor_visual.py
-│   ├── painel_estatisticas.py
-│   └── central_pipeline.py
-│
-├── tests/
-│   ├── test_api.py
-│   ├── test_hash_utils.py
-│   ├── test_limpeza.py
-│   └── test_estrutura.py
-│
-├── converte_doc_para_docx.py
-├── renomeador_doc_inteligente.py
-├── executa_tudo.py
-├── execute_pipeline.py
-├── inicia_painel_central.bat
-├── inicia_revisor.bat
-├── requirements.txt
-├── .env
-├── .gitignore
-└── docs/
-    ├── testes.md
-    ├── ROADMAP.md
-    └── gitignore_explicado.md
+│   └── verificador_de_duplicatas.py
+├── src/
+|   ├── agentes_juridicos/
+│   |   ├── _pycache_
+|   |   └── advogado_previdenciario.py  
+|   ├── coleta_web/   
+|   |   ├── coleta_agendada.py      
+│   |   ├── coleta_legislacao_planalto.py   
+|   |   ├── coleta_normas_filtradas.py  
+│   |   ├── coleta_normas_inss.py      
+│   |   └── coleta_normas_selenium.py   
+│   |     
+|   ├── documentos/    
+|   |   ├── _pycache_  
+|   |   ├── docx2pdf_fallback.py  
+|   |   ├── elaborador_pecas.py     
+|   |   └── gerador_pdf_formatado.py
+|   ├── extracao/     
+|   |   └── extrai_texto.py 
+|   ├── fragmentacao/ 
+|   ├── gpt_ultilidades/
+|   |     ├──_pycache_ 
+|   |     └── refinador_consulta.py
+|   ├──indexacao/
+|   |  └── indexa_com_faiss.py
+|   ├──limpeza/
+|   |  └── limpa_textos.py
+|   ├──rag_pipeline/
+|   |  └── pergunta_ao_robo.py(codigo todo comentado)
+|   ├── ultilidades/
+|   |   └── carrega_configuracoes.py
+│   ├── streamlit_apps/          
+|   |   ├── analisador_lexico.py 
+|   |   ├── central_pipeline.py
+|   |   ├── painel_estatisticas.py
+|   |   └── revisor_visual.py
+|   | 
+│   ├── tests/ 
+|   |  ├── __pycache__
+│   |  ├── test_api.py
+│   |  ├── test_estrutura.py
+│   |  ├── test_hash_utils.py
+│   |  ├── test_limpeza.py
+│   |  └── testa_docx.py
+│   |
+|   ├── venv/
+|   |   ├── etc\jupiter\nbconfig\notebook.d
+|   |   ├── pydesc.json
+|   |   ├── include\site\python3.13\greenlet
+|   |   |   └── greenlet.h
+|   |   ├── lib
+|   |   ├── Scripts
+|   |   └── share
+|   |       └── pyvenv.cfg
+|   |
+|   ├── .coverage
+|   ├── .env
+|   ├── .env.example
+|   ├── .gitignore
+|   ├── abre_docs_vscode.bat
+|   ├──app.db
+|   ├── coleta_planalto.bat
+|   ├── converte_doc_para_docx.py
+|   ├── coverage.xml
+|   ├── executa_pipeline.py
+|   ├── executa_tudo_agendado.py
+|   ├── executa_tudo.py
+|   ├── inicia_painel_central.bat
+|   ├── inicia_pipeline_agendado.bat
+|   ├── inicia_pipeline.bat
+|   ├── inicia_revisor.bat
+|   ├── README.md
+|   ├── renomeador_doc_inteligente.py
+|   ├── requirements.txt
+|   ├── revisar_novo_texto.bat
+|   └── testar_api.http
+```
+
+
 ```
 
 ---
