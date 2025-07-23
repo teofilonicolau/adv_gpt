@@ -3,22 +3,18 @@ from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import RetrievalQA
+import redis.asyncio as redis  # Ajustado para redis.asyncio
 
 load_dotenv()
+CAMINHO_INDICE = "dados/vetores/faiss_index"  # Ajustado para o diretório correto
+cache = redis.Redis(host='localhost', port=6379, db=0, decode_responses=True)
 
-CAMINHO_INDICE = "dados/vetores/faiss_index"
-
-def carregar_robô_rag(k=4):
-    """
-    Carrega o índice vetorial FAISS e retorna a cadeia RAG para perguntas jurídicas.
-    """
+def carregar_robô_rag(area: str = "previdenciario", k: int = 4):
+    caminho_indice = CAMINHO_INDICE  # Usa o diretório base, sem sufixo de área
+    if not os.path.exists(caminho_indice):
+        raise FileNotFoundError(f"Índice FAISS não encontrado em {caminho_indice}.")
     embeddings = OpenAIEmbeddings(api_key=os.getenv("OPENAI_API_KEY"))
-    faiss_index = FAISS.load_local(
-        CAMINHO_INDICE,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
-
+    faiss_index = FAISS.load_local(caminho_indice, embeddings, allow_dangerous_deserialization=True)
     qa_chain = RetrievalQA.from_chain_type(
         llm=ChatOpenAI(
             model_name="gpt-4",
@@ -30,20 +26,17 @@ def carregar_robô_rag(k=4):
     )
     return qa_chain
 
-def responder_pergunta(pergunta: str) -> str:
-    """
-    Executa o fluxo RAG: busca nos vetores + consulta ao modelo GPT.
-    """
-    chain = carregar_robô_rag()
+async def responder_pergunta(pergunta: str, area: str = "previdenciario", k: int = 4) -> str:
+    if not pergunta.strip():
+        raise ValueError("Pergunta não pode ser vazia.")
+    cache_key = f"rag:{pergunta}:{area}"
+    async with cache as r:
+        cached = await r.get(cache_key)
+        if cached:
+            return cached
+    chain = carregar_robô_rag(area, k)
     resposta = chain.invoke(pergunta)
-    return resposta
-
-if __name__ == "__main__":
-    pergunta = input("🔎 Faça sua pergunta jurídica: ")
-    resposta = responder_pergunta(pergunta)
-
-    # Tratamento elegante da resposta
-    if isinstance(resposta, dict) and "result" in resposta:
-        print(f"\n🤖 Resposta:\n{resposta['result']}")
-    else:
-        print(f"\n🤖 Resposta:\n{resposta}")
+    resposta_str = resposta.get("result", str(resposta)) if isinstance(resposta, dict) else str(resposta)
+    async with cache as r:
+        await r.setex(cache_key, 3600, resposta_str)
+    return resposta_str
