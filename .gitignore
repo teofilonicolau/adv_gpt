@@ -1,7 +1,7 @@
 # 🧠 Ambientes virtuais e dependências
 venv/
 .env
-__pycache__/
+_pycache_/
 *.pyc
 
 # 📂 Dados dinâmicos gerados pelo pipeline
@@ -23,8 +23,11 @@ relatorios/*.csv
 logs/
 *.log
 *.sqlite3
+*.db
+app.db
+dump.rdb
 
-# 🗃️ Arquivos temporários e auxiliares
+# 🗃 Arquivos temporários e auxiliares
 *.docx
 *.pdf
 *.bat
@@ -46,7 +49,7 @@ dados/textos_revisados/exemplo_*.txt
 .idea/
 .DS_Store
 
-# 🛠️ Scripts auxiliares e executáveis
+# 🛠 Scripts auxiliares e executáveis
 inicia_revisor.bat
 inicia_painel_central.bat
 
@@ -57,7 +60,3 @@ dados/vetores/
 # 🌐 Arquivos de requisição HTTP/REST (testes de API)
 *.http
 *.rest
-
-app.db
-*.db
-

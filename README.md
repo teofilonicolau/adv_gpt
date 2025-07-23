@@ -349,6 +349,13 @@ streamlit run streamlit_apps\analisador_lexico.py
 
 🧠 *Automação com rastreabilidade e propósito. Esse é o PrevInfoBot.*
 
-
-
+---
+### RAG Jurídico
+A funcionalidade de consulta jurídica usa Retrieval-Augmented Generation (RAG):
+- **Índice FAISS**: Carrega documentos de `dados/vetores/faiss_index`.
+- **Embeddings**: `OpenAIEmbeddings` para vetorização.
+- **LLM**: `ChatOpenAI` (GPT-4, temperatura 0.3) para respostas precisas.
+- **Cadeia**: `RetrievalQA` com `chain_type="stuff"`, buscando 4 documentos mais relevantes.
+A lógica está em `app/services/rag.py` e é exposta via endpoint `/consultar`.
+----
 Comandado por **Teófilo**, com apoio do Copilot ⚖️
