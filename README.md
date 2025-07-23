@@ -343,6 +343,7 @@ Agora o projeto conta com um painel visual para **análise de termos mais freque
 ```powershell
 .\venv\Scripts\Activate.ps1
 streamlit run streamlit_apps\analisador_lexico.py
+```
 
 
 ---
