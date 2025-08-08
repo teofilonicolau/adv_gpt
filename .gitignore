@@ -1,35 +1,48 @@
-# 🧠 Ambientes virtuais e dependências
+# Ambiente e dependências
 venv/
-.env
-_pycache_/
+node_modules/
+jspm_packages/
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# 📂 Dados dinâmicos gerados pelo pipeline
+# Configuração sensível
+.env
+.env.*
+firebase-service-account.json
+
+# Dados e arquivos gerados
+dados/peticoes_geradas/
 dados/textos_pendentes/
 dados/textos_revisados/
 dados/textos_limpos/
 dados/textos_descartados/
-dados/textos/.txt
 dados/fontes_convertiveis/
 dados/fontes_extra/
-dados/*.doc
-dados/*.docx
-dados/*.pdf
-dados/*.png
+dados/vetores/
+dados/vetores/faiss_index/
 
-# 📊 Logs e bancos temporários
-relatorios/log_revisoes.csv
-relatorios/*.csv
+# Imagens de clientes (se não quiser versionar)
+dados/logos_clientes/*.png
+dados/logos_clientes/*.jpg
+dados/logos_clientes/*.jpeg
+
+# Logs e bancos temporários
 logs/
 *.log
+relatorios/*.csv
+relatorios/log_revisoes.csv
 *.sqlite3
 *.db
 app.db
 dump.rdb
 
-# 🗃 Arquivos temporários e auxiliares
-*.docx
-*.pdf
+# Temporários e auxiliares
+*.tmp
+*.temp
+*.swp
+*.swo
 *.bat
 *.sh
 *.ipynb
@@ -37,26 +50,33 @@ dump.rdb
 executa_tudo.py
 drivers/
 
-# 🧪 Arquivos de teste simulados
-dados/textos_pendentes/exemplo_*.txt
-dados/textos_revisados/exemplo_*.txt
-
-# 🧰 Cache e arquivos do Streamlit
-.streamlit/
-
-# 💻 Configurações locais de IDEs
+# Configurações locais IDE
 .vscode/
 .idea/
 .DS_Store
+Thumbs.db
 
-# 🛠 Scripts auxiliares e executáveis
-inicia_revisor.bat
-inicia_painel_central.bat
+# Cache e ferramentas
+.cache/
+.tmp/
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
 
-# 🚫 Evita subir arquivos de índice vetorial pesados
-dados/vetores/faiss_index/
-dados/vetores/
-
-# 🌐 Arquivos de requisição HTTP/REST (testes de API)
+# Teste e exemplos
+dados/textos_pendentes/exemplo_*.txt
+dados/textos_revisados/exemplo_*.txt
 *.http
 *.rest
+
+# Build
+dist/
+dist-ssr/
+build/
+out/
+.vite/
+
+# Locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

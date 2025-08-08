@@ -1,4 +1,5 @@
-from fastapi import APIRouter, UploadFile, Form, HTTPException
+from fastapi import APIRouter, UploadFile, Form, HTTPException, Depends
+from app.core.auth_combined import get_usuario_autenticado
 import os
 from pathlib import Path
 
@@ -7,11 +8,11 @@ PASTA_LOGOS = Path("dados/logos_clientes")
 PASTA_LOGOS.mkdir(parents=True, exist_ok=True)
 
 @router.post("/upload_logo")
-def upload_logo(id_escritorio: str = Form(...), arquivo: UploadFile = Form(...)):
-    """
-    Recebe a logo (.png ou .jpg) de um escritório e salva localmente com nome vinculado ao id.
-    Ex: logo_123.png para o escritório com id '123'
-    """
+def upload_logo(
+    id_escritorio: str = Form(...),
+    arquivo: UploadFile = Form(...),
+    usuario=Depends(get_usuario_autenticado)
+):
     if not arquivo.filename.lower().endswith((".png", ".jpg", ".jpeg")):
         raise HTTPException(status_code=400, detail="Formato inválido. Envie um .png ou .jpg.")
 
@@ -21,4 +22,8 @@ def upload_logo(id_escritorio: str = Form(...), arquivo: UploadFile = Form(...))
     with open(caminho_final, "wb") as f:
         f.write(arquivo.file.read())
 
-    return {"mensagem": "Logo enviada com sucesso!", "caminho": str(caminho_final)}
+    return {
+        "mensagem": "Logo enviada com sucesso!",
+        "caminho": str(caminho_final),
+        "usuario": usuario["email"]
+    }

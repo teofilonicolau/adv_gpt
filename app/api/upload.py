@@ -1,6 +1,6 @@
 from fastapi import APIRouter, UploadFile, File, Form, Depends
 from pathlib import Path
-from app.core.deps import get_current_user
+from app.core.auth_combined import get_usuario_autenticado
 from app.models.documento import Documento
 from app.core.db import get_db
 from sqlalchemy.orm import Session
@@ -11,10 +11,10 @@ router = APIRouter()
 @router.post("/upload_documento")
 async def upload_documento(
     arquivo: UploadFile = File(...),
-    usuario=Depends(get_current_user),
+    usuario=Depends(get_usuario_autenticado),
     db: Session = Depends(get_db)
 ):
-    caminho = Path(f"dados/clientes/{usuario.id}/documentos")
+    caminho = Path(f"dados/clientes/{usuario.get('id', usuario.get('uid'))}/documentos")
     caminho.mkdir(parents=True, exist_ok=True)
 
     destino = caminho / arquivo.filename
@@ -25,7 +25,7 @@ async def upload_documento(
         nome_original=arquivo.filename,
         tipo=arquivo.content_type,
         caminho_arquivo=str(destino),
-        usuario_id=usuario.id
+        usuario_id=usuario.get("id")  # se for Firebase, esse campo pode ser nulo
     )
     db.add(doc)
     db.commit()
@@ -33,5 +33,5 @@ async def upload_documento(
 
     return {
         "mensagem": f"Arquivo '{arquivo.filename}' salvo com sucesso!",
-        "usuario_id": usuario.id
+        "usuario": usuario["email"]
     }

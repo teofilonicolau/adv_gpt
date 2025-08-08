@@ -1,23 +1,12 @@
-# app/api/download_peticao.py
-
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
 from fastapi.responses import FileResponse
+from app.core.auth_combined import get_usuario_autenticado
 import os
 
 router = APIRouter()
 
 @router.get("/api/download_peticao")
-def download_peticao(arquivo: str):
-    """
-    Endpoint para download de petições geradas.
-
-    Parâmetros:
-    - arquivo (str): nome do arquivo a ser baixado.
-
-    Retorno:
-    - FileResponse: arquivo solicitado, caso exista.
-    - HTTP 404: se o arquivo não for encontrado.
-    """
+def download_peticao(arquivo: str, usuario=Depends(get_usuario_autenticado)):
     caminho = os.path.abspath(os.path.join("dados", "peticoes_geradas", arquivo))
     
     if not os.path.exists(caminho):
