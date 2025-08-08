@@ -1,7 +1,9 @@
 # app/main.py
 
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware  # ✅ IMPORTAÇÃO CORRETA
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi_limiter import FastAPILimiter
+import redis.asyncio as redis
 from app.api import (
     router,
     aprofundar_resposta,
@@ -9,13 +11,14 @@ from app.api import (
     download_peticao,
     pdf_final,
     upload,
-    documentos  # ✅ nova rota protegida
+    upload_logo,  # ✅ ADICIONE ESTA LINHA
+    documentos
 )
 from app.core.db import engine
 from app.models.usuario import Base
-from app.models.documento import Documento  # ✅ tabela Documento
+from app.models.documento import Documento
 
-Base.metadata.create_all(bind=engine)  # ✅ Cria todas as tabelas no SQLite
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="⚖️ Previnfobot API",
@@ -32,15 +35,22 @@ app = FastAPI(
         {"name": "Geração de Petições", "description": "Automatização"},
         {"name": "Geração de PDF final", "description": "Download dos documentos"},
         {"name": "Upload de Documentos", "description": "Upload por escritório"},
+        {"name": "Upload de Logo", "description": "Upload de logo do escritório"},  # ✅ NOVA TAG
         {"name": "Documentos", "description": "Histórico de documentos do usuário"},
         {"name": "Autenticação", "description": "Login e registro de usuários"}
     ]
 )
 
-# ✅ ATIVA O CORS PARA COMUNICAR COM O FRONT-END EM localhost:5173
+# ✅ INICIALIZAÇÃO DO FASTAPI LIMITER
+@app.on_event("startup")
+async def startup():
+    redis_client = redis.from_url("redis://localhost:6379", encoding="utf-8", decode_responses=True)
+    await FastAPILimiter.init(redis_client)
+
+# ✅ CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # ou ["*"] durante testes internos
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -53,4 +63,5 @@ app.include_router(elabora_peca.router, tags=["Geração de Petições"])
 app.include_router(download_peticao.router)
 app.include_router(pdf_final.router, tags=["Geração de PDF final"])
 app.include_router(upload.router, tags=["Upload de Documentos"])
+app.include_router(upload_logo.router, tags=["Upload de Logo"])  # ✅ ADICIONE ESTA LINHA
 app.include_router(documentos.router, tags=["Documentos"])

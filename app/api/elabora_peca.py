@@ -1,7 +1,8 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import List
 from src.documentos.elaborador_pecas import gerar_peticao
+from app.core.auth_combined import get_usuario_autenticado
 
 router = APIRouter()
 
@@ -15,7 +16,7 @@ class PeticaoRequest(BaseModel):
     local: str = "Icó/CE"
 
 @router.post("/api/elabora_peca")
-def elabora_peca(payload: PeticaoRequest):
+def elabora_peca(payload: PeticaoRequest, usuario=Depends(get_usuario_autenticado)):
     caminho, metodo_pdf = gerar_peticao(
         nome_arquivo=payload.nome_arquivo,
         titulo=payload.titulo,
@@ -25,10 +26,9 @@ def elabora_peca(payload: PeticaoRequest):
         pedidos=payload.pedidos,
         local=payload.local
     )
-
     return {
         "mensagem": "✅ Petição gerada com sucesso!",
         "arquivo_docx": caminho,
         "arquivo_pdf": caminho.replace(".docx", ".pdf"),
-        "metodo_pdf": metodo_pdf  # <- agora o método usado (word, fallback ou erro) será retornado
+        "metodo_pdf": metodo_pdf
     }
